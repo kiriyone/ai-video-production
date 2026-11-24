@@ -1,0 +1,14 @@
+scene_id,start_seconds,end_seconds,duration_seconds,time_layer,action
+SC01,0,10,10,present,usual_reply
+SC02A,10,18,8,present,self_reminder
+SC02B,18,33,15,one_year_ago,doctor_prognosis
+SC02C,33,45,12,one_year_ago,schedule_own_reminder
+SC03,45,65,20,present,one_year_has_passed
+SC04,65,93,28,present,cannot_tell_mother
+SC05,93,108,15,present,postponement_trigger
+SC06,108,124,16,subjective_memories,life_montage
+SC07,124,145,21,present,show_own_note
+SC08,145,195,50,present,mother_learns_prognosis
+SC09,195,220,25,present,cannot_find_words
+SC10,220,250,30,present,words_reach_mother
+SC11,250,260,10,present,death_and_aftermath
