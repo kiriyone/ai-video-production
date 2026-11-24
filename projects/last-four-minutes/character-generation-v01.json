@@ -1,0 +1,65 @@
+{
+  "project": "Last Four Minutes",
+  "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+  "version": "v01",
+  "status": "completed_pending_user_review",
+  "setting": "present-day Japan; Edo proposal withdrawn",
+  "characters": {
+    "ken": {
+      "age": 32,
+      "hair": "golden blond gyaruo long layers with dark roots",
+      "personality": "cheeky, warm, conceals vulnerability"
+    },
+    "mother": {
+      "age": 50,
+      "hair": "dark mixed gray, simple low ponytail",
+      "costume": "modest clean worn everyday clothing"
+    }
+  },
+  "quoted_credits": 8.75,
+  "model": "gpt_image_2_6",
+  "resolution": "2k",
+  "quality": "medium",
+  "assets": [
+    {
+      "index": 0,
+      "job_id": "af410df2-5120-426b-845c-5c291702c85f",
+      "name": "ken-identity",
+      "prompt": "Photorealistic live-action film production reference sheet, horizontal 16:9, clean warm light gray studio backdrop, soft neutral diffuse light, accurate natural skin and fabric textures, no dramatic grading, no illustration, no logos, no watermarks. Present-day Japan, not historical. Original fictional designs. KEN — a single consistent original fictional Japanese man age 32, slim ordinary build, slightly tanned skin, warm dark brown eyes, approachable cheeky face with subtle adult eye creases, clean-shaven. Distinct gyaruo hairstyle: layered golden bleached blond medium-long hair with dark grown-out roots, long side-swept fringe, feathered messy ends to nape, not a short modern fade. Small silver stud earring. Not a celebrity or copy of an existing person. Identity casting sheet, not fashion: plain charcoal crewneck T-shirt and simple dark trousers, barefoot. Precise layout: left half three large head-and-shoulder portraits front neutral, three-quarter tiny friendly closed-mouth smile, true side profile; right half two full-body views front and back in relaxed neutral stance. Same face, hair length, body proportions in every panel. Head and feet uncropped, clear spacing, no props or phone. Label only 'KEN / IDENTITY / V01'. Emphasize realistic 32-year-old Japanese adult, not teenage idol, not cosmetic airbrushing.",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_223030_af410df2-5120-426b-845c-5c291702c85f.png"
+    },
+    {
+      "index": 1,
+      "job_id": "e623edcb-869d-4d41-843e-33d876056c03",
+      "name": "mother-identity",
+      "prompt": "Photorealistic live-action film production reference sheet, horizontal 16:9, clean warm light gray studio backdrop, soft neutral diffuse light, accurate natural skin and fabric textures, no dramatic grading, no illustration, no logos, no watermarks. Present-day Japan, not historical. Original fictional designs. MOTHER — a single consistent original fictional Japanese woman exactly age 50, healthy ordinary slim-to-average build, warm attentive brown eyes, subtle crow's feet and nasolabial lines, natural skin texture, slightly tired but capable and kind, neither frail nor elderly. Dark hair with clearly visible scattered silver gray strands at temples and part, gathered in a simple low ponytail, a few loose strands. No cosmetics glamour, no jewelry. Identity casting sheet, not costume: plain muted taupe long-sleeve cotton shirt, simple charcoal trousers, barefoot. Precise layout: left half three large head-and-shoulder portraits front neutral, three-quarter small warm smile, true side profile; right half two full-body views front and back in relaxed stance. Same face, age, hair and body in all panels. Include natural slightly work-worn hands in full-body views, no exaggerated dirt. Head and feet uncropped, clear spacing. No apron or cardigan on this identity sheet; those will be separate costume references. Label only 'MOTHER / AGE 50 / IDENTITY / V01'.",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_223029_e623edcb-869d-4d41-843e-33d876056c03.png"
+    },
+    {
+      "index": 2,
+      "job_id": "80cebf36-23d4-4972-ac80-c1046067c8b0",
+      "name": "ken-wardrobe",
+      "prompt": "Photorealistic live-action film production reference sheet, horizontal 16:9, clean warm light gray studio backdrop, soft neutral diffuse light, accurate natural skin and fabric textures, no dramatic grading, no illustration, no logos, no watermarks. Present-day Japan, not historical. Original fictional designs. KEN COSTUME ONLY, no person, no face, no body, no mannequin, separately arranged garment-only wardrobe flat-lay sheet. A worn-in early-2000s Japanese gyaruo style yellow zip-up hoodie with original bold magenta, black and cream abstract geometric patches and stripes, no readable slogans or trademark motifs; yellow hood lining, silver zipper. The exact SAME hoodie displayed flat front and flat back side by side in upper half, full sleeves visible, consistent pattern construction across views. Lower half neatly separate plain white scoop-neck cotton T-shirt, faded black straight-leg jeans front view, thin silver chain necklace, one tiny silver stud earring. Everyday affordable clothing lightly softened by washing, not luxury fashion or distressed costume. Clear isolated silhouettes, garment scale plausible, evenly lit textile texture. Title 'KEN / WARDROBE / V01'. No shoes because interior home scene, no phone.",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_223030_80cebf36-23d4-4972-ac80-c1046067c8b0.png"
+    },
+    {
+      "index": 3,
+      "job_id": "9d975c64-28a8-4626-8cd1-887d2c53154b",
+      "name": "mother-wardrobe",
+      "prompt": "Photorealistic live-action film production reference sheet, horizontal 16:9, clean warm light gray studio backdrop, soft neutral diffuse light, accurate natural skin and fabric textures, no dramatic grading, no illustration, no logos, no watermarks. Present-day Japan, not historical. Original fictional designs. MOTHER COSTUME ONLY, no person, no face, no body, no mannequin. Film wardrobe flat-lay reference board for modest hardworking 50-year-old Japanese mother. Each garment separate, never attached to a person. Organized rows: upper row the SAME faded oatmeal beige knitted button cardigan front and back, simple practical mid-hip length, softened cuffs, small plain brown buttons; middle row plain off-white cotton crewneck shirt and charcoal straight relaxed trousers; lower row the SAME washed dusty blue-gray cotton apron front and back, two practical lower front pockets, neck loop and waist ties correctly shown, subtle wear but clean and well cared for. Consistent neutral scale and materials, realistic knit and cotton textures. No artificial poverty, rips or stains, no luxury labels or decorative patterns. Clear spaces between each item. Title 'MOTHER / WARDROBE / V01'. No props, no shoes.",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_223030_9d975c64-28a8-4626-8cd1-887d2c53154b.png"
+    }
+  ],
+  "revision": {
+    "job_id": "98baadfa-f019-48a9-8eff-2b2a1b25aca1",
+    "source_job_id": "e623edcb-869d-4d41-843e-33d876056c03",
+    "prompt": "Correct this exact character identity sheet with minimal change. Preserve the woman's identity, all faces, age 50, gray-streaked dark ponytail, body proportions, neutral clothing, arrangement and title. In the front-facing full-body view, her left hand (on the viewer's right) is unnaturally purple/pink, as if a glove. Replace only that discoloration with natural warm human skin tone matching her other hand, forearms and face. Both hands are bare, healthy and anatomically natural, five fingers each. No glove, no bruising, no purple skin, no injury. Preserve everything else faithfully. This is the same fictional original mother, photorealistic studio production reference.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_223257_98baadfa-f019-48a9-8eff-2b2a1b25aca1.png",
+    "reason": "母の全身正面図の片手が紫色だったため修正。修正後を目視確認済み。",
+    "status": "completed_pending_user_review"
+  }
+}
