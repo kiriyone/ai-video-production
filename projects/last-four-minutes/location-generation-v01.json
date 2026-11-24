@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-24",
+  "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+  "folder_id": "0b226405-aeae-4c64-9627-7d426e6f0edd",
+  "estimated_credits": 3.75,
+  "balance_reconciled": false,
+  "master": {
+    "job_id": "39a68ec1-0f81-49ad-8eca-128682ddfde6",
+    "status": "completed",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_230939_39a68ec1-0f81-49ad-8eca-128682ddfde6.png",
+    "params": {
+      "model": "gpt_image_2_6",
+      "quality": "low",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "0b226405-aeae-4c64-9627-7d426e6f0edd",
+      "prompt": "Photorealistic live action Japanese drama LOCATION MASTER, one single wide frame, no collage, no people, no text. Modern day modest Japanese rented apartment, lived in by a hard-working 50-year-old mother. An ordinary warm cared-for home, not luxury, not destitute or abandoned. Small rectangular open living-dining-kitchen about 4 by 6 meters, realistic 2.4m ceiling. Camera eye level 1.4m from front-right corner looking diagonally 45 degrees toward back-left, natural 28mm lens without fisheye. Show useful continuous floor space and three-dimensional layout. In foreground LEFT a worn clean muted taupe TWO-seat fabric sofa along the left wall, with a neatly folded faded blue blanket on its left arm, no coffee table. A large window behind/above sofa on left wall with offwhite sheer curtain, soft overcast afternoon daylight ONLY from this left window. At middle-right exactly ONE small rectangular wooden dining table with exactly two chairs opposite each other, one plain ceramic mug and a small tissue box. Clear 85cm walking route between sofa/table and kitchen. At BACK RIGHT one compact straight kitchen counter against back wall: small white fridge at far right, two burner gas stove immediately to fridge's left, steel sink to stove's left, faded cream cupboards above. One small saucepan on stove, chopstick rest beside stove, clean tea towel hung by sink. No island, no duplicate counters/tables. Back-left doorway to hall. Scuffed honey oak vinyl flooring, slightly aged warm offwhite walls. Small pinned grocery receipt, mended curtain hem and worn clean chair edges convey years of care, understated everyday life. Real material textures, gentle neutral-warm color, quiet intimate contemporary Japanese cinema. No horror lighting, no theatrical sunbeams, no orange filter. All furniture physically grounded. Empty home is awaiting mother and adult son; leave room for them to stand at table and sit side by side on sofa."
+    }
+  },
+  "angles": [
+    {
+      "index": 0,
+      "job_id": "c9cf1832-518b-402a-a6b6-61f2bcca9759",
+      "status": "completed",
+      "type": "image",
+      "model": "gpt_image_2_6",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_231103_c9cf1832-518b-402a-a6b6-61f2bcca9759.png",
+      "params": {
+        "model": "gpt_image_2_6",
+        "quality": "low",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "0b226405-aeae-4c64-9627-7d426e6f0edd",
+        "medias": [
+          {
+            "role": "image",
+            "value": "39a68ec1-0f81-49ad-8eca-128682ddfde6"
+          }
+        ],
+        "prompt": "Create a second camera setup in the EXACT SAME empty apartment of the reference photograph. Photorealistic color single frame, no people, no panels, no text. This is continuity coverage, preserve architectural layout and object placement, do not redesign. Move camera closer to the two-seat taupe sofa from its front-right at a gentle diagonal 35-45 degree angle, eye height of a seated person 1.1m, 35mm natural lens. Both seat cushions and both arms visible at normal human scale with space for mother and adult son, folded dusty blue blanket stays on left arm. Sofa remains against left window wall, sheer curtains behind, hall doorway behind to screen right, edge of the ONE dining table at extreme right may be cropped. Do not move kitchen behind sofa, do not mirror. Preserve soft overcast daylight entering the left wall window and original subdued warm-neutral color and worn-clean upholstery, gentle shadow detail. Calm intimate final conversation background, no theatrical sadness or horror, no invented props."
+      }
+    },
+    {
+      "index": 1,
+      "job_id": "d67c41f4-d1f6-4fdd-8a8d-dcd203fda70b",
+      "status": "completed",
+      "type": "image",
+      "model": "gpt_image_2_6",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_231104_d67c41f4-d1f6-4fdd-8a8d-dcd203fda70b.png",
+      "params": {
+        "model": "gpt_image_2_6",
+        "quality": "low",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "0b226405-aeae-4c64-9627-7d426e6f0edd",
+        "medias": [
+          {
+            "role": "image",
+            "value": "39a68ec1-0f81-49ad-8eca-128682ddfde6"
+          }
+        ],
+        "prompt": "Create a closer kitchen camera setup in the EXACT SAME apartment as reference. Single photorealistic color frame, no people, no panels, no text. Camera in the clear walkway left of the dining table, eye level 1.4m, looking diagonally 45 degrees along original back-wall kitchen toward the fridge at right, 35mm lens. Preserve exact layout and same objects from source: from left to right steel sink, dish rack and utensil crock, freestanding two-burner gas cooker with dark rectangular front grill and two round control knobs on front right, white two-door fridge at far right with floral magnets and basket plant on top. Same stainless saucepan with lid and black handles on the right burner, left burner empty. All stove knobs visible and reachable from the open walkway, cooker controls must NOT be on fridge. Dining table's edge only in right foreground, never a second table or island. Preserve cream upper cupboards and range hood over stove, white tiled backsplash and sink towel. Overcast natural daylight from window to camera left as in reference, no new window above sink. Detailed believable aged-clean surfaces. Show a practical safe working space for mother. No rearrangement, mirror, extra doors, logos or generated typography."
+      }
+    }
+  ],
+  "review_status": "candidate; visually reviewed empty locations; human scale and motion not yet tested"
+}
