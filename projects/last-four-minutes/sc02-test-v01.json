@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-24",
+  "status": "review_candidate_not_final",
+  "image": {
+    "index": 0,
+    "job_id": "4d32d599-b31f-423a-b4b2-509a4bcb55d9",
+    "status": "completed",
+    "type": "image",
+    "model": "nano_banana_2",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_234133_4d32d599-b31f-423a-b4b2-509a4bcb55d9.png",
+    "requested_params": {
+      "model": "nano_banana_pro",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "0b226405-aeae-4c64-9627-7d426e6f0edd",
+      "medias": [
+        {
+          "role": "image",
+          "value": "fc70684d-4e29-41eb-a3bc-553bdb3560a3"
+        },
+        {
+          "role": "image",
+          "value": "af410df2-5120-426b-845c-5c291702c85f"
+        }
+      ],
+      "prompt": "Create a continuity close-up camera setup from reference1 for the next shot of a live-action Japanese family drama. Reference2 defines the SAME adult Japanese man Ken32, face identity and layered blond hair with dark roots. One realistic 16:9 color frame. Ken remains seated in the exact same taupe sofa, same yellow-magenta-cream-black hoodie over white T-shirt, same afternoon soft window light, same smartphone in BOTH hands. Camera is closer, at seated eye level from the same room side, natural 50mm lens, three-quarter chest-up, Ken in RIGHT HALF of frame, facing slightly screen right and looking DOWN at the phone held low near his lap. His hands and the top of the dark phone appear bottom-right, screen faces Ken not camera. Left third contains only softly focused taupe sofa/window curtain; leave it free of faces/hands for later editorial notification graphic. No change of haircut, facial features, hoodie print, apartment or light direction. His expression is a small distracted easy smile BEFORE an unexpected notification, relaxed closed lips; no fear or shock yet. Natural skin, no glamour retouch. Do not show mother or invent any new person. Preserve physically connected fingers gripping solid phone. No notification, text, subtitles, symbols, countdown or graphic generated inside image. Single shot not collage."
+    }
+  },
+  "video": {
+    "index": 0,
+    "job_id": "069e182d-2d8d-402f-b83b-4b85af462c4c",
+    "status": "completed",
+    "type": "video",
+    "model": "seedance_2_5",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_234406_069e182d-2d8d-402f-b83b-4b85af462c4c.mp4",
+    "requested_params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 4,
+      "resolution": "480p",
+      "draft": true,
+      "generate_audio": true,
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "5cbce348-d145-4dbc-92ca-2d040c5bb020",
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "4d32d599-b31f-423a-b4b2-509a4bcb55d9"
+        }
+      ],
+      "prompt": "Single continuous locked-off close-up, 4 seconds, live-action Japanese family drama. Preserve exactly the man, blond layered hair, hoodie, room, lighting and framing in the start image. Ken holds the same solid smartphone in BOTH hands throughout. At 0.3 seconds the phone gives one short muted notification vibration. His moving thumb stops. He reads something unexpected: his easy little smile slowly disappears, eyes refocus downward, lips settle shut, a small breath catches. By 2.5 seconds his expression is still and quietly unsettled, as if he recognizes terrible news but cannot yet accept it. Hold this restrained reaction until the end. No screaming, crying, exaggerated shock, head turn, looking at camera, speaking, standing, phone flipping, added people, camera movement or cuts. Keep both hands and fingers anatomically continuous. Screen faces him and is not readable. No text, countdown, subtitles, UI, icons or graphics generated in the image. Sound: very low natural indoor room tone, one subtle phone vibration, restrained breath; NO dialogue and NO music."
+    }
+  },
+  "folder_id": "5cbce348-d145-4dbc-92ca-2d040c5bb020",
+  "actual": {
+    "duration_seconds": 4.041667,
+    "width": 854,
+    "height": 480,
+    "fps": 24,
+    "audio": "AAC 32000Hz stereo"
+  },
+  "overlay": {
+    "local_file": "04_FOOTAGE/SC02_NOTIFICATION_TEST/sc02-notification-review-v01.mp4",
+    "starts_seconds": 0.3,
+    "values": [
+      "04:00",
+      "03:59",
+      "03:58",
+      "03:57"
+    ],
+    "interval_seconds": 1,
+    "type": "editorial side panel, not tracked phone UI",
+    "filter": "drawbox=x=35:y=110:w=280:h=234:color=0x111820@0.90:t=fill:enable='gte(t,0.3)',\ndrawtext=fontfile='C\\:/Windows/Fonts/meiryo.ttc':textfile=notification-title.txt:fontsize=27:fontcolor=0xEEE9DF:x=55:y=129:enable='gte(t,0.3)',\ndrawtext=fontfile='C\\:/Windows/Fonts/meiryo.ttc':textfile=notification-name.txt:fontsize=19:fontcolor=0xDDD8CF:x=55:y=171:enable='gte(t,0.3)',\ndrawtext=fontfile='C\\:/Windows/Fonts/meiryo.ttc':textfile=notification-label.txt:fontsize=19:fontcolor=0xBFC3C7:x=55:y=210:enable='gte(t,0.3)',\ndrawtext=fontfile='C\\:/Windows/Fonts/meiryo.ttc':text='04\\:00':fontsize=53:fontcolor=0xEEE9DF:x=55:y=249:enable='gte(t,0.3)*lt(t,1.3)',\ndrawtext=fontfile='C\\:/Windows/Fonts/meiryo.ttc':text='03\\:59':fontsize=53:fontcolor=0xEEE9DF:x=55:y=249:enable='gte(t,1.3)*lt(t,2.3)',\ndrawtext=fontfile='C\\:/Windows/Fonts/meiryo.ttc':text='03\\:58':fontsize=53:fontcolor=0xEEE9DF:x=55:y=249:enable='gte(t,2.3)*lt(t,3.3)',\ndrawtext=fontfile='C\\:/Windows/Fonts/meiryo.ttc':text='03\\:57':fontsize=53:fontcolor=0xEEE9DF:x=55:y=249:enable='gte(t,3.3)*lt(t,4.3)'"
+  },
+  "review": {
+    "sampled_frames": 8,
+    "sample_interval_seconds": 0.5,
+    "observed": "Small smile fades to subdued serious expression; both hands retain phone; no gross object/person swaps visible in sampled frames.",
+    "limitations": [
+      "No auditory verification of vibration/breath or unwanted speech.",
+      "No notification voice or dialogue added.",
+      "Not full 30-second SC02.",
+      "Continuity with SC01 and finer fingers/face motion not fully verified.",
+      "Hoodie pattern differs from original character sheet."
+    ]
+  },
+  "cost_credits": 14
+}
