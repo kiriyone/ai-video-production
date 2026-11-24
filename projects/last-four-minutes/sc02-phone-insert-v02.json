@@ -1,0 +1,18 @@
+{
+  "job_id": "1dd81d21-44b7-4c22-a07e-88a85bdaec1a",
+  "cost": 2,
+  "params": {
+    "model": "nano_banana_pro",
+    "resolution": "2k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "5cbce348-d145-4dbc-92ca-2d040c5bb020",
+    "medias": [
+      {
+        "role": "image",
+        "value": "4d32d599-b31f-423a-b4b2-509a4bcb55d9"
+      }
+    ],
+    "prompt": "Create a cinematic insert shot for the same scene shown in reference: Ken, adult Japanese man, seated on taupe sofa in modest Japanese home, wearing the same yellow/magenta/cream/black hoodie. EXTREME CLOSEUP from his eye viewpoint of his dark modern smartphone held upright portrait orientation in BOTH hands. Only hands and sleeve cuffs and phone, no face. Phone is centered in horizontal 16:9 film frame, occupies 85 percent of frame height. Camera optical axis square to the screen: screen rectangle is front-facing, upright, level and parallel to camera image plane, no tilt or foreshortening. Entire phone including rounded corners visible. Thin matte black bezel, small centered circular front camera, realistic glass. Screen is switched on but completely uniform near-black blank, no reflection obscuring screen, NO text, digits, UI, logos or symbols. Fingers grip side and bottom without covering any screen area, hands anatomically natural. Shallow depth of field, soft warm-gray sofa and dark jeans blurred in background, soft daylight from left. Photorealistic natural skin and gentle glass reflection only at outer bezel. This is a genuine handheld phone close-up for later screen replacement, not a floating graphic or product advertisement."
+  }
+}
