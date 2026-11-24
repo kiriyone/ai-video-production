@@ -1,0 +1,97 @@
+{
+  "status": "completed_reviewed_v02_composition_draft",
+  "references": [
+    {
+      "role": "image",
+      "value": "af410df2-5120-426b-845c-5c291702c85f"
+    },
+    {
+      "role": "image",
+      "value": "98baadfa-f019-48a9-8eff-2b2a1b25aca1"
+    },
+    {
+      "role": "image",
+      "value": "80cebf36-23d4-4972-ac80-c1046067c8b0"
+    },
+    {
+      "role": "image",
+      "value": "9d975c64-28a8-4626-8cd1-887d2c53154b"
+    }
+  ],
+  "initial": [
+    {
+      "index": 0,
+      "job_id": "3d3b904d-0e14-4224-8815-f6fc3ed5fc86",
+      "status": "completed",
+      "type": "image",
+      "model": "seedream_5_0_flash",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_224247_3d3b904d-0e14-4224-8815-f6fc3ed5fc86.png",
+      "prompt": "BLACK AND WHITE pencil-and-ink film storyboard, grayscale only, four equal widescreen panels in a precise 2x2 grid, numbered top-left 1 top-right 2 bottom-left 3 bottom-right 4. Simple legible drawn staging, not photorealistic, not color, no speech balloons, no dialogue text, no arrows except subtle gaze indication. Use supplied reference 1 ONLY for Ken's identity/hair, reference 2 for mother's identity, reference 3 for Ken's clothes, reference 4 for mother's clothes. Ken age32 with long layered bleached blond hair wears the geometric patterned hoodie OPEN over white tee and dark jeans. Mother age50 has gray-streaked dark ponytail, modest cardigan and apron. Fictional contemporary Japanese domestic drama, never Edo. PROVISIONAL STAGE PLAN: one modest lived-in open living/dining/kitchen room. Sofa foreground LEFT against left wall. Rectangular wooden dining table center, stove along rear RIGHT wall, one window on left wall. Daylight comes from left. Maintain geography. When face-to-face Ken remains screen LEFT looking RIGHT, mother screen RIGHT looking LEFT; cameras stay south of their axis. Only one black smartphone, no extra duplicates. No death depiction on these pages. These are composition tests, not final location design. PAGE OPENING: Panel1 wide 35mm equivalent from front-left doorway, diagonal view showing room depth: Ken relaxed on left sofa absorbed in phone in his RIGHT hand, mother cooking at rear-right stove. Large emotional distance despite same room. Panel2 medium mother turns head left toward Ken while still beside stove, chopsticks in her right hand hovering above pan, gentle everyday question. Panel3 close-up Ken with casual evasive half-smile eyes down to smartphone held in right hand below chin, left hand resting on lap. Panel4 tight insert of SAME phone upright in his RIGHT hand, thumb motionless, blank light screen reserved for later notification text overlay; a slim edge of patterned sleeve visible. Everyday quiet becomes interruption. No readable text inside phone. Leave room for screen text."
+    },
+    {
+      "index": 1,
+      "job_id": "d836df71-be4f-4e53-ac48-68cdd8bc1826",
+      "status": "completed",
+      "type": "image",
+      "model": "seedream_5_0_flash",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_224247_d836df71-be4f-4e53-ac48-68cdd8bc1826.png",
+      "prompt": "BLACK AND WHITE pencil-and-ink film storyboard, grayscale only, four equal widescreen panels in a precise 2x2 grid, numbered top-left 1 top-right 2 bottom-left 3 bottom-right 4. Simple legible drawn staging, not photorealistic, not color, no speech balloons, no dialogue text, no arrows except subtle gaze indication. Use supplied reference 1 ONLY for Ken's identity/hair, reference 2 for mother's identity, reference 3 for Ken's clothes, reference 4 for mother's clothes. Ken age32 with long layered bleached blond hair wears the geometric patterned hoodie OPEN over white tee and dark jeans. Mother age50 has gray-streaked dark ponytail, modest cardigan and apron. Fictional contemporary Japanese domestic drama, never Edo. PROVISIONAL STAGE PLAN: one modest lived-in open living/dining/kitchen room. Sofa foreground LEFT against left wall. Rectangular wooden dining table center, stove along rear RIGHT wall, one window on left wall. Daylight comes from left. Maintain geography. When face-to-face Ken remains screen LEFT looking RIGHT, mother screen RIGHT looking LEFT; cameras stay south of their axis. Only one black smartphone, no extra duplicates. No death depiction on these pages. These are composition tests, not final location design. PAGE SC08-A MOTHER UNDERSTANDS: Table separates them at an angle, Ken left, mother right. SINGLE PHONE lies flat SCREEN UP on table in front of mother, top edge facing away from her, correctly readable from her seat, never held upright. Panel1 35mm medium two-shot, both STANDING at table, mother bends slightly to read phone while Ken watches her face, kitchen stove behind mother. Panel2 tight high-angle insert from mother's side of same phone flat on tabletop, no hand holding it, blank light screen for later editing. Panel3 65mm close-up mother looking down, beginning recognition, lips part slightly, not yet crying. Panel4 matched 65mm close-up Ken on left facing right, eyes toward mother, tiny affirmative nod position, smile gone. Make down-to-phone then across-to-son eyeline unmistakable."
+    },
+    {
+      "index": 2,
+      "job_id": "def64a4b-82b9-4f9a-a884-6b3bb67e3317",
+      "status": "completed",
+      "type": "image",
+      "model": "seedream_5_0_flash",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_224247_def64a4b-82b9-4f9a-a884-6b3bb67e3317.png",
+      "prompt": "BLACK AND WHITE pencil-and-ink film storyboard, grayscale only, four equal widescreen panels in a precise 2x2 grid, numbered top-left 1 top-right 2 bottom-left 3 bottom-right 4. Simple legible drawn staging, not photorealistic, not color, no speech balloons, no dialogue text, no arrows except subtle gaze indication. Use supplied reference 1 ONLY for Ken's identity/hair, reference 2 for mother's identity, reference 3 for Ken's clothes, reference 4 for mother's clothes. Ken age32 with long layered bleached blond hair wears the geometric patterned hoodie OPEN over white tee and dark jeans. Mother age50 has gray-streaked dark ponytail, modest cardigan and apron. Fictional contemporary Japanese domestic drama, never Edo. PROVISIONAL STAGE PLAN: one modest lived-in open living/dining/kitchen room. Sofa foreground LEFT against left wall. Rectangular wooden dining table center, stove along rear RIGHT wall, one window on left wall. Daylight comes from left. Maintain geography. When face-to-face Ken remains screen LEFT looking RIGHT, mother screen RIGHT looking LEFT; cameras stay south of their axis. Only one black smartphone, no extra duplicates. No death depiction on these pages. These are composition tests, not final location design. PAGE SC08-B MOTHER CHOOSES TO STAY: SAME room and table, scene continues. Panel1 close insert mother's RIGHT index finger reaching toward SINGLE phone flat screen-up on table, finger stops just above glass, other fingers anatomically folded, no extra hands. Panel2 medium two-shot mother RIGHT touches Ken's LEFT cheek with her RIGHT palm, Ken LEFT looks into her eyes, phone stays on table below; she is checking the warmth of living son, conflicted not serene. Panel3 medium profile mother at stove rear-right turns stove control OFF with her LEFT hand while her RIGHT hand sets chopsticks onto a ceramic rest, controlled ordinary motion, not dramatic. Panel4 medium-wide both sitting close on LEFT sofa, Ken left and mother right in frame, mother resting her RIGHT hand on his LEFT forearm, both feet grounded, phone left behind on table visible to right. Ordinary room, quiet companionship, no smiles, mother attentive and frightened. No extra people."
+    }
+  ],
+  "revision": [
+    {
+      "index": 0,
+      "job_id": "76d4988e-3233-4636-a8b6-8bae71066cba",
+      "status": "completed",
+      "type": "image",
+      "model": "gpt_image_2_6",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_224643_76d4988e-3233-4636-a8b6-8bae71066cba.png",
+      "prompt": "Create EXACTLY FOUR equal panels, TWO columns by TWO rows, all landscape 16:9 frames, clean thin borders. Pure BLACK WHITE GRAY pencil STORYBOARD ONLY. ABSOLUTELY NO COLOR including clothing and hair: represent blond as pale graphite, colored patterns as gray shapes. No sub-panels, no extra frames. Small labels A B C D only. Original fictional Japanese mother age50 dark-gray ponytail and cardigan/apron from references, her son Ken32 shaggy blond hair and patterned zip hoodie from references. Reference1 Ken identity, reference2 mother identity, reference3 Ken wardrobe, reference4 mother wardrobe. Provisional contemporary open-plan home: left wall window and sofa, center dining table, back-right kitchen stove. Keep room consistent, no tatami or historical clothing. Expressions subtle. Opening board. A top-left: diagonal wide room view Ken sits on LEFT sofa holding ONE black phone in RIGHT hand, mother cooking in back-RIGHT kitchen. B top-right: medium mother at kitchen turns head screen LEFT toward son, her right hand holds chopsticks over pan. C bottom-left: close Ken, slight evasive half-smile, eyes down at phone in RIGHT hand. D bottom-right: insert phone in RIGHT hand with thumb on screen-right edge. Blank light rectangle screen reserved for text overlay. Do not draw any other phone screen. No captions. Each panel one composition."
+    },
+    {
+      "index": 1,
+      "job_id": "bb337434-7597-42f5-abb8-3d26cc9e31a8",
+      "status": "completed",
+      "type": "image",
+      "model": "gpt_image_2_6",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_224643_bb337434-7597-42f5-abb8-3d26cc9e31a8.png",
+      "prompt": "Create EXACTLY FOUR equal panels, TWO columns by TWO rows, all landscape 16:9 frames, clean thin borders. Pure BLACK WHITE GRAY pencil STORYBOARD ONLY. ABSOLUTELY NO COLOR including clothing and hair: represent blond as pale graphite, colored patterns as gray shapes. No sub-panels, no extra frames. Small labels A B C D only. Original fictional Japanese mother age50 dark-gray ponytail and cardigan/apron from references, her son Ken32 shaggy blond hair and patterned zip hoodie from references. Reference1 Ken identity, reference2 mother identity, reference3 Ken wardrobe, reference4 mother wardrobe. Provisional contemporary open-plan home: left wall window and sofa, center dining table, back-right kitchen stove. Keep room consistent, no tatami or historical clothing. Expressions subtle. SC08 recognition board. A top-left: medium TWO SHOT of both STANDING on opposite sides of dining table, Ken screen LEFT facing RIGHT, mother screen RIGHT facing LEFT leaning toward one phone lying flat face up on table. B top-right: high angle PHONE INSERT ONLY from mother's viewing side. Single phone flat on tabletop, blank light screen, no faces or extra phones. C bottom-left: close-up of MOTHER ONLY, dark-gray ponytail, her face turned THREE QUARTER TO SCREEN LEFT looking toward son, eyes widen slightly in recognition, mouth slightly open, not smiling. D bottom-right: close-up of KEN ONLY, pale shaggy hair, face turned THREE QUARTER TO SCREEN RIGHT looking at mother, serious vulnerable expression, NO SMILE. Camera remains on same side of dialogue axis. Exactly these four frames, never add a fifth character portrait. Mother reads then looks toward Ken, Ken meets her gaze."
+    },
+    {
+      "index": 2,
+      "job_id": "de06a00e-cccf-4197-ab85-ea2135cf62c1",
+      "status": "completed",
+      "type": "image",
+      "model": "gpt_image_2_6",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_224643_de06a00e-cccf-4197-ab85-ea2135cf62c1.png",
+      "prompt": "Create EXACTLY FOUR equal panels, TWO columns by TWO rows, all landscape 16:9 frames, clean thin borders. Pure BLACK WHITE GRAY pencil STORYBOARD ONLY. ABSOLUTELY NO COLOR including clothing and hair: represent blond as pale graphite, colored patterns as gray shapes. No sub-panels, no extra frames. Small labels A B C D only. Original fictional Japanese mother age50 dark-gray ponytail and cardigan/apron from references, her son Ken32 shaggy blond hair and patterned zip hoodie from references. Reference1 Ken identity, reference2 mother identity, reference3 Ken wardrobe, reference4 mother wardrobe. Provisional contemporary open-plan home: left wall window and sofa, center dining table, back-right kitchen stove. Keep room consistent, no tatami or historical clothing. Expressions subtle. SC08 response board. A top-left: insert mother's RIGHT hand index finger stopped just above the ONE flat phone on dining table, sleeve cardigan, no faces. B top-right: medium TWO SHOT both STANDING, Ken screen LEFT faces RIGHT and mother screen RIGHT faces LEFT. She touches his LEFT cheek with her RIGHT hand. Both distressed and attentive, no smiling. C bottom-left: close insert mother's LEFT hand turns gas stove knob to OFF, pan and burner visible; no chopsticks or other simultaneous action. D bottom-right: medium two-shot on sofa, Ken seated LEFT and mother seated RIGHT, both upright not dying, her RIGHT hand rests on his LEFT forearm, both look toward each other. No phone on sofa or hands; phone remains on dining table beyond right edge. Camera remains on same side of character axis. Exactly FOUR frames."
+    }
+  ],
+  "review_v01": [
+    "冒頭は部屋の広さと二人の距離を示せるが、衣装の色が残った。",
+    "SC08-Aが5コマ化し、母らしい衣装とケンの顔が混ざる余分な人物カットが発生。ケンの視線も逆。",
+    "SC08-Bは食卓で立っていた人物が途中で着席し、ソファ・台所の配置も揺れた。複数動作コマは火を止める単独動作へ簡略化。"
+  ],
+  "cost": {
+    "initial_quoted_credits": 1.5,
+    "revision_estimated_credits": 3.75,
+    "total_estimated_credits": 5.25,
+    "actual_balance_reconciliation": false
+  },
+  "review_v02": [
+    "3枚とも4コマの白黒構成を確認。",
+    "母とケンの切り返しの視線方向が改善し、人物混同がなくなった。",
+    "SC08-Bは頬への接触、火を止める単独動作、ソファでの接触を区別できる。",
+    "残課題：スマホの形（ホームボタンの有無）、家具配置・食卓の重複、パーカーのファスナー開閉、手の左右の厳密な連続性。最終ロケーションと小道具の基準確定後に本番ショットで修正する。",
+    "動作・台詞の間・うなずきは静止画では未検証。"
+  ]
+}
