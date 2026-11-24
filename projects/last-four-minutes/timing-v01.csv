@@ -1,0 +1,10 @@
+scene_id,start_seconds,end_seconds,duration_seconds,countdown_at_start,countdown_at_end,action
+SC01,0,10,10,,,usual_reply
+SC02,10,40,30,04:00,03:30,death_notice
+SC03,40,70,30,03:30,03:00,try_to_cancel
+SC04,70,110,40,03:00,02:20,fail_to_say_it
+SC05,110,150,40,02:20,01:40,choose_to_speak
+SC06,150,190,40,01:40,01:00,mother_stops_cooking
+SC07,190,220,30,01:00,00:30,cannot_find_grand_words
+SC08,220,250,30,00:30,00:00,words_reach_mother
+SC09,250,260,10,00:00,00:00,death_and_aftermath
