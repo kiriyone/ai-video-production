@@ -1,0 +1,1 @@
+take_id,shot_id,request_id,date,service,model,reference_ids,reference_versions,prompt_ref,settings_ref,seed,source_resolution,delivery_resolution,duration_seconds,output_ref,status,rejection_reason,review_evidence,cost_record_id
