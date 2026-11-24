@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-24",
+  "image": {
+    "index": 0,
+    "job_id": "fc70684d-4e29-41eb-a3bc-553bdb3560a3",
+    "status": "completed",
+    "type": "image",
+    "model": "nano_banana_2",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_233441_fc70684d-4e29-41eb-a3bc-553bdb3560a3.png",
+    "params": {
+      "model": "nano_banana_pro",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "0b226405-aeae-4c64-9627-7d426e6f0edd",
+      "medias": [
+        {
+          "role": "image",
+          "value": "6ee9dd60-0214-4b91-b3a1-ae6c69771d9e"
+        },
+        {
+          "role": "image",
+          "value": "80cebf36-23d4-4972-ac80-c1046067c8b0"
+        },
+        {
+          "role": "image",
+          "value": "39a68ec1-0f81-49ad-8eca-128682ddfde6"
+        }
+      ],
+      "prompt": "Targeted continuity edit of reference1, a live-action Japanese family drama. Preserve reference1 exactly: camera framing, apartment walls, window, sofa, kitchen, fridge, dining table and two chairs, both character identities and ages, mother's face hair cardigan apron and standing pose, Ken's face long blond hair and seated crossed-leg pose, both hands holding his phone. Change ONLY these details: (1) match Ken's open zip hoodie textile print to the exact yellow/magenta/cream/black abstract patterned hoodie in reference2, preserving white T-shirt and jeans; (2) restore the plain offwhite ceramic mug on left part of dining tabletop and floral tissue box on right part as seen in room reference3. Keep both objects small, resting on tabletop, away from table edge. (3) Mother's mouth gently closed, gaze toward her son, ready to ask a question rather than frozen mid-word. No added people or objects. Preserve same soft left-window overcast light and warm-neutral material colors. Natural photo, no beauty filter, no collage, captions, or black bars."
+    },
+    "estimated_credits": 2
+  },
+  "video": {
+    "index": 0,
+    "job_id": "841e038b-0f1f-4eab-8e90-39c074af470c",
+    "status": "completed",
+    "type": "video",
+    "model": "seedance_2_5",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_233634_841e038b-0f1f-4eab-8e90-39c074af470c.mp4",
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 6,
+      "resolution": "480p",
+      "draft": true,
+      "generate_audio": true,
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "a8cd1ca2-49f3-43ba-a178-1d806ad106c7",
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "fc70684d-4e29-41eb-a3bc-553bdb3560a3"
+        }
+      ],
+      "prompt": "One continuous six-second fixed-camera live-action Japanese domestic drama shot, starting exactly from the reference frame. Preserve Ken at screen left on the sofa and mother screen right in kitchen, their exact faces, ages, blond/dark-gray hair, clothes, body proportions and all room geometry. Preserve mug and tissue box on the single dining table. No cuts, zooms, pans or camera motion. Before any death notification: ordinary quiet afternoon. Ken32 has a slightly playful casual manner, absorbed by his smartphone, crossed legs and both hands supporting phone throughout. Mother50 is warm and slightly tired, hoping to hear about his day, not angry or grieving. 0.0-0.5s ordinary breathing and subtle head movement. 0.5-2.1s mother inclines her face gently toward her son and says exactly in natural Japanese: 「今日、どうだった？」 (Kyou, dou datta?). Only mother speaks this line, mature natural female voice, conversational volume, no exaggerated smile. 2.1-2.8s brief real conversational pause. 2.8-3.5s Ken says exactly 「普通。」 (Futsuu.) in relaxed adult male Japanese voice, eyes mostly on phone, a tiny glance toward mother then back down, faint easy smile, not mocking. 3.5-6.0s mother watches a beat then starts to turn her attention gently toward kitchen, Ken makes one tiny thumb scroll. No other dialogue, no narrator, no subtitles, no text, no music, no phone notification yet. Audio: clear correctly assigned two Japanese voices, subtle room tone and quiet extractor fan and faint pot simmer well below voices. Natural small mouth movements synchronized to the two lines, lips not talking during silence. Hands never detach from phone, no extra fingers, faces do not morph, furniture does not move. No sudden illness, dramatic breathing or sorrow in this opening. Understated acting and original soft window lighting."
+    },
+    "estimated_credits": 18
+  },
+  "folder": {
+    "folder_id": "a8cd1ca2-49f3-43ba-a178-1d806ad106c7",
+    "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+    "parent_folder_id": "40f771c7-96d5-49b3-8f57-6a4d250b45f3",
+    "workspace_id": "46e68ea6-0276-4112-bec1-9c7f10d99133",
+    "name": "SC01_OPENING_TEST"
+  },
+  "verified": {
+    "duration_seconds": 6.041667,
+    "width": 854,
+    "height": 480,
+    "fps": 24,
+    "audio_codec": "aac",
+    "audio_sample_rate": 32000,
+    "audio_channels": 2,
+    "audio_mean_db": -26.7,
+    "audio_peak_db": -4.3,
+    "sampled_frames": 6
+  },
+  "review": {
+    "status": "draft awaiting playback review",
+    "spoken_words_verified": false,
+    "lip_sync_verified": false,
+    "wardrobe_exact_match": false
+  },
+  "estimated_total_credits": 20,
+  "balance_reconciled": false
+}
