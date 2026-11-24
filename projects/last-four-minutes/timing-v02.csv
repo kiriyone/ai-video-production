@@ -1,0 +1,12 @@
+scene_id,start_seconds,end_seconds,duration_seconds,countdown_at_start,countdown_at_end,action
+SC01,0,10,10,,,usual_reply
+SC02,10,40,30,04:00,03:30,death_notice
+SC03,40,60,20,03:30,03:10,try_to_cancel
+SC04,60,90,30,03:10,02:40,fail_to_say_it
+SC05,90,108,18,02:40,02:22,memory_trigger
+SC06,108,124,16,02:22,02:06,life_montage
+SC07,124,140,16,02:06,01:50,show_phone
+SC08,140,190,50,01:50,01:00,mother_understands
+SC09,190,220,30,01:00,00:30,cannot_find_words
+SC10,220,250,30,00:30,00:00,words_reach_mother
+SC11,250,260,10,00:00,00:00,death_and_aftermath
