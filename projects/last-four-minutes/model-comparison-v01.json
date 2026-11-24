@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-24",
+  "purpose": "sequential pipeline test, not equal-input model benchmark",
+  "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+  "nano": {
+    "index": 0,
+    "job_id": "6ee9dd60-0214-4b91-b3a1-ae6c69771d9e",
+    "status": "completed",
+    "type": "image",
+    "model": "nano_banana_2",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_231730_6ee9dd60-0214-4b91-b3a1-ae6c69771d9e.png",
+    "requested_model": "nano_banana_pro",
+    "params": {
+      "model": "nano_banana_pro",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "0b226405-aeae-4c64-9627-7d426e6f0edd",
+      "medias": [
+        {
+          "role": "image",
+          "value": "39a68ec1-0f81-49ad-8eca-128682ddfde6"
+        },
+        {
+          "role": "image",
+          "value": "af410df2-5120-426b-845c-5c291702c85f"
+        },
+        {
+          "role": "image",
+          "value": "98baadfa-f019-48a9-8eff-2b2a1b25aca1"
+        },
+        {
+          "role": "image",
+          "value": "80cebf36-23d4-4972-ac80-c1046067c8b0"
+        },
+        {
+          "role": "image",
+          "value": "9d975c64-28a8-4626-8cd1-887d2c53154b"
+        }
+      ],
+      "prompt": "Single photorealistic live-action film still, modern Japan, 16:9 color. Reference 1 is the EXACT apartment and camera composition to preserve: taupe two-seat sofa left under curtained window, blue folded blanket on left arm, hallway back-left, ONE wooden dining table with TWO chairs mid-right, straight kitchen back-right, sink left of stove and white fridge at far right. Do not redesign, mirror, duplicate or move furniture. References 2 and 3 define distinct identities: Ken, Japanese man aged 32 with layered long golden-blond hair and dark roots; his Japanese mother aged 50 with dark hair streaked gray tied low. References 4 and 5 define their clothing. Put Ken on the right-hand cushion of the existing sofa at screen left, natural seated human proportions, both bare feet resting on floor, faded black jeans, white T-shirt, open loud yellow/magenta/cream patterned hoodie, modest chain and stud. His shoulders relaxed, faint evasive playful smile, eyes down at ONE dark smartphone held naturally in his right hand over his lap, left hand resting on thigh. No readable phone screen or floating object. Mother stands on the ROOM side of the back-right kitchen counter, beside the stove, feet on floor, normal scale about 158cm compared to Ken about 175cm. She wears offwhite long-sleeve top, beige cardigan, charcoal pants and faded blue-gray apron. She has paused cooking to turn her head and shoulders LEFT toward her son, caring and curious, slight tiredness around eyes, no grief yet, mouth gently parted as if asking about his day. Empty hands relaxed at waist, cookware stays on counter; saucepan on right burner. Mother must not be behind/inside counter, her face visible in three-quarter view. Two people only, no mixed identities. This is ordinary affection before the final notification. Soft overcast window daylight from left naturally illuminates both skin and clothes; quiet warm-neutral color, real skin pores, lived-in clean materials, subtle imperfect hair, no plastic beauty retouching, no horror effects, no cinematic black bars. Keep original wide diagonal view; both people and their separation readable. Not a character-sheet collage."
+    },
+    "quote": {
+      "credits": 2,
+      "credits_exact": 2
+    }
+  },
+  "soul": {
+    "index": 0,
+    "job_id": "88082951-225a-4bac-b21f-610365624ffe",
+    "status": "completed",
+    "type": "image",
+    "model": "soul_cinematic",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261124_232008_88082951-225a-4bac-b21f-610365624ffe.png",
+    "params": {
+      "model": "soul_cinematic",
+      "quality": "2k",
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "0b226405-aeae-4c64-9627-7d426e6f0edd",
+      "medias": [
+        {
+          "role": "image",
+          "value": "6ee9dd60-0214-4b91-b3a1-ae6c69771d9e"
+        }
+      ],
+      "prompt": "Re-render this exact reference frame as a restrained photorealistic Japanese family drama film still. Preserve the two individual faces, ages, body proportions, exact positions, poses, gaze directions, clothing colors/design and all apartment geometry from the image. This is a controlled texture and light comparison, not a new composition. Ken is a Japanese man aged 32, golden blond layered hair with dark roots, yellow/magenta patterned open hoodie over white T-shirt, black faded jeans, seated at screen left looking at the phone with a small casual smile. His mother is Japanese aged 50, dark hair streaked gray tied back, beige cardigan and blue-gray apron, standing at kitchen screen right, turning left to ask her son about his day, caring and lightly tired, not sad or angry. Preserve his crossed-leg pose and both hands on the phone exactly as reference, preserve mother's empty-hand pose. Preserve sofa under left curtain window, folded blue blanket, back-left hallway, ONE dining table and two chairs, kitchen sink left of stove, fridge far right, saucepan on stove right. Keep table empty as reference. Improve only material texture, natural fine lines in skin, flyaway hairs, fabric weave, believable diffuse daylight. Soft overcast afternoon light through existing left window only, realistic skin tone, subtle warm-neutral palette. Eye-level natural 28mm wide-shot perspective, same framing with no crop. No beauty smoothing, glamor, shallow focus hiding faces, grain obscuring details, dramatic darkness, orange teal grading, sunlight beams, new props, subtitles or black bars. Two people only. Mother age50 not elderly; son adult32 not teenager."
+    },
+    "quote": {
+      "credits": 1,
+      "credits_exact": 0.12
+    }
+  },
+  "balance_reconciled": false,
+  "decision": "Nano composite selected as revision base; Soul pass rejected for identity, wardrobe and architecture drift; neither is final approved video start frame"
+}
