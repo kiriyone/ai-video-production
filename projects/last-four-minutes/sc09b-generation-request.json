@@ -1,0 +1,26 @@
+{
+  "job_id": "e5e7e171-5fbe-45ef-af4a-0a51f7a2ac37",
+  "quoted_credits": 36,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 12,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "1d6b5c0c-1981-492b-8dcf-253030a86c03",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "90e8c79a-cd95-4495-b08f-46eda3f9e914"
+      },
+      {
+        "role": "audio",
+        "value": "c611e794-24b1-4475-aa3a-a48130e00fc1"
+      }
+    ],
+    "prompt": "SC09B / opening SC10, LAST FOUR MINUTES, Japanese live-action drama, 12-second continuous shot. Start from EXACT provided frame: Japanese Ken32, blond layered hair, yellow/magenta hoodie white shirt silver chain, screen LEFT; his mother50 gray-streaked tied hair beige cardigan offwhite shirt bluegray apron screen RIGHT. Both seated close on gray sofa under left window. Keep identical faces, hair, costume, seated positions, daylight and background geometry. LOCKED close two-shot at seated eye height, same framing throughout, no cuts, zoom, pan or revealing lower sofa. Only natural acting and breathing; not a still image.\nAUDIO REFERENCE IS VOICE IDENTITY/TIMBRE AND ROOM TONE ONLY. Its mature female voice belongs to mother, its adult male voice belongs to Ken. DO NOT repeat any reference words. Generate ONLY the two new Japanese lines below with correct speaker lip sync, no overlap, no subtitles.\n0–0.7s: connect preceding silence. Mother looks steadily at Ken, worried, gathering enough steadiness to speak. Ken looks at her, listening, closed mouth.\n0.7–3.6s MOTHER ONLY says gently, conversationally, 「うまく言わなくていい。」 (Umaku iwanakute ii.) She means he does not have to find perfect words. Quiet but not breathy whisper, trying to keep her own voice steady, NOT smiling serenely, lecturing or confidently saying everything will be fine.\n3.6–6.8s: mother closes lips and waits. Ken's guarded half-expression falls away; eyes lower briefly, small swallow, a shallow inhale, then looks toward mother. The emotional shift is from trying to deliver a polished goodbye to admitting fear. No prolonged head shaking or large gestures.\n6.8–8.5s KEN ONLY softly says 「……怖い。」 (Kowai.) A plain vulnerable admission on an exhale, slightly unsteady but intelligible, not shouted or melodramatic crying. Keep his face readable.\n8.5–12s: mother absorbs the words, eyes stay on Ken, lips closed. Ken remains alive, breathing, mouth closes. Both hold the silence. End poised for mother's response next scene. Do NOT add mother saying un or koko ni iru yo yet. Do NOT have anyone reach or hold hands yet; hands remain below frame resting in own laps. No embrace, collapse, death, tears streaming, smile of relief or new props. No phone anywhere within frame, no black rectangles, phone remains on dining table offscreen. No music, timer, beep, text, countdown, narration or extra people. Low ordinary room tone and close natural Japanese speech."
+  }
+}
