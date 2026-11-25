@@ -3,16 +3,19 @@
 死の最終通知が届いた男。残された四分で、いつも後回しにしていた母との会話を始める。
 
 - 制作者：Velichan
-- 更新：2026-11-24 / America/Chicago
-- 工程：冒頭から閉眼・メッセージまでの全編ラフを制作済み。現在は時間整合確認版 v03。
+- 更新：2026-11-25 / America/Chicago
+- 工程：冒頭から閉眼・メッセージまでの全編ラフを制作済み。現在は画角・切り替わり修正版 v04。
 - 結末：母に感謝が届き、ケンの主観で母を見つめながら視界が閉じる。
 - 現在の全編尺：4分15.625秒。最初の04:00から閉眼・00:00まで実時間4分。
-- 前版v02：意図しない重複台詞を除去し、つなぎを調整。ユーザー確認済み。v03の追加した間はこれから試写。
-- 次工程：追加した間の確認、音響・声の統一、英語字幕、高画質化、応募用マスター。
+- 前版v03：通知から閉眼まで実時間4分に調整。ユーザーから急な拡大縮小の指摘を受け、v04で画角の統一と切り替えの修正を実施。v04は試写待ち。
+- 次工程：v04の画角とつなぎの試写、音響・声の統一、英語字幕、高画質化、応募用マスター。
 - 予算：累計896.75クレジット、実残高2,070.38。ユーザー上限内の残り2,070.25。追加購入なし。
 
 ## 最新の確認版・制作記録
 
+- [v04：急な拡大縮小・二重に見える切り替わりの修正](full-review-v04/review-v04.md)
+- [v04：画角とフレーム単位の編集記録](full-review-v04/edit-audit.json)
+- [v04：音声一致とフレーム時刻の検査](full-review-v04/checks.json)
 - [v03：通知から閉眼まで実時間4分に調整](full-review-v03/review-v03.md)
 - [v03：時間表](full-review-v03/timeline.json)
 - [v03：時計の計算と出力確認](full-review-v03/clock-audit.json)
@@ -21,7 +24,7 @@
 - [v01：冒頭を含む最初の通し版](full-review-v01/full-review-v01.md)
 - [予算台帳](budget.md)
 
-動画本体はローカル制作フォルダー `video-projects/last-four-minutes/06_EDIT_DELIVERY/full-review-v03/` に保存。ファイル名は `last-four-minutes-full-review-v03.mp4`。GitHubには大容量動画を入れず、生成ID・指示・編集手順・検査結果を記録する。Higgsfieldの追加素材は既存プロジェクトの `04_FOOTAGE / TIMING_PICKUPS_V03` に保存済み。
+動画本体はローカル制作フォルダー `video-projects/last-four-minutes/06_EDIT_DELIVERY/full-review-v04/` に保存。全編は `last-four-minutes-full-review-v04.mp4`、左v03・右v04の55秒比較は `continuity-before-after-v04.mp4`。GitHubには大容量動画を入れず、生成ID・指示・編集手順・検査結果を記録する。Higgsfieldの追加素材は既存プロジェクトの `04_FOOTAGE / TIMING_PICKUPS_V03` に保存済み。v04は追加生成なし。
 
 ## 企画・脚本資料
 

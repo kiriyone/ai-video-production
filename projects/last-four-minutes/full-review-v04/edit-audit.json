@@ -1,0 +1,198 @@
+{
+  "totalFrames": 6135,
+  "fps": 24,
+  "duration": 255.625,
+  "audio": "bitstream copied unchanged from full review v03",
+  "clockStartFrame": 159,
+  "closedFrame": 5919,
+  "countdownFrames": 5760,
+  "transition": "All six 4-frame dissolves replaced with hard cuts at overlap midpoint; 2 frames trimmed on either side.",
+  "cuts": [
+    {
+      "id": "SC01",
+      "startFrame": 0,
+      "endFrame": 144,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 144
+    },
+    {
+      "id": "SC02",
+      "startFrame": 144,
+      "endFrame": 447,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 303
+    },
+    {
+      "id": "R02",
+      "startFrame": 447,
+      "endFrame": 591,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 144
+    },
+    {
+      "id": "SC03",
+      "startFrame": 591,
+      "endFrame": 831,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 240
+    },
+    {
+      "id": "SC04",
+      "startFrame": 831,
+      "endFrame": 1215,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 384
+    },
+    {
+      "id": "R04",
+      "startFrame": 1215,
+      "endFrame": 1357,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 142
+    },
+    {
+      "id": "SC05",
+      "startFrame": 1357,
+      "endFrame": 1643,
+      "sourceStartFrame": 2,
+      "sourceEndFrame": 288
+    },
+    {
+      "id": "SC06",
+      "startFrame": 1643,
+      "endFrame": 2027,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 384
+    },
+    {
+      "id": "SC07",
+      "startFrame": 2027,
+      "endFrame": 2361,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 334
+    },
+    {
+      "id": "SC08",
+      "startFrame": 2361,
+      "endFrame": 2693,
+      "sourceStartFrame": 2,
+      "sourceEndFrame": 334
+    },
+    {
+      "id": "SC08B",
+      "startFrame": 2693,
+      "endFrame": 3075,
+      "sourceStartFrame": 2,
+      "sourceEndFrame": 384
+    },
+    {
+      "id": "R08B",
+      "startFrame": 3075,
+      "endFrame": 3219,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 144
+    },
+    {
+      "id": "SC08C",
+      "startFrame": 3219,
+      "endFrame": 3553,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 334
+    },
+    {
+      "id": "SC08DA",
+      "startFrame": 3553,
+      "endFrame": 3791,
+      "sourceStartFrame": 2,
+      "sourceEndFrame": 240
+    },
+    {
+      "id": "SC08DB",
+      "startFrame": 3791,
+      "endFrame": 4079,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 288
+    },
+    {
+      "id": "SC09",
+      "startFrame": 4079,
+      "endFrame": 4509,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 430
+    },
+    {
+      "id": "SC09B",
+      "startFrame": 4509,
+      "endFrame": 4795,
+      "sourceStartFrame": 2,
+      "sourceEndFrame": 288
+    },
+    {
+      "id": "SC10",
+      "startFrame": 4795,
+      "endFrame": 5129,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 334
+    },
+    {
+      "id": "SC10B",
+      "startFrame": 5129,
+      "endFrame": 5463,
+      "sourceStartFrame": 2,
+      "sourceEndFrame": 336
+    },
+    {
+      "id": "R10B",
+      "startFrame": 5463,
+      "endFrame": 5631,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 168
+    },
+    {
+      "id": "PHONE",
+      "startFrame": 5631,
+      "endFrame": 5727,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 96
+    },
+    {
+      "id": "POV",
+      "startFrame": 5727,
+      "endFrame": 5967,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 240
+    },
+    {
+      "id": "MESSAGE",
+      "startFrame": 5967,
+      "endFrame": 6135,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 168
+    }
+  ],
+  "changes": {
+    "SC01": "[0:v]null[framed];",
+    "SC02": "[0:v]null[framed];",
+    "R02": "[0:v]null[framed];",
+    "SC03": "[0:v]null[framed];",
+    "SC04": "[0:v]null[framed];",
+    "R04": "[0:v]null[framed];",
+    "SC05": "[0:v]null[framed];",
+    "SC06": "[0:v]null[framed];",
+    "SC07": "[0:v]null[framed];",
+    "SC08": "[0:v]split=2[s0][s1];[s0]trim=start_frame=0:end_frame=120,setpts=PTS-STARTPTS,setsar=1[v0];[s1]trim=start_frame=120:end_frame=336,setpts=PTS-STARTPTS,crop=1064:600:98:0,scale=1280:720:flags=lanczos,setsar=1[v1];[v0][v1]concat=n=2:v=1:a=0[framed];",
+    "SC08B": "[0:v]crop=1064:600:98:0,scale=1280:720:flags=lanczos[framed];",
+    "R08B": "[0:v]null[framed];",
+    "SC08C": "[0:v]split=2[s0][s1];[s0]trim=start_frame=0:end_frame=41,setpts=PTS-STARTPTS,crop=1064:600:98:0,scale=1280:720:flags=lanczos,setsar=1[v0];[s1]trim=start_frame=41:end_frame=336,setpts=PTS-STARTPTS,setsar=1[v1];[v0][v1]concat=n=2:v=1:a=0[framed];",
+    "SC08DA": "[0:v]split=2[s0][s1];[s0]trim=start_frame=0:end_frame=120,setpts=PTS-STARTPTS,tpad=stop_mode=clone:stop_duration=0.041666667,setsar=1[v0];[s1]trim=start_frame=121:end_frame=240,setpts=PTS-STARTPTS,setsar=1[v1];[v0][v1]concat=n=2:v=1:a=0[framed];",
+    "SC08DB": "[0:v]null[framed];",
+    "SC09": "[0:v]null[framed];",
+    "SC09B": "[0:v]null[framed];",
+    "SC10": "[0:v]split=3[s0][s1][s2];[s0]trim=start_frame=0:end_frame=72,setpts=PTS-STARTPTS,crop=1016:572:174:0,scale=1280:720:flags=lanczos,setsar=1[v0];[s1]trim=start_frame=72:end_frame=156,setpts=PTS-STARTPTS,crop=640:360:400:360,scale=1280:720:flags=lanczos,setsar=1[v1];[s2]trim=start_frame=156:end_frame=336,setpts=PTS-STARTPTS,crop=1016:572:174:0,scale=1280:720:flags=lanczos,setsar=1[v2];[v0][v1][v2]concat=n=3:v=1:a=0[framed];",
+    "SC10B": "[0:v]crop=1002:564:166:0,scale=1280:720:flags=lanczos[framed];",
+    "R10B": "[0:v]crop=640:360:400:360,scale=1280:720:flags=lanczos[framed];",
+    "PHONE": "[0:v]null[framed];",
+    "POV": "[0:v]null[framed];",
+    "MESSAGE": "[0:v]null[framed];"
+  }
+}

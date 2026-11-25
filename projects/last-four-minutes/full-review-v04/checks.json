@@ -1,0 +1,28 @@
+{
+  "audioBitstreamUnchanged": true,
+  "audioHash": "SHA256=7d06fb1a607d10873b5c64c78d620a42b65b7cd2174cff578904b32b9d3775e1",
+  "decodedFrameCount": 6135,
+  "maxFrameTimingErrorSeconds": 3.333333342681044e-7,
+  "clockStartFrame": 159,
+  "zeroFrame": 5919,
+  "clockElapsedSeconds": 240,
+  "decodeCheck": "passed in build",
+  "visualSeamFrames": [
+    2692,
+    2693,
+    3074,
+    3075,
+    3218,
+    3219,
+    3552,
+    3553,
+    4508,
+    4509,
+    4794,
+    4795,
+    5128,
+    5129,
+    5462,
+    5463
+  ]
+}
