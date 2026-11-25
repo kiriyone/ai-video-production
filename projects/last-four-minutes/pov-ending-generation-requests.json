@@ -1,0 +1,45 @@
+{
+  "image": {
+    "job_id": "63ef1173-186f-4fff-a555-8f8da205450f",
+    "quoted_credits": 0.75,
+    "params": {
+      "model": "gpt_image_2_6",
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "fd91dcec-212b-4852-8533-e2f52d536802",
+      "medias": [
+        {
+          "role": "image",
+          "value": "3f59ef62-be72-43e8-a1b2-9903a39c61fb"
+        }
+      ],
+      "prompt": "LAST FOUR MINUTES, edit camera viewpoint of reference into a first-person subjective shot through KEN'S EYES. Preserve EXACT Japanese mother50 identity, face proportions, natural wrinkles, gray-streaked tied hair, beige cardigan, offwhite shirt and bluegray apron. Same modest apartment, same gray sofa, soft overcast afternoon window light. Camera occupies Ken's seated head position on the LEFT end of that sofa, looking diagonally RIGHT along the sofa toward mother who remains seated immediately beside him. This is not an observer two-shot or an over-shoulder shot: Ken's face/head/shoulder must NOT appear. Mother's eyes meet the lens intimately as if meeting her son's eyes, lips closed, compassionate and scared, held-together emotion, no smile. Mother is the central visual focus framed chest-up with enough bottom of frame to glimpse her RIGHT hand gently covering the back of Ken's LEFT hand on his left thigh in the near foreground. Only a small partial yellow-magenta sleeve and his hand at lower edge, not an entire man. Mother stays on same seat, body turned slightly toward viewer. Perspective and room background must rotate naturally with this change in camera viewpoint: sofa back recedes behind mother toward door/brown wall, window light comes from camera's left/back. Avoid recreating full frontal side-by-side reference composition. No standing, no mother sitting opposite across a table, no extra chair, no phone, no tears running down face, no subtitles, no text, no dramatic beauty light. Photorealistic restrained cinematic natural skin texture. A son's intimate final view of his mother, seated eye-level, calm 40mm perspective, eyes sharply focused, hands lower in soft focus. Full image visible; no eyelids or vignette yet."
+    }
+  },
+  "video": {
+    "job_id": "b7d1e2ef-8ac3-4fe1-908b-c95441cbeadb",
+    "quoted_credits": 30,
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 10,
+      "resolution": "480p",
+      "draft": true,
+      "generate_audio": true,
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "fd91dcec-212b-4852-8533-e2f52d536802",
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "63ef1173-186f-4fff-a555-8f8da205450f"
+        },
+        {
+          "role": "audio",
+          "value": "c611e794-24b1-4475-aa3a-a48130e00fc1"
+        }
+      ],
+      "prompt": "SC11 revised ending, true FIRST PERSON POV through Ken's eyes, 10 seconds. Preserve exact starting image's Japanese mother50, face, gray streaked tied hair, beige cardigan bluegray apron, seated beside son on gray sofa, soft daylight, room geometry and joined hands at bottom. Camera is Ken's seated eyes, not a third person observer, not an over-shoulder. Ken's face/head/body must never enter shot. Mother holds Ken's LEFT hand with her RIGHT hand in the near lower foreground throughout; exact existing contact, no extra hand or fingers. His sleeve fragment stays the same. No re-grasp, lift, stroke or release.\n0–4 seconds mother steadily meets the lens, looking into her son's eyes close beside her. Quiet tenderness, fear held back, natural fine facial motion and breath, not a grin or posed still. No dialogue.\n4–8 seconds her worried gaze remains on the lens, lips closed, slightly moist eyes, very small lean toward him less than 2cm, no hand change. Ken is slowly closing his eyes; THIS WILL BE ADDED AS A SOFT EYELID MASK IN EDITING. Therefore keep the generated image fully lit and unobstructed throughout; DO NOT generate a fade, vignette, eyelid graphic, blackout, blinking camera or change of shot. Mother's own eyes STAY OPEN apart from normal brief blinks, she is NOT the one closing her eyes. Keep her in natural living motion, no image freeze.\n8–9 seconds MOTHER ONLY softly calls 「……ケン？」 (Ken?) barely above a whisper, a small uncertain question. Reference audio is only for her established Japanese timbre, NEVER repeat its words. No male voice, no other words, no reassurance or thanks.\n9–10 seconds her breath, still holding his hand, looking at him. No loud crying. Fixed seated camera, no pan or zoom, no third-person reverse shot, no wobble, no added props, subtitles, countdown, music, alarm or supernatural effect. Intimate realistic film performance, restrained fear and love, ordinary room tone. The final edit closes Ken's field of vision at 8s and lets her call reach the black screen. The clip is moving live-action style, not a static still."
+    }
+  }
+}
