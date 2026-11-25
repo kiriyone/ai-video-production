@@ -1,0 +1,7 @@
+[0:v]trim=start_frame=0:end_frame=107,setpts=PTS-STARTPTS,setsar=1[lead];
+[1:v]trim=start_frame=92:end_frame=288,setpts=PTS-STARTPTS,scale=1280:720,setsar=1[dialogue];
+[lead][dialogue]concat=n=2:v=1:a=0,format=yuv420p[v];
+[1:a]atrim=start=0:end=12,asetpts=PTS-STARTPTS,adelay=625|625,apad,atrim=end=12.625[voices];
+[2:a]atrim=end=4.458333,volume=0.40,afade=t=out:st=3.8:d=0.658333,apad,atrim=end=12.625[fx];
+[voices][fx]amix=inputs=2:duration=longest:normalize=0,alimiter=limit=0.95:level=false[a]
+

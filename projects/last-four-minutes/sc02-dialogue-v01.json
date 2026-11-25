@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-24",
+  "job": {
+    "index": 0,
+    "job_id": "0f4a6005-d135-4b59-b4e4-80a9c9d0e963",
+    "status": "completed",
+    "type": "video",
+    "model": "seedance_2_5",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_001210_0f4a6005-d135-4b59-b4e4-80a9c9d0e963.mp4"
+  },
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 12,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "5cbce348-d145-4dbc-92ca-2d040c5bb020",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "fc70684d-4e29-41eb-a3bc-553bdb3560a3"
+      }
+    ],
+    "prompt": "One continuous 12-second fixed wide shot, realistic understated Japanese family drama, exactly the reference room and two people. Ken32 left on taupe sofa, long blond hair and yellow/magenta/cream/black hoodie, crossed legs, smartphone held in both hands. Mother50 right in kitchen with gray-streaked tied hair, beige cardigan and blue-gray apron. Same identities, clothing, soft window light and all props including table mug and tissue box. No cuts, no camera movement, no added people, no text or subtitles. Ken has JUST received a frightening notification, trying to pretend it is nothing. Mother remains occupied with cooking, does NOT see the phone or know its meaning yet. Three clearly distinct audio sources, exact Japanese dialogue only in the following order, no overlapping lines: 0.3-3.8 seconds a calm NEUTRAL synthetic device voice from Ken's phone, not either actor: 「ケンさん。残された時間は、四分です。」 (Ken-san. Nokosareta jikan wa, yonpun desu.) Both visible mouths closed during device voice. 3.8-4.4s short silence, Ken studies phone. 4.4-5.4s ONLY Ken, adult Japanese male, low disbelief, says softly 「……何これ。」 (Nani kore.) Small natural lip movement, no broad smile or theatrical shock. 5.4-6.1s conversational pause. 6.1-8.9s ONLY mother, mature warm Japanese female, slightly turns toward son but does not approach, casually says 「四分？ ご飯もちょうどそれくらい。」 (Yonpun? Gohan mo choudo sore kurai.) She is answering what she assumes is a cooking-timer comment, no fear, no tears. 8.9-9.6s pause. 9.6-11.1s ONLY Ken, glances briefly toward mother, then back to his phone, says 「いや、そっちじゃ……」 (Iya, socchi ja...) trailing off because he cannot say what is wrong. 11.1-12s quiet uncomfortable stillness. No extra words, no narrator outside the device line, no music or countdown beeps, no laughter, no screaming. Low unobtrusive room tone and extractor fan below dialogue. Preserve face identity and correct speaker lip movements. Hands remain attached to phone, mother remains at kitchen, no phone flipping or standing up. Dialogue timing is important, keep all three actors' voices distinct: neutral device, young adult man, mature woman."
+  },
+  "quoted_credits": 36,
+  "balance_before": 2951.13,
+  "balance_after": 2915.13,
+  "actual_source": {
+    "duration": 12.041667,
+    "width": 854,
+    "height": 480,
+    "fps": 24,
+    "audio": "AAC 32kHz stereo"
+  },
+  "edit": {
+    "duration": 12.625,
+    "output": "sc02-dialogue-review-v01.mp4",
+    "notice_start": 0.625,
+    "phone_insert_end": 3.125,
+    "left_phone_from": 3.125,
+    "left_phone_to": 4.458333333333333,
+    "wide_from": 4.458333333333333,
+    "wide_source_start": 3.8333333333333335,
+    "generated_audio_offset": 0.625,
+    "sfx_gain": 0.4,
+    "sfx_fade_out": [
+      3.8,
+      4.458333333333333
+    ]
+  },
+  "verified": {
+    "visual_sample_interval": 1,
+    "spoken_words": false,
+    "speaker_assignment": false,
+    "lip_sync": false,
+    "compiled_audio_mean_db": -27.4,
+    "compiled_audio_peak_db": -5
+  }
+}

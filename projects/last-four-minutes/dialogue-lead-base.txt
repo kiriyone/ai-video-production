@@ -1,0 +1,8 @@
+[0:v]split=2[a][b];
+[a]trim=start_frame=0:end_frame=15,setpts=PTS-STARTPTS,scale=1280:720,setsar=1[pre];
+[1:v]scale=1280:720,drawbox=x=638:y=197:w=5:h=5:color=0xE7937C:t=fill,drawtext=fontfile=ui-font.ttc:textfile=phone-title.txt:fontsize=27:fontcolor=0xF2F0EB:x=640-text_w/2:y=231,drawtext=fontfile=ui-font.ttc:textfile=phone-name.txt:fontsize=19:fontcolor=0xBDBDBD:x=640-text_w/2:y=280,drawtext=fontfile=ui-font.ttc:textfile=phone-label.txt:fontsize=20:fontcolor=0xBDBDBD:x=640-text_w/2:y=329,drawtext=fontfile=timer-font.ttf:text='04\:00':fontsize=60:fontcolor=0xF6F3ED:x=640-text_w/2:y=362:enable='gte(t,0)*lt(t,1)',drawtext=fontfile=timer-font.ttf:text='03\:59':fontsize=60:fontcolor=0xF6F3ED:x=640-text_w/2:y=362:enable='gte(t,1)*lt(t,2)',drawtext=fontfile=timer-font.ttf:text='03\:58':fontsize=60:fontcolor=0xF6F3ED:x=640-text_w/2:y=362:enable='gte(t,2)*lt(t,3)',drawtext=fontfile=timer-font.ttf:text='03\:57':fontsize=60:fontcolor=0xF6F3ED:x=640-text_w/2:y=362:enable='gte(t,3)*lt(t,4)',drawbox=x=561:y=445:w=158:h=1:color=0xFFFFFF@0.15:t=fill,drawbox=x=609:y=563:w=62:h=3:color=0xCCCCCC@0.65:t=fill,zoompan=z='1.10+0.0002*on':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=1280x720:fps=24,trim=end_frame=60,setpts=PTS-STARTPTS,setsar=1[phone];
+[b]trim=start_frame=24:end_frame=56,setpts=PTS-STARTPTS,scale=1280:720,setsar=1[post];
+[pre][phone][post]concat=n=3:v=1:a=0,format=yuv420p[v];
+[2:a]afade=t=out:st=6.7:d=0.3[aout]
+
+
