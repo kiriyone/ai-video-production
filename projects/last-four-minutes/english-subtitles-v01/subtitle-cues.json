@@ -1,0 +1,386 @@
+[
+  {
+    "scene": "SC01",
+    "start": 1.32,
+    "end": 3.05,
+    "ja": "今日、どうだった？",
+    "en": "How was your day?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC01",
+    "start": 3.88,
+    "end": 5.05,
+    "ja": "普通。",
+    "en": "Fine.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "PHONE_NOTICE",
+    "start": 6.75,
+    "end": 10.5,
+    "ja": "最終通知／ケン／残りの寿命",
+    "en": "FINAL NOTICE\nKEN\nTime left to live",
+    "style": "Screen"
+  },
+  {
+    "scene": "SC02",
+    "start": 7.695,
+    "end": 11.175,
+    "ja": "ケンさん、残された時間は4分です。",
+    "en": "Ken, you have four minutes left.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC02",
+    "start": 11.605,
+    "end": 12.705,
+    "ja": "何これ？",
+    "en": "What's this?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC02",
+    "start": 12.795,
+    "end": 13.754999999999999,
+    "ja": "4分？",
+    "en": "Four minutes?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC02",
+    "start": 13.765,
+    "end": 15.855,
+    "ja": "ご飯もちょうどそれくらい。",
+    "en": "Dinner will be ready by then.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC02",
+    "start": 16.025,
+    "end": 17.775,
+    "ja": "いや、そっちじゃ……",
+    "en": "No, that's not...",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC03",
+    "start": 25.805,
+    "end": 27.575,
+    "ja": "これキャンセルして。",
+    "en": "Cancel this.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC03",
+    "start": 27.645,
+    "end": 30.055,
+    "ja": "通知はオフにできます。",
+    "en": "You can turn notifications off.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC03",
+    "start": 30.595,
+    "end": 32.055,
+    "ja": "通知じゃなくて。",
+    "en": "Not the notification.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "PHONE_MUTED",
+    "start": 32.625,
+    "end": 34.625,
+    "ja": "通知 OFF／残り時間は変更できません",
+    "en": "Muted.\nTime cannot be changed.",
+    "style": "Screen"
+  },
+  {
+    "scene": "SC04",
+    "start": 37.365,
+    "end": 38.195,
+    "ja": "母さん。",
+    "en": "Mom.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC04",
+    "start": 38.235,
+    "end": 39.125,
+    "ja": "ん？",
+    "en": "Hmm?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC04",
+    "start": 39.995,
+    "end": 41.575,
+    "ja": "俺、あと……",
+    "en": "I... I only have...",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC04",
+    "start": 41.995,
+    "end": 43.525,
+    "ja": "どうした？",
+    "en": "What's wrong?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC04",
+    "start": 46.315,
+    "end": 47.625,
+    "ja": "何でもない。",
+    "en": "Nothing.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC05",
+    "start": 56.658333000000006,
+    "end": 59.258333,
+    "ja": "そこにいるなら、お皿出して。",
+    "en": "While you're there,\nget the plates.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC05",
+    "start": 59.498333,
+    "end": 61.268333000000005,
+    "ja": "今、時間ない。",
+    "en": "Not now. I don't have time.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC05",
+    "start": 61.458333,
+    "end": 63.638333,
+    "ja": "いつもそうね.",
+    "en": "That's what you always say.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC05",
+    "start": 64.20833300000001,
+    "end": 65.378333,
+    "ja": "ケン？",
+    "en": "Ken?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC06_FIRST_STEP",
+    "start": 70.72833299999999,
+    "end": 71.928333,
+    "ja": "おいで。",
+    "en": "Come here.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC06_REJECTION",
+    "start": 75.758333,
+    "end": 76.938333,
+    "ja": "もういいって。",
+    "en": "Just leave it.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC06_TODAY",
+    "start": 82.77833299999999,
+    "end": 84.438333,
+    "ja": "今日、どうだった？",
+    "en": "How was your day?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC07",
+    "start": 85.008333,
+    "end": 86.158333,
+    "ja": "ケン？",
+    "en": "Ken?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC07",
+    "start": 86.768333,
+    "end": 90.458333,
+    "ja": "母さん。これ、見て。",
+    "en": "Mom. Look at this.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "PHONE_NOTICE_2",
+    "start": 99.35,
+    "end": 103.25,
+    "ja": "最終通知／ケン／残りの寿命",
+    "en": "FINAL NOTICE\nKEN\nTime left to live",
+    "style": "Screen"
+  },
+  {
+    "scene": "SC08",
+    "start": 102.02166700000001,
+    "end": 104.341667,
+    "ja": "最終通知……",
+    "en": "Final notice...",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC08",
+    "start": 107.591667,
+    "end": 109.19166700000001,
+    "ja": "あなたの？",
+    "en": "Yours?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC08B",
+    "start": 112.145,
+    "end": 113.075,
+    "ja": "うん。",
+    "en": "Yes.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC08B",
+    "start": 116.575,
+    "end": 118.775,
+    "ja": "違う。だって、今……",
+    "en": "No. But... you're...",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC08B",
+    "start": 120.875,
+    "end": 123.225,
+    "ja": "これ、止められないの？",
+    "en": "Can't you stop it?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC08B",
+    "start": 125.16499999999999,
+    "end": 127.125,
+    "ja": "変えられないって。",
+    "en": "It says I can't change it.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC08C",
+    "start": 140.875,
+    "end": 143.725,
+    "ja": "母さん。ここにいて。",
+    "en": "Mom. Stay with me.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC08DA",
+    "start": 147.97833300000002,
+    "end": 149.00833300000002,
+    "ja": "うん。",
+    "en": "Yes.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC08DA",
+    "start": 154.938333,
+    "end": 156.25833300000002,
+    "ja": "……座ろう。",
+    "en": "Let's sit down.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC09",
+    "start": 170.47833300000002,
+    "end": 173.00833300000002,
+    "ja": "うん。聞いてる。",
+    "en": "Yes. I'm listening.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC09",
+    "start": 175.058333,
+    "end": 179.408333,
+    "ja": "なんか、ちゃんと言わなきゃって。",
+    "en": "I just... need to say this right.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC09",
+    "start": 181.658333,
+    "end": 184.75833300000002,
+    "ja": "こういう時って、もっと……",
+    "en": "At a time like this,\nI should...",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC09B",
+    "start": 189.881667,
+    "end": 192.591667,
+    "ja": "うまく言わなくていい。",
+    "en": "You don't have to find\nthe right words.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC09B",
+    "start": 196.46166699999998,
+    "end": 197.941667,
+    "ja": "……怖い。",
+    "en": "I'm scared.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC10",
+    "start": 200.441667,
+    "end": 201.39166699999998,
+    "ja": "うん。",
+    "en": "Yes.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC10",
+    "start": 206.49166699999998,
+    "end": 208.24166699999998,
+    "ja": "ここにいるよ。",
+    "en": "I'm here.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC10B",
+    "start": 217.405,
+    "end": 218.795,
+    "ja": "……ありがとう。",
+    "en": "Thank you.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC10B",
+    "start": 221.705,
+    "end": 222.745,
+    "ja": "うん。",
+    "en": "Yes.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "SC10B",
+    "start": 223.045,
+    "end": 225.175,
+    "ja": "ちゃんと、聞こえた。",
+    "en": "I heard you.",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "POV",
+    "start": 246.325,
+    "end": 247.255,
+    "ja": "ケン？",
+    "en": "Ken?",
+    "style": "Dialogue"
+  },
+  {
+    "scene": "MESSAGE",
+    "start": 249.125,
+    "end": 254.625,
+    "ja": "その想いを、伝えられるうちに。",
+    "en": "Tell them how you feel\nwhile you still can.",
+    "style": "Closing"
+  }
+]

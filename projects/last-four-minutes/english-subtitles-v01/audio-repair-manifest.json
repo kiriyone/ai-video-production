@@ -1,0 +1,74 @@
+{
+  "source": "C:\\Users\\USER\\Documents\\codex\\video-projects\\last-four-minutes\\06_EDIT_DELIVERY\\full-review-v05\\last-four-minutes-full-review-v05.mp4",
+  "approval": "User approved Japanese audio repairs with English subtitles",
+  "duration": 255.625,
+  "patches": [
+    {
+      "kind": "remove-unwanted-dialogue",
+      "start": 84.458333,
+      "end": 93.658333,
+      "roomSource": [
+        95.258333,
+        96.758333
+      ],
+      "roomGain": 0.2655421941984039,
+      "edgeFade": 0.07
+    },
+    {
+      "kind": "reuse-mother-Ken",
+      "sourceStart": 92.008333,
+      "sourceEnd": 93.358333,
+      "start": 84.758333,
+      "end": 86.10833300000002,
+      "gain": 1,
+      "edgeFade": 0.035
+    },
+    {
+      "kind": "new-Ken-Mom-look-at-this",
+      "sourceStart": 0.65,
+      "sourceEnd": 4.65,
+      "start": 86.458333,
+      "end": 90.458333,
+      "gain": 1.130351101870519,
+      "edgeFade": 0.035
+    },
+    {
+      "kind": "remove-unwanted-dialogue",
+      "start": 98.291667,
+      "end": 101.791667,
+      "roomSource": [
+        109.44166700000001,
+        111.141667
+      ],
+      "roomGain": 0.24073674675302217,
+      "edgeFade": 0.07
+    },
+    {
+      "kind": "remove-unwanted-dialogue",
+      "start": 105.641667,
+      "end": 107.241667,
+      "roomSource": [
+        109.44166700000001,
+        111.141667
+      ],
+      "roomGain": 0.24073674675302217,
+      "edgeFade": 0.07
+    },
+    {
+      "kind": "remove-unwanted-dialogue",
+      "start": 155.988333,
+      "end": 157.658333,
+      "roomSource": [
+        152.458333,
+        153.658333
+      ],
+      "roomGain": 0.17946288704833618,
+      "edgeFade": 0.07
+    }
+  ],
+  "peak": 0.9926217198371887,
+  "changedSamples": 1533104,
+  "changedSamplesOutsidePatches": 0,
+  "visuals": "Original v05 video stream copied without alteration",
+  "levelMatch": 1.130351101870519
+}

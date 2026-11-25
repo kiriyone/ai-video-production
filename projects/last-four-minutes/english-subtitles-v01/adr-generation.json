@@ -1,0 +1,82 @@
+{
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 6,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true,
+    "use_unlim": false,
+    "medias": [
+      {
+        "role": "image",
+        "value": "f70bd05a-87ea-4faf-822a-289188285e14"
+      },
+      {
+        "role": "audio",
+        "value": "4cfa0c98-5de2-455d-9a42-0ccaf5d87e7d"
+      }
+    ],
+    "prompt": "ADR dialogue pickup for our Japanese short film. The image is Ken, a young Japanese man. The attached audio is Ken's established voice: match his exact youthful natural Japanese speaking voice and intimate quiet tone. It is a VOICE TIMBRE reference only. Speak ONLY this NEW Japanese line, exactly once: 「母さん。これ、見て。」 Pronunciation: Kaasan. Kore, mite. Emotion: shaken, finding courage to show his mother the frightening notice on his smartphone; restrained and vulnerable, not theatrical, not loud. Static medium close-up of Ken, no other person. First 1 second silent breathing, then say 母さん, a short natural pause, then これ、見て, finish by 4.5 seconds, remain quiet to the end. Clean dry dialogue, quiet room, no music, no other voices, no added words, no subtitles. Do not repeat any words from the audio reference."
+  },
+  "quote": {
+    "cost": {
+      "credits": 42,
+      "credits_exact": 42
+    },
+    "adjustments": {
+      "medias[0].role": {
+        "requested": "image",
+        "used": "image_references",
+        "reason": "Seedance 2.5 backend expects schema-key media roles"
+      },
+      "medias[1].role": {
+        "requested": "audio",
+        "used": "audio_references",
+        "reason": "Seedance 2.5 backend expects schema-key media roles"
+      }
+    },
+    "quote_ref": "quote:BbZB_95K_cAvrq88Pz6wKw"
+  },
+  "job": {
+    "results": [
+      {
+        "id": "0420d3a4-b262-4729-867b-163deb6bbede",
+        "type": "video",
+        "status": "pending",
+        "model": "seedance_2_5",
+        "params": {
+          "prompt": "ADR dialogue pickup for our Japanese short film. The image is Ken, a young Japanese man. The attached audio is Ken's established voice: match his exact youthful natural Japanese speaking voice and intimate quiet tone. It is a VOICE TIMBRE reference only. Speak ONLY this NEW Japanese line, exactly once: 「母さん。これ、見て。」 Pronunciation: Kaasan. Kore, mite. Emotion: shaken, finding courage to show his mother the frightening notice on his smartphone; restrained and vulnerable, not theatrical, not loud. Static medium close-up of Ken, no other person. First 1 second silent breathing, then say 母さん, a short natural pause, then これ、見て, finish by 4.5 seconds, remain quiet to the end. Clean dry dialogue, quiet room, no music, no other voices, no added words, no subtitles. Do not repeat any words from the audio reference.",
+          "aspect_ratio": "16:9",
+          "duration": 6,
+          "reference_images": [
+            "f70bd05a-87ea-4faf-822a-289188285e14",
+            "4cfa0c98-5de2-455d-9a42-0ccaf5d87e7d"
+          ],
+          "mode": "omni_reference",
+          "resolution": "720p",
+          "generate_audio": true
+        }
+      }
+    ],
+    "adjustments": {
+      "medias[0].role": {
+        "requested": "image",
+        "used": "image_references",
+        "reason": "Seedance 2.5 backend expects schema-key media roles"
+      },
+      "medias[1].role": {
+        "requested": "audio",
+        "used": "audio_references",
+        "reason": "Seedance 2.5 backend expects schema-key media roles"
+      }
+    },
+    "references_read": [
+      {
+        "ref": "quote:BbZB_95K_cAvrq88Pz6wKw",
+        "chars": 1119,
+        "sha256": "ae59cb0d703fcd6ab1afac037227834b9863978d5dd5849fc486138ead8767f9"
+      }
+    ]
+  }
+}

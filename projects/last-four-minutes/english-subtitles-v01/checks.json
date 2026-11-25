@@ -1,0 +1,22 @@
+{
+  "videoStreamIdenticalBeforeSubtitles": true,
+  "originalVideoHash": "SHA256=735c927df176a5d95eb06cc2826c0333554ae09dc640fd598e925eaa600db385",
+  "subtitledAudioIdenticalToRepairedMaster": true,
+  "fixedAudioHash": "SHA256=7c46010ed4fc7affa2b6fc2430d660aede05b1ea3d5f12931b8a0d97b1629849",
+  "frames": 6135,
+  "fps": 24,
+  "width": 1280,
+  "height": 720,
+  "duration": 255.625,
+  "maxFrameTimingErrorSeconds": 3.333333342681044e-7,
+  "countdownStartFrame": 159,
+  "zeroAndClosedFrame": 5919,
+  "countdownSeconds": 240,
+  "audioChangesRestrictedToApprovedWindows": true,
+  "pcmPeak": 0.9926217198371887,
+  "subtitleCues": 48,
+  "dialogueMaximumLines": 2,
+  "subtitleReadingSpeed": "All <=20 characters/sec",
+  "decode": "Passed in render-english.cjs",
+  "reviewScope": "ASR and wave timing plus rendered-frame visual inspection. Human full-length auditory review remains a finishing check."
+}

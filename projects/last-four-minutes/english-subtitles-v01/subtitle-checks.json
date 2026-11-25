@@ -1,0 +1,8 @@
+{
+  "totalCues": 48,
+  "dialogueCues": 44,
+  "maxDialogueLines": 2,
+  "maxLineLength": 33,
+  "readingSpeedWarnings": [],
+  "overlapNote": "Screen text and dialogue intentionally use separate positions in ASS; separate SRT files supplied."
+}
