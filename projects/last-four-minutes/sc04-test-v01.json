@@ -66,7 +66,7 @@
     "sampled_frames": 16,
     "visual_findings": [
       "Ken uncrosses legs and stands; remains close to sofa. Requested two-step approach not clearly achieved.",
-      "Mother turns toward Ken and remains attentive in sampled frames through end; requested return to pot not achieved.",
+      "Correction after inspecting final frame at 15.958333s: mother DOES return to stove at end; initial 1fps sampling missed this movement.",
       "No conspicuous furniture crossing seen in 1-second sampled frames; not exhaustive frame-by-frame inspection.",
       "Phone lowered toward side near end.",
       "Dialogue, exact timing, voice continuity and lip sync require playback review; silence measurements do not verify spoken words."
@@ -74,7 +74,7 @@
   },
   "approval": {
     "sc03_user_accepted": true,
-    "sc04_status": "draft delivered, awaiting user playback review"
+    "sc04_status": "User accepted direction and requested continuing SC05; exact dialogue/voice/lip-sync not independently verified."
   },
   "actual": {
     "source_seconds": 16.041667,

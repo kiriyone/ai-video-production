@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-24",
+  "scene": "SC05 いつもそうね",
+  "status": "draft delivered for playback review",
+  "source_frame": {
+    "source_job_id": "1559ebc1-7681-4c58-9fdb-f60f8c6e1a92",
+    "seconds": 15.958333,
+    "media_id": "49539906-f561-415a-877b-fdbb9095946d",
+    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/49539906-f561-415a-877b-fdbb9095946d.png",
+    "image_generation_cost": 0
+  },
+  "folder": {
+    "folder_id": "55c419fb-2246-4527-921a-6c036d423751",
+    "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+    "parent_folder_id": "40f771c7-96d5-49b3-8f57-6a4d250b45f3",
+    "workspace_id": "46e68ea6-0276-4112-bec1-9c7f10d99133",
+    "name": "SC05_DISHES_TEST"
+  },
+  "video": {
+    "job_id": "a509238a-4720-4369-940c-983f55ac247b",
+    "status": "completed",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_012416_a509238a-4720-4369-940c-983f55ac247b.mp4"
+  },
+  "video_request": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 12,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "55c419fb-2246-4527-921a-6c036d423751",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "49539906-f561-415a-877b-fdbb9095946d"
+      },
+      {
+        "role": "video",
+        "value": "1559ebc1-7681-4c58-9fdb-f60f8c6e1a92"
+      }
+    ],
+    "prompt": "A continuous twelve-second natural Japanese live-action domestic drama, directly continuing the LAST moment of reference video. Start image is that LAST frame: Ken is ALREADY STANDING beside sofa screen left, smartphone lowered in his LEFT hand, mother already facing stove screen right. Never sit him down or replay the previous scene. Use video reference ONLY to preserve identical Ken and mother Japanese voices, identities, clothing, room and light. Camera remains fixed in this wide shot. Only four spoken Japanese lines, in this exact order, no additional words or narration. 0.4-2.8s Mother, still cooking, casually asks 「そこにいるなら、お皿、出して。」 (Soko ni iru nara, osara, dashite.) Ordinary familiar tone, not commanding or angry; no long pointed gesture. 3.2-4.2s Ken reflexively replies 「今、時間ない。」 (Ima, jikan nai.) Quietly rushed, tight and distracted, never shouting; he knows his time is running out but mother does NOT know. 4.8-5.9s Mother lightly replies 「いつもそうね。」 (Itsumo sou ne.) Familiar small complaint without cruelty, sarcasm or smiling; keeps cooking. 6-8.2s Ken stays in same standing position, slowly raises same phone in LEFT hand enough to glance down at it, then looks up at mother's back, his casual mask fading, right hand stays lowered, no walking or reaching for dishes. Do not show/read phone screen. 8.5-9.3s Mother notices his silence, begins a small turn of her head toward him and gently calls 「ケン？」 (Ken?) Mild concern, not grief. 9.3-12s Ken looks at her without replying, one small breath, held stillness preparing a memory montage. Do NOT generate flashbacks yet. One speaker at a time; listening mouth closed. Accurate restrained Japanese lip movement. No tears, collapse, touching chest, embrace, dramatic gestures, smiles or new people. Audio: clear intimate dialogue, very quiet room tone and cooking sounds. No music, ringtone, notification voice, beeps, ticking, subtitles, captions or countdown overlay. Keep every item of furniture and clothing consistent. Preserve distinct normal dinner routine for mother versus hidden urgency for Ken."
+  },
+  "cost": {
+    "quoted_credits": 36,
+    "balance_before": 2833.13,
+    "balance_after": 2797.13,
+    "spent_since_cap": 170
+  },
+  "verification": {
+    "spoken_content_verified": false,
+    "voice_continuity_verified": false,
+    "lip_sync_verified": false,
+    "sampled_frames": 12,
+    "visual_findings": [
+      "Ken stays standing, raises phone briefly and looks toward mother.",
+      "Mother continues cooking then turns toward Ken near end.",
+      "No obvious new objects or furniture crossing in sampled frames; not exhaustive inspection.",
+      "Exact dialogue, vocal tone and voice continuity require playback review."
+    ]
+  },
+  "continuity_correction": "SC04 final frame at15.958333s DOES show mother returned to stove. Earlier 1fps samples missed this movement; SC04 note about missing return is superseded.",
+  "timing_note": "Original SC05 18s vs this12s test. Recompute full four-minute countdown at full rough cut; no clock added here.",
+  "actual": {
+    "source_seconds": 12.041667,
+    "source_resolution": "854x480",
+    "fps": 24,
+    "standalone_seconds": 12,
+    "combined_seconds": 50.625,
+    "render_resolution": "1280x720 upscaled draft",
+    "source_mean_db": -26.2,
+    "source_peak_db": -4.6
+  },
+  "outputs": {
+    "standalone": "04_FOOTAGE/SC05_DISHES_TEST/sc05-review-v01.mp4",
+    "combined": "04_FOOTAGE/SC05_DISHES_TEST/sc02-sc05-review-v01.mp4"
+  }
+}
+
