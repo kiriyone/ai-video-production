@@ -1,0 +1,26 @@
+{
+  "job_id": "58b8bddc-3c6c-4161-9b3f-ae13bc80d4f3",
+  "quoted_credits": 42,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 14,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "8336ec84-762d-4b27-abf9-a7c77c247280",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "0a537946-ff23-40ff-9770-b85b5afd35e3"
+      },
+      {
+        "role": "audio",
+        "value": "c611e794-24b1-4475-aa3a-a48130e00fc1"
+      }
+    ],
+    "prompt": "SC10B LAST FOUR MINUTES Japanese live-action short, emotional words finally reaching mother. 14 seconds, continuous locked medium two-shot, exactly continue supplied start image. Japanese Ken32 blond layered hair yellow/magenta hoodie white T silver chain dark jeans LEFT; mother50 gray-streaked tied hair beige cardigan offwhite shirt bluegray apron RIGHT. Same faces, ages, gray sofa beneath left window, soft afternoon light, door, body positions. Mother's RIGHT hand already gently covers Ken's LEFT hand on his left thigh; retain EXACT contact and all fingers/wrists throughout. Her left hand stays on her own thigh; his right hand stays on his other thigh. Do not add a hand or re-grasp. Faces and joined hands remain in shot, no cut, camera orbit, pan, zoom or phone insert.\nAudio reference for the two established Japanese voices ONLY: adult male Ken and mature female mother. Do not repeat reference words. Generate ONLY these two new lines in Japanese, one speaker at a time, natural sync, no narrator or subtitles.\n0–1.8s Ken looks directly at mother, takes a small natural breath. He is still frightened but finally chooses a simple honest word. Mother watches his eyes, closed lips, does not interrupt.\n1.8–4s KEN ONLY quietly says 「……ありがとう。」 (Arigatou.) Plain and intimate, small catch before the word, no speech or additional phrases, no grand smile or heavy sobbing. His eyes remain on her.\n4–5.5s a small silence as mother receives the word. She draws a breath; eyes moist but no streaming tears. Do not cut away.\n5.5–9.5s MOTHER ONLY softly replies 「うん。ちゃんと、聞こえた。」 (Un. Chanto, kikoeta.) Short natural pause after un, a tiny catch after chanto; warm but held together with effort, not cheerful. Entire final word is clear and unhurried. Ken listens silently without nodding yet.\n9.5–12s AFTER her full sentence is complete, Ken makes ONE small conscious nod while meeting her eyes, showing he has heard her reply alive. Keep him upright and visibly breathing, head lifts back to its normal position after this nod. No lowered dangling head. A tiny settling of their held hands is acceptable, no finger interlacing or new grip.\n12–14s both hold eye contact quietly, hands still joined, subtle breathing and natural blinking. Mother does not release him. End SAME seated medium two-shot ready for subsequent countdown insert. No death, collapse, falling asleep, closed eyes held shut, limp hand, time running out or darkening in this clip. No extra dialogue, embrace, standing, added props, smartphone, countdown, text, music, beep or voiceover. Realistic restrained acting, quiet apartment room tone and clear close-miked speech. This scene completes the exchange BEFORE the later end of life."
+  }
+}
