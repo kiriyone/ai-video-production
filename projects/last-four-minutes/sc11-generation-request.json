@@ -1,0 +1,26 @@
+{
+  "job_id": "0c377cac-02ee-49ce-bc66-27aa53de49aa",
+  "quoted_credits": 42,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 14,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "852bd69e-8c86-4341-9c4e-e6f30dbd9ca6",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "3f59ef62-be72-43e8-a1b2-9903a39c61fb"
+      },
+      {
+        "role": "audio",
+        "value": "c611e794-24b1-4475-aa3a-a48130e00fc1"
+      }
+    ],
+    "prompt": "SC11 LAST FOUR MINUTES. Final quiet death scene of fictional Japanese live-action short film. 14 seconds one continuous LOCKED medium two-shot. Exactly continue starting frame: Japanese Ken32 blond layered hair yellow-magenta hoodie white T silver chain dark jeans on LEFT; Japanese mother50 tied gray-streaked hair beige cardigan bluegray apron on RIGHT. Same identity, clothing, gray sofa under left window, soft afternoon lighting, room geometry and seated positions. Her RIGHT hand already covers his LEFT hand resting on his left thigh. Her left hand stays on own thigh and his right on own thigh. Maintain this precise contact throughout. All fingers/wrists realistic. Both faces and joined hands visible. No phone or new props in frame. Separate phone countdown insert will be added in editing immediately BEFORE this shot; do not generate a timer.\nKen has already said thank you, mother has replied, he has heard and acknowledged her. Now his allotted time has ended. This is NOT another listening/nodding shot.\n0–0.7 seconds, one final small soft exhale, his face relaxes, no new words, no grin. Mother's hand stays in place.\n0.7–3 seconds Ken's eyelids gently settle closed and STAY CLOSED. His neck loses tension; head slowly tips slightly to HIS LEFT toward mother's right shoulder (toward screen right). Upper body stays supported by sofa, no falling. His LEFT fingers under mother's right palm soften and stop actively holding. His right hand remains on his own thigh. No hand movement toward his mouth or chest. No dramatic jerk, gasp, convulsion, injury or blood.\n3–5.5 seconds Ken now remains completely unresponsive, same lowered head angle, closed eyes, no new nod, no reopening eyes, no speech, no visible new breath. Mother notices the lack of response. Her gaze goes from his face briefly to their hands and back. She tightens existing gentle hold only slightly, never releases or re-grasps, no added hands.\n5.5–7 seconds MOTHER ONLY softly calls 「……ケン？」 (Ken?) under her breath, voice trembles slightly, quiet question rather than scream. Use audio reference ONLY for established mature Japanese mother voice/timbre, never repeat reference dialogue. Ken does not answer.\n7–14 seconds let silence and mother's small stunned reaction carry grief. She remains beside him holding SAME hand, looking at his face, eyes moist, tiny trembling breath. No loud sob, shaking his body, embrace, standing or looking at camera. Ken remains still and unresponsive to the end, eyes closed, head remains gently inclined toward mother; no recovery or further breathing animation.\nNo extra dialogue, narration, subtitles, timer, smartphone, music, alarm, hospital monitor flatline, dramatic sound effect, camera movement, reframing, cutaway, fade or change of lighting. Natural intimate room tone, fabric rustle and mother's breath. Restrained human realism; peaceful but unequivocally final loss of life, not a nap or a renewed nod."
+  }
+}
