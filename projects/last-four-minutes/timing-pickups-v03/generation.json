@@ -1,0 +1,164 @@
+{
+  "created": "2026-11-24",
+  "purpose": "Real-time four-minute countdown, silent reaction pickups",
+  "quotes": [
+    {
+      "cost": {
+        "credits": 18,
+        "credits_exact": 18
+      },
+      "quote_ref": "quote:UXOoN4cw-LSWLAbIPooZgA"
+    },
+    {
+      "cost": {
+        "credits": 18,
+        "credits_exact": 18
+      },
+      "quote_ref": "quote:iMn7Z6mmaKJ6JHffcYn7aQ"
+    },
+    {
+      "cost": {
+        "credits": 18,
+        "credits_exact": 18
+      },
+      "quote_ref": "quote:obh3IpGgK5jw76cGy6P51A"
+    },
+    {
+      "cost": {
+        "credits": 24,
+        "credits_exact": 24
+      },
+      "quote_ref": "quote:48owxnlFItpR__jNARa2Zw"
+    }
+  ],
+  "requests": [
+    {
+      "index": 0,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 6,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": false,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "800b1990-bf3a-424e-903c-9bb48704e06e"
+          }
+        ],
+        "prompt": "Japanese live-action drama LAST FOUR MINUTES. Continue exactly from the reference frame: same Japanese Ken32, blond layered hair, yellow and magenta hoodie, white T shirt and jeans; same mother50, gray-streaked tied hair, modest beige cardigan and blue-gray apron. Same real apartment, soft left-window daylight, skin pores, natural fabric. Preserve camera framing, focal length, spatial geometry, faces, clothing and every prop. Camera locked. Real continuous human motion. No cuts, zoom, reframing, morphing, camera drift, added people, added phone, text, logos, music or subtitles. NO speech or lip-sync: lips remain resting, only silent breath. Restrained fear, no smiling, no sobbing or collapse. 6-second continuation after Ken has failed to dismiss the notification. He stays seated with legs in the reference position, phone already in his hands. His nervous half-smile fades; his thumb stops above the phone. He notices his own hand very slightly trembling, steadies it with his other hand, and finally looks back down to the same screen. Do not turn the screen toward the camera. Mother in background quietly watches him then attends the kitchen with only a small head turn. No new dialogue. End very close to the reference arrangement, ready for Ken to quietly ask the phone to cancel."
+      }
+    },
+    {
+      "index": 1,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 6,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": false,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "e7c4fa92-103c-4b70-9d4d-518b9ed196af"
+          }
+        ],
+        "prompt": "Japanese live-action drama LAST FOUR MINUTES. Continue exactly from the reference frame: same Japanese Ken32, blond layered hair, yellow and magenta hoodie, white T shirt and jeans; same mother50, gray-streaked tied hair, modest beige cardigan and blue-gray apron. Same real apartment, soft left-window daylight, skin pores, natural fabric. Preserve camera framing, focal length, spatial geometry, faces, clothing and every prop. Camera locked. Real continuous human motion. No cuts, zoom, reframing, morphing, camera drift, added people, added phone, text, logos, music or subtitles. NO speech or lip-sync: lips remain resting, only silent breath. Restrained fear, no smiling, no sobbing or collapse. 6-second continuation after Ken has said it is nothing. He remains standing in the reference position, phone stays lowered in the same hand. He glances at his own chest as he takes one shallow breath; his free hand lightly touches his sternum over the hoodie once, then lowers to its original resting position. He looks up toward his mother's back, wanting to speak but unable to. Mother continues a tiny ordinary cooking movement at the same stove, without turning or talking. Keep action minimal, return to the starting stance by end. No clutching pain, death or exaggerated illness."
+      }
+    },
+    {
+      "index": 2,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 6,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": false,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "4cab7508-e99c-4d24-83c9-dc7581c368a6"
+          }
+        ],
+        "prompt": "Japanese live-action drama LAST FOUR MINUTES. Continue exactly from the reference frame: same Japanese Ken32, blond layered hair, yellow and magenta hoodie, white T shirt and jeans; same mother50, gray-streaked tied hair, modest beige cardigan and blue-gray apron. Same real apartment, soft left-window daylight, skin pores, natural fabric. Preserve camera framing, focal length, spatial geometry, faces, clothing and every prop. Camera locked. Real continuous human motion. No cuts, zoom, reframing, morphing, camera drift, added people, added phone, text, logos, music or subtitles. NO speech or lip-sync: lips remain resting, only silent breath. Restrained fear, no smiling, no sobbing or collapse. 6-second close reaction after mother learns the remaining time cannot be changed. Her extended arm stays at the reference height. She looks toward the unseen phone below frame once, catches her breath, then returns her eyes to Ken's face at frame left. Her mouth closes gently without forming words. Her eyes wet slightly, one small swallow; she remains unable to understand how her living son could be leaving. No tears streaming, no head shake loop, no added gestures. End with the same gaze toward him and same extended-arm position, ready for next shot where she touches his cheek."
+      }
+    },
+    {
+      "index": 3,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 8,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": false,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "fd14b112-497c-4dc3-93be-3728df896772"
+          }
+        ],
+        "prompt": "Japanese live-action drama LAST FOUR MINUTES. Continue exactly from the reference frame: same Japanese Ken32, blond layered hair, yellow and magenta hoodie, white T shirt and jeans; same mother50, gray-streaked tied hair, modest beige cardigan and blue-gray apron. Same real apartment, soft left-window daylight, skin pores, natural fabric. Preserve camera framing, focal length, spatial geometry, faces, clothing and every prop. Camera locked. Real continuous human motion. No cuts, zoom, reframing, morphing, camera drift, added people, added phone, text, logos, music or subtitles. NO speech or lip-sync: lips remain resting, only silent breath. Restrained fear, no smiling, no sobbing or collapse. 8-second continuation after Ken's thanks and mother's reply have BOTH finished. They remain seated exactly as shown. Mother keeps her RIGHT hand gently over Ken's LEFT hand on his thigh; do not swap hands. Ken gives one very small squeeze beneath her hand, fingers move only a little, no interlacing. He slowly releases a held breath and meets her eyes. Mother silently stays with him, resisting panic. Both remain conscious and still alive throughout. Last two seconds settle into this mutual gaze with natural breathing, ready for a cut to the phone then Ken POV. No kiss, hug, smile, dialogue, collapse, eyelid closure or death."
+      }
+    }
+  ],
+  "generation": {
+    "jobs": [
+      {
+        "index": 0,
+        "job_id": "837fbd4b-9842-407f-9c99-d1eec5f38d7f",
+        "status": "pending"
+      },
+      {
+        "index": 1,
+        "job_id": "3f244276-5f6f-490c-ac42-8d1b245e38ed",
+        "status": "pending"
+      },
+      {
+        "index": 2,
+        "job_id": "397063f8-8213-477d-aa5e-3cc184c65bb6",
+        "status": "pending"
+      },
+      {
+        "index": 3,
+        "job_id": "c8c0cdb7-d587-45dc-bbd1-6ba7e6ecddd1",
+        "status": "pending"
+      }
+    ],
+    "submitted_count": 4,
+    "failed_count": 0,
+    "references_read": [
+      {
+        "ref": "quote:UXOoN4cw-LSWLAbIPooZgA",
+        "chars": 1538,
+        "sha256": "a67eaaaad650d045765988af1a6bbd7d80d5b5a725e2846326ab720ea9c88b8f"
+      },
+      {
+        "ref": "quote:iMn7Z6mmaKJ6JHffcYn7aQ",
+        "chars": 1529,
+        "sha256": "b53ae3f5f0986177e1d352fdaf149c4a7658c73797ac2757fcc27658c0743bf4"
+      },
+      {
+        "ref": "quote:obh3IpGgK5jw76cGy6P51A",
+        "chars": 1529,
+        "sha256": "d909cd297b9b982183693ea3604814e50ca497f9c26911262bd1c50c23346396"
+      },
+      {
+        "ref": "quote:48owxnlFItpR__jNARa2Zw",
+        "chars": 1575,
+        "sha256": "c84f417e9436c9a96ad7ecc6f56fd1dd4b65ed179bc3a1b792c8fc3ce2ebd791"
+      }
+    ]
+  }
+}

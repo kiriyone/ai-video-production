@@ -1,0 +1,72 @@
+{
+  "fps": 24,
+  "clockStartFrame": 159,
+  "deadlineFrame": 5919,
+  "countdownFrames": 5760,
+  "countdownSeconds": 240,
+  "sc03": {
+    "firstFrame": 783,
+    "firstDisplay": "03:34",
+    "nextDisplay": "03:33"
+  },
+  "timerWindows": [
+    {
+      "startFrame": 2383,
+      "frames": 96,
+      "runs": [
+        {
+          "start": 0,
+          "end": 8,
+          "remaining": 148
+        },
+        {
+          "start": 8,
+          "end": 32,
+          "remaining": 147
+        },
+        {
+          "start": 32,
+          "end": 56,
+          "remaining": 146
+        },
+        {
+          "start": 56,
+          "end": 80,
+          "remaining": 145
+        },
+        {
+          "start": 80,
+          "end": 96,
+          "remaining": 144
+        }
+      ]
+    },
+    {
+      "startFrame": 5631,
+      "frames": 96,
+      "runs": [
+        {
+          "start": 0,
+          "end": 24,
+          "remaining": 12
+        },
+        {
+          "start": 24,
+          "end": 48,
+          "remaining": 11
+        },
+        {
+          "start": 48,
+          "end": 72,
+          "remaining": 10
+        },
+        {
+          "start": 72,
+          "end": 96,
+          "remaining": 9
+        }
+      ]
+    }
+  ],
+  "zeroFrame": 5919
+}

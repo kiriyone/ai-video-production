@@ -1,0 +1,135 @@
+{
+  "folder": {
+    "folder_id": "a84cb8e4-dddf-412b-a7a4-d48ac3f26552",
+    "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+    "parent_folder_id": "40f771c7-96d5-49b3-8f57-6a4d250b45f3",
+    "workspace_id": "46e68ea6-0276-4112-bec1-9c7f10d99133",
+    "name": "TIMING_PICKUPS_V03"
+  },
+  "attachments": [
+    {
+      "project_root_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+      "all_succeeded": true,
+      "results": [
+        {
+          "index": 0,
+          "status": "ok",
+          "item": {
+            "id": "60a61f7b-5caf-40ca-8ecb-2e45c6505d76",
+            "name": null,
+            "parent_id": null,
+            "root_folder_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+            "folder_id": "a84cb8e4-dddf-412b-a7a4-d48ac3f26552",
+            "type": "job",
+            "item_id": "837fbd4b-9842-407f-9c99-d1eec5f38d7f",
+            "media_type": null,
+            "status": null
+          },
+          "code": null,
+          "message": null,
+          "operation": "attach",
+          "destination": {
+            "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+            "folder_id": "a84cb8e4-dddf-412b-a7a4-d48ac3f26552",
+            "placement_id": "60a61f7b-5caf-40ca-8ecb-2e45c6505d76",
+            "source_type": "job",
+            "item_id": "837fbd4b-9842-407f-9c99-d1eec5f38d7f"
+          }
+        }
+      ]
+    },
+    {
+      "project_root_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+      "all_succeeded": true,
+      "results": [
+        {
+          "index": 0,
+          "status": "ok",
+          "item": {
+            "id": "8cd57553-17c6-4f4c-a322-09d0edbcf00c",
+            "name": null,
+            "parent_id": null,
+            "root_folder_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+            "folder_id": "a84cb8e4-dddf-412b-a7a4-d48ac3f26552",
+            "type": "job",
+            "item_id": "3f244276-5f6f-490c-ac42-8d1b245e38ed",
+            "media_type": null,
+            "status": null
+          },
+          "code": null,
+          "message": null,
+          "operation": "attach",
+          "destination": {
+            "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+            "folder_id": "a84cb8e4-dddf-412b-a7a4-d48ac3f26552",
+            "placement_id": "8cd57553-17c6-4f4c-a322-09d0edbcf00c",
+            "source_type": "job",
+            "item_id": "3f244276-5f6f-490c-ac42-8d1b245e38ed"
+          }
+        }
+      ]
+    },
+    {
+      "project_root_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+      "all_succeeded": true,
+      "results": [
+        {
+          "index": 0,
+          "status": "ok",
+          "item": {
+            "id": "420e0f5d-e9e0-4441-915f-e18c98547bab",
+            "name": null,
+            "parent_id": null,
+            "root_folder_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+            "folder_id": "a84cb8e4-dddf-412b-a7a4-d48ac3f26552",
+            "type": "job",
+            "item_id": "397063f8-8213-477d-aa5e-3cc184c65bb6",
+            "media_type": null,
+            "status": null
+          },
+          "code": null,
+          "message": null,
+          "operation": "attach",
+          "destination": {
+            "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+            "folder_id": "a84cb8e4-dddf-412b-a7a4-d48ac3f26552",
+            "placement_id": "420e0f5d-e9e0-4441-915f-e18c98547bab",
+            "source_type": "job",
+            "item_id": "397063f8-8213-477d-aa5e-3cc184c65bb6"
+          }
+        }
+      ]
+    },
+    {
+      "project_root_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+      "all_succeeded": true,
+      "results": [
+        {
+          "index": 0,
+          "status": "ok",
+          "item": {
+            "id": "6d939975-0547-465c-a160-a9f0314c63e3",
+            "name": null,
+            "parent_id": null,
+            "root_folder_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+            "folder_id": "a84cb8e4-dddf-412b-a7a4-d48ac3f26552",
+            "type": "job",
+            "item_id": "c8c0cdb7-d587-45dc-bbd1-6ba7e6ecddd1",
+            "media_type": null,
+            "status": null
+          },
+          "code": null,
+          "message": null,
+          "operation": "attach",
+          "destination": {
+            "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+            "folder_id": "a84cb8e4-dddf-412b-a7a4-d48ac3f26552",
+            "placement_id": "6d939975-0547-465c-a160-a9f0314c63e3",
+            "source_type": "job",
+            "item_id": "c8c0cdb7-d587-45dc-bbd1-6ba7e6ecddd1"
+          }
+        }
+      ]
+    }
+  ]
+}

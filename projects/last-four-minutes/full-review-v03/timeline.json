@@ -1,0 +1,216 @@
+{
+  "duration": 255.62500000000003,
+  "overlap": 0.16666666666666666,
+  "clockStartFrame": 159,
+  "closedFrame": 5919,
+  "countdownFrames": 5760,
+  "scenes": [
+    {
+      "id": "SC01",
+      "source": "SC01_OPENING_TEST/sc01-take01-480p.mp4",
+      "start": 0,
+      "end": 6,
+      "duration": 6,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC02",
+      "source": "SC02_NOTIFICATION_TEST/sc02-dialogue-review-v01.mp4",
+      "start": 6,
+      "end": 18.625,
+      "duration": 12.625,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "R02",
+      "source": "TIMING_PICKUPS_V03/pickup-0.mp4",
+      "start": 18.625,
+      "end": 24.625,
+      "duration": 6,
+      "transition": "cut",
+      "audio": "no generated speech; quiet synthetic room-tone placeholder"
+    },
+    {
+      "id": "SC03",
+      "source": "SC03_CANCEL_TEST/sc03-review-v01.mp4",
+      "start": 24.625,
+      "end": 34.625,
+      "duration": 10,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC04",
+      "source": "SC04_UNSPOKEN_TEST/sc04-review-v01.mp4",
+      "start": 34.625,
+      "end": 50.625,
+      "duration": 16,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "R04",
+      "source": "TIMING_PICKUPS_V03/pickup-1.mp4",
+      "start": 50.625,
+      "end": 56.625,
+      "duration": 6,
+      "transition": "cut",
+      "audio": "no generated speech; quiet synthetic room-tone placeholder"
+    },
+    {
+      "id": "SC05",
+      "source": "SC05_DISHES_TEST/sc05-review-v01.mp4",
+      "start": 56.458333333333336,
+      "end": 68.45833333333334,
+      "duration": 12,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC06",
+      "source": "SC06_MEMORY_MOTION/sc06-motion-v02.mp4",
+      "start": 68.45833333333334,
+      "end": 84.45833333333334,
+      "duration": 16,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC07",
+      "source": "SC07_SHOW_PHONE_TEST/sc07-review-v01.mp4",
+      "start": 84.45833333333334,
+      "end": 98.45833333333334,
+      "duration": 14,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC08",
+      "source": "SC08_MOTHER_UNDERSTANDS_TEST/sc08-review-v01.mp4",
+      "start": 98.29166666666667,
+      "end": 112.29166666666667,
+      "duration": 14,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC08B",
+      "source": "SC08B_MOTHER_DENIAL_TEST/sc08b-review-v01.mp4",
+      "start": 112.125,
+      "end": 128.125,
+      "duration": 16,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "R08B",
+      "source": "TIMING_PICKUPS_V03/pickup-2.mp4",
+      "start": 128.125,
+      "end": 134.125,
+      "duration": 6,
+      "transition": "cut",
+      "audio": "no generated speech; quiet synthetic room-tone placeholder"
+    },
+    {
+      "id": "SC08C",
+      "source": "SC08C_STAY_WITH_ME_TEST/sc08c-review-v01.mp4",
+      "start": 134.125,
+      "end": 148.125,
+      "duration": 14,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC08DA",
+      "source": "SC08D_STOVE_TO_SOFA_TEST/part-A.mp4",
+      "start": 147.95833333333334,
+      "end": 157.95833333333334,
+      "duration": 10,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC08DB",
+      "source": "SC08D_STOVE_TO_SOFA_TEST/part-B.mp4",
+      "start": 157.95833333333334,
+      "end": 169.95833333333334,
+      "duration": 12,
+      "transition": "cut",
+      "audio": "no generated speech; quiet synthetic room-tone placeholder"
+    },
+    {
+      "id": "SC09",
+      "source": "SC09_FINDING_WORDS_TEST/sc09-review-v01.mp4",
+      "start": 169.95833333333334,
+      "end": 187.95833333333334,
+      "duration": 18,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC09B",
+      "source": "SC09B_IM_SCARED_TEST/sc09b-review-v01.mp4",
+      "start": 187.79166666666669,
+      "end": 199.79166666666669,
+      "duration": 12,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC10",
+      "source": "SC10_HOLDING_HANDS_TEST/sc10-review-v01.mp4",
+      "start": 199.79166666666669,
+      "end": 213.79166666666669,
+      "duration": 14,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC10B",
+      "source": "SC10B_WORDS_REACH_HER_TEST/sc10b-review-v01.mp4",
+      "start": 213.62500000000003,
+      "end": 227.62500000000003,
+      "duration": 14,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "R10B",
+      "source": "TIMING_PICKUPS_V03/pickup-3.mp4",
+      "start": 227.62500000000003,
+      "end": 234.62500000000003,
+      "duration": 7,
+      "transition": "cut",
+      "audio": "no generated speech; quiet synthetic room-tone placeholder"
+    },
+    {
+      "id": "PHONE",
+      "source": "SC11_TIME_RUNS_OUT_TEST/phone-zero-v01.mp4",
+      "start": 234.62500000000003,
+      "end": 238.62500000000003,
+      "duration": 4,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "POV",
+      "source": "SC11_KEN_POV_ENDING/ken-pov-ending-v02.mp4",
+      "start": 238.62500000000003,
+      "end": 248.62500000000003,
+      "duration": 10,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "MESSAGE",
+      "source": "SC12_VIEWER_MESSAGE/message-card-v01.mp4",
+      "start": 248.62500000000003,
+      "end": 255.62500000000003,
+      "duration": 7,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    }
+  ]
+}
