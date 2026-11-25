@@ -1,0 +1,468 @@
+{
+  "date": "2026-11-24",
+  "scene": "SC06 motion v02",
+  "user_correction": "Station shot around10s looked like a different person; replace with Ken and make real moving footage.",
+  "image_corrections": [
+    {
+      "index": 0,
+      "name": "08_station",
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "f70bd05a-87ea-4faf-822a-289188285e14"
+          },
+          {
+            "role": "image",
+            "value": "1e32b7e0-c114-4ddf-b20d-875d0c17abc7"
+          }
+        ],
+        "prompt": "Replace ONLY the man's identity in image2 railway bench scene with EXACT Ken from image1. Image1 is the absolute identity master: preserve his Japanese face, eye shape, nose, lips, jaw and cheek proportions, distinctive layered medium-length hair with long fringe. Same recognizable actor, only slightly younger age25; hair dark brown with lighter brown tips, NOT cropped short. Image2 supplies ONLY pose, office white shirt and dark trousers, work bag, bench, station lighting and passing train, never its man's face or head. Ken hugs bag with left arm, right sleeve held just below eye before wiping a tear. His face must clearly match image1 despite clothing/hair color. Three-quarter medium close framing. Black-and-white photorealistic cinema, no text, no collage, no smiling, no additional people."
+      },
+      "result": {
+        "index": 0,
+        "job_id": "b931b972-2706-4e64-a928-8eab24939eab",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021417_b931b972-2706-4e64-a928-8eab24939eab.png"
+      },
+      "credits": 2
+    },
+    {
+      "index": 1,
+      "name": "06_rejection",
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "fc70684d-4e29-41eb-a3bc-553bdb3560a3"
+          },
+          {
+            "role": "image",
+            "value": "538eda6b-dd69-4486-bd0f-f858be1ec1e4"
+          },
+          {
+            "role": "image",
+            "value": "cf0d5e60-4910-4f8e-92f1-7ffbe6617b70"
+          }
+        ],
+        "prompt": "Black-and-white realistic movie still. Preserve EXACT apartment geography and camera angle from image1: curtained window on LEFT wall, sofa beneath left window, doorway center-left, kitchen across background, fridge screen right, table and chairs screen right. No window on right wall. Remove seated adult Ken. Replace with teen Ken16 identity and charcoal hoodie whiteT darkjeans from image2 standing in clear aisle center-left near doorway, three-quarter back, about to walk away into that doorway, chin turned away from mother. Mother34 based on image3 aged8 years, black tied hair, pale cardigan, sits at dining table screen right looking toward her son quietly. No phone, no grief or exaggerated anger. ONE natural cinematic frame, no reference sheet layout, no labels, no text, no collage. Spatial continuity is essential."
+      },
+      "result": {
+        "index": 1,
+        "job_id": "2e36e78e-89ab-457a-b294-9eb1ef4f1b12",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021417_2e36e78e-89ab-457a-b294-9eb1ef4f1b12.png"
+      },
+      "credits": 2
+    }
+  ],
+  "videos": [
+    {
+      "index": 2,
+      "name": "01_birth",
+      "edit_duration": 2,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "8cc979f5-7333-47a9-a51a-0c70b6496647"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Baby safely swaddled in mother's arms gives a short first cry, tiny hand flexes; mother gently rocks baby a few centimeters. Motion begins immediately within first0.2s. Natural baby cry only, no adult words. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 0,
+      "result": {
+        "index": 2,
+        "job_id": "66ed7e17-8be2-4f9c-a49b-92c3f6d6f4a0",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021553_66ed7e17-8be2-4f9c-a49b-92c3f6d6f4a0.mp4"
+      },
+      "credits": 12
+    },
+    {
+      "index": 3,
+      "name": "02_first_step",
+      "edit_duration": 1.5,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "deaa4f3c-ce56-4cd3-98de-b39a45d905fe"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Toddler takes ONE small real step toward crouching mother, she brings open hands a little closer to welcome him. Keep child safe standing. Motion begins immediately. Mother says softly in Japanese exactly 「おいで。」 between0.1 and0.9s. No other words. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 0,
+      "result": {
+        "index": 3,
+        "job_id": "3a721bec-03fb-4c5d-8ddf-fc7d9cfc46a2",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021554_3a721bec-03fb-4c5d-8ddf-fc7d9cfc46a2.mp4"
+      },
+      "credits": 12
+    },
+    {
+      "index": 4,
+      "name": "03_water",
+      "edit_duration": 1,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "5d75a20c-1c47-435e-8b88-e9c1e6c5b201"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Water splashes visibly, Ken8 laughs and flinches playfully, friends laugh. Immediate lively movement in first second, no slow motion. Water sounds and spontaneous laughter only. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 0.25,
+      "result": {
+        "index": 4,
+        "job_id": "2b5b1265-bbd5-4555-a799-bbba18da1727",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021554_2b5b1265-bbd5-4555-a799-bbba18da1727.mp4"
+      },
+      "credits": 12
+    },
+    {
+      "index": 5,
+      "name": "04_bandage",
+      "edit_duration": 1.5,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "550bdde8-42bc-40e4-8556-f27a89940776"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Mother's fingers gently press existing small bandage onto boy's knee, boy watches then relaxes slightly. One simple gesture begins immediately, no new wounds. Soft cloth/paper rustle, no words. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 0.5,
+      "result": {
+        "index": 5,
+        "job_id": "def01c4e-c5b2-4374-b73e-f9cf85cd502d",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021554_def01c4e-c5b2-4374-b73e-f9cf85cd502d.mp4"
+      },
+      "credits": 12
+    },
+    {
+      "index": 6,
+      "name": "05_birthday",
+      "edit_duration": 1,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "659b5311-898b-48d3-a6f4-db72d8220b12"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Ken10 immediately leans slightly forward and blows candle flames out within first0.8s; smoke curls up and his delighted smile grows. One short soft cheer from friends, no intelligible words. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 0.25,
+      "result": {
+        "index": 6,
+        "job_id": "602363df-ae97-4ef6-bafd-32baa1ba7567",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021554_602363df-ae97-4ef6-bafd-32baa1ba7567.mp4"
+      },
+      "credits": 12
+    },
+    {
+      "index": 7,
+      "name": "06_rejection",
+      "edit_duration": 1.5,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "2e36e78e-89ab-457a-b294-9eb1ef4f1b12"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Teen Ken turns his shoulders away from mother and takes one step toward existing doorway. Begin immediately. In a restrained teenage Japanese voice, quietly says exactly 「もう、いいって。」 between0.1 and1.2s. Mother stays seated and silent. No extra dialogue. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 0,
+      "result": {
+        "index": 7,
+        "job_id": "40e945e1-f8ca-4456-8877-f1d7b40ba034",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_022020_40e945e1-f8ca-4456-8877-f1d7b40ba034.mp4"
+      },
+      "credits": 12
+    },
+    {
+      "index": 8,
+      "name": "07_friends",
+      "edit_duration": 1,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "c7ba6622-48a1-4009-82dc-adf6d655d10a"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Ken and three friends lean together and burst into genuine laughter for their photo; small shoulder/body motion immediately, no freeze or flash. Natural short laughter only, no words. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 0.25,
+      "result": {
+        "index": 8,
+        "job_id": "002a5b62-5eff-4b2d-b55f-64f247bb9843",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021553_002a5b62-5eff-4b2d-b55f-64f247bb9843.mp4"
+      },
+      "credits": 12
+    },
+    {
+      "index": 9,
+      "name": "08_station",
+      "edit_duration": 1.5,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "b931b972-2706-4e64-a928-8eab24939eab"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Exactly same Ken face as starting image. He slowly wipes one tear with right sleeve and lowers it slightly; left arm continues hugging work bag. Immediate visible sleeve motion within firstsecond, blurred train moves behind. No smile, no dramatic sobbing. Soft passing train and one quiet breath, no words. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 0.25,
+      "result": {
+        "index": 9,
+        "job_id": "7e22ca90-777a-41e4-8fdb-ebc8f1108b69",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_022020_7e22ca90-777a-41e4-8fdb-ebc8f1108b69.mp4"
+      },
+      "credits": 12
+    },
+    {
+      "index": 10,
+      "name": "09_blanket",
+      "edit_duration": 2,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "c912c6e4-f195-4de3-ad35-a6c57f3c7ce1"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Mother gently pulls blanket up over Ken's shoulder, settles fabric with hand. Ken remains lying still except small breath and one eyelid opening slightly. Action begins immediately, no waking or sitting up. Soft fabric rustle only, no words. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 1,
+      "result": {
+        "index": 10,
+        "job_id": "08eac6ce-f880-40b3-9c4a-3c1849195567",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021600_08eac6ce-f880-40b3-9c4a-3c1849195567.mp4"
+      },
+      "credits": 12
+    },
+    {
+      "index": 11,
+      "name": "10_today",
+      "edit_duration": 3,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "duration": 4,
+        "resolution": "480p",
+        "draft": true,
+        "generate_audio": true,
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "fef1153d-4672-4670-8a05-dafe43325afc"
+          },
+          {
+            "role": "video",
+            "value": "841e038b-0f1f-4eab-8e90-39c074af470c"
+          }
+        ],
+        "prompt": "Single continuous four-second live-action cinematic shot based exactly on starting image. This must be REAL SUBJECT MOTION, not a still-image slideshow, Ken Burns effect, zoom or parallax. Fixed camera. Preserve exact identity, facial proportions, age, clothes, limbs, objects, room geometry and monochrome lighting. Black and white as reference. Mother subtly turns face toward Ken off camera and says in natural Japanese exactly 「今日、どうだった？」 between0.3 and2.2s, with SAME voice as reference video. Small natural synced mouth motion, ordinary caring interest, no grief or smile at camera. Only mother speaks, no reply, no other words. Keep action small and physically continuous. No cuts, transitions, new people, face changes, text, subtitles, countdown, music or additional dialogue. Useful action should happen in first1.5seconds for a fast memory montage; finish naturally during remainder."
+      },
+      "edit_start": 0,
+      "result": {
+        "index": 11,
+        "job_id": "9e85e632-5cf3-48ea-ad5c-6f7126e82315",
+        "status": "completed",
+        "type": "video",
+        "model": "seedance_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_021601_9e85e632-5cf3-48ea-ad5c-6f7126e82315.mp4"
+      },
+      "credits": 12
+    }
+  ],
+  "cost": {
+    "before": 2769.13,
+    "images": 4,
+    "videos": 120,
+    "total": 124,
+    "after": 2645.13,
+    "cumulative_since_cap": 322,
+    "authorized_remaining": 2645
+  },
+  "actual": {
+    "source_seconds_each": 4.041667,
+    "source_resolution": "854x480",
+    "fps": 24,
+    "standalone_seconds": 16.008,
+    "combined_seconds": 66.633,
+    "render_resolution": "1280x720 upscaled draft",
+    "audio_mean_db": -29.3,
+    "audio_peak_db": -4.9,
+    "decode_check": "passed"
+  },
+  "verification": {
+    "contact_sheets_viewed": 10,
+    "frames_per_contact_sheet": 8,
+    "station_final_frame_at_10_2s_viewed": true,
+    "observations": [
+      "Station starting image and video now use established Ken's facial features and layered hair; previous unrelated face replaced.",
+      "Teen room window restored to left wall, sofa/window/doorway/kitchen consistent with master layout.",
+      "Subject motion visible across clips: baby hand/rocking, toddler step, splashing, bandage touch, candles blown out, teen turn/step, friends laughing, sleeve wipe, blanket adjustment, mother speaking/turning.",
+      "No still-image looping, zoompan or Ken Burns used for montage; all ten source shots are generated video."
+    ],
+    "spoken_content_verified": false,
+    "lip_sync_verified": false,
+    "audio_listened": false,
+    "limitations": [
+      "480p draft sources, not final HD.",
+      "Monochrome continuity maintained for current review; final palette remains open.",
+      "Sampled inspection is not exhaustive every-frame anatomical QA.",
+      "Exact Japanese lines and audible cut points still need playback review.",
+      "Station sleeve partly covers lower face during wipe; identity judged using visible frames before and after."
+    ]
+  },
+  "audio": {
+    "source": "generated audio from each source clip",
+    "old_sound_library_mix_used": false,
+    "edge_fades_seconds": 0.03,
+    "music_added": false,
+    "dialogue_requested": {
+      "first_step": "おいで。",
+      "rejection": "もう、いいって。",
+      "today": "今日、どうだった？"
+    }
+  },
+  "outputs": {
+    "standalone": "04_FOOTAGE/SC06_MEMORY_MOTION/sc06-motion-v02.mp4",
+    "combined": "04_FOOTAGE/SC06_MEMORY_MOTION/sc02-sc06-motion-v02.mp4",
+    "station_frame": "04_FOOTAGE/SC06_MEMORY_MOTION/review/final-at-10s.jpg"
+  },
+  "timing_note": "Video track16s; container16.008 due audio packet rounding. Four-minute whole-film countdown must be reconciled after full edit."
+}
+
