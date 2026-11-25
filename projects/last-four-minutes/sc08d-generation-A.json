@@ -1,0 +1,30 @@
+{
+  "job_id": "c1ccb631-760c-4c07-9bd1-f59b256e6052",
+  "quoted_credits": 30,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 10,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "ec135c4a-83c4-4e27-a18b-f3fd3f337d4a",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "d0beaf6e-adba-4929-a16c-38e904ba7e69"
+      },
+      {
+        "role": "video",
+        "value": "80710d24-435c-4d71-ba27-d0844658562b"
+      },
+      {
+        "role": "image",
+        "value": "16a9fa71-8e3f-441e-861f-11c070c25ae9"
+      }
+    ],
+    "prompt": "SC08D-A LAST FOUR MINUTES Japanese live-action short. 10 seconds, THREE simple film shots. Start exactly the starting frame: same Japanese mother50 gray-streaked tied hair, beige cardigan offwhite shirt blue-gray apron, right hand on cheek of same Japanese Ken32 blond layered hair yellow/magenta hoodie white T chain. He has just asked her to stay. Video reference supplies actors and mother's established Japanese voice. Extra wide image defines exact room geography and prop positions, not a new beginning.\nSHOT1 0–2s: mother gives tiny sober nod, gently lowers her RIGHT hand from Ken's cheek to her own side. She hears pan cooking, looks toward stove. Ken stays still, frightened but composed.\nSHOT2 2–5s: cut to close-up at existing kitchen gas stove, mother's beige cardigan RIGHT forearm and hand reach the front control. Show a small BLUE GAS FLAME beneath existing pan, then her fingers turn the control to OFF; flame visibly extinguishes completely. Pan remains on burner, no moving pot, no relighting. A quiet control click and cooking hiss diminishes. Ordinary controlled stove shutdown, not fire emergency. Only ONE hand. Include her sleeve so action belongs to her. No readable control text needed.\nSHOT3 5–10s: cut to established 45-degree WIDE ROOM from reference image: window and gray sofa on LEFT, dining table and two chairs center-right, stove and kitchen across back wall, fridge right. Mother is beside stove at back-right, hands now empty. Ken stands in clear aisle by sofa left. One black smartphone remains SCREEN UP at near-left corner of dining tabletop left of cream mug; tissue box right. Neither touches phone. Mother turns to Ken, takes one small step into clear aisle. Around7–8.5s she says exactly 「……座ろう。」 in natural restrained Japanese voice, inviting him to sit, no smile or instant serenity. Ken meets her eyes. End with both STILL STANDING, mother facing him, ready to go to sofa in next clip. Keep sofa fully visible, no furniture rearrangement. No need to show putting down utensils: her hands were empty after touching his cheek.\nONE utterance, mother only. No narrator, alarm, countdown, subtitles, music, extra dialogue, crying breakdown, embrace, sitting or collapse. Soft daylight, real skin and fabric, same actors. Match screen positions and props. Real motion, no slideshow. Room tone continues, stove remains OFF after shot2."
+  }
+}

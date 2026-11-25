@@ -4,9 +4,9 @@
   "scope": "Remaining production from user budget instruction; excludes earlier spending",
   "user_cap_credits": 2967,
   "starting_account_balance": 2967.13,
-  "spent_since_cap": 498,
-  "current_account_balance": 2469.13,
-  "remaining_authorized_budget": 2469,
+  "spent_since_cap": 566,
+  "current_account_balance": 2401.13,
+  "remaining_authorized_budget": 2401,
   "additional_purchase_authorized": false,
   "planning_reserve_for_finalization_and_repairs": 1000,
   "reserve_is_estimate_not_price_quote": true,
@@ -210,6 +210,21 @@
       "job_id": "796a92ba-7890-496b-9737-19d3c4c0757b",
       "purpose": "SC08C 14-second cheek contact and stay-with-me dialogue",
       "quoted_credits": 42
+    },
+    {
+      "job_id": "c1ccb631-760c-4c07-9bd1-f59b256e6052",
+      "quoted_credits": 30,
+      "purpose": "SC08D-A stove shutdown and invitation, 10 seconds"
+    },
+    {
+      "job_id": "d7ef9f5b-959f-4fb6-9303-f3c5396e544c",
+      "quoted_credits": 2,
+      "purpose": "SC08D remove duplicate phone from Ken hand"
+    },
+    {
+      "job_id": "11b2b2d0-a537-4f54-992d-5bed363f38f0",
+      "quoted_credits": 36,
+      "purpose": "SC08D-B move to sofa and sit, 12 seconds"
     }
   ],
   "rules": [

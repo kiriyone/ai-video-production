@@ -1,0 +1,14 @@
+{
+  "job_id": "d7ef9f5b-959f-4fb6-9303-f3c5396e544c",
+  "quoted_credits": 2,
+  "params": {
+    "prompt": "Precise continuity correction of this exact film frame. Remove ONLY the extra black smartphone-shaped object hanging beside Ken's LEFT hand at his hip (man in yellow/magenta hoodie standing on LEFT by sofa). BOTH of his hands must be EMPTY, fingers relaxed naturally beside jeans. Keep the SINGLE black smartphone lying flat SCREEN UP on the wooden dining table, to LEFT of cream mug, exactly where it is. Do not remove that tabletop phone. Everything else unchanged: identical two Japanese actors, faces, poses, eyes, blond hairstyle, mother gray tied hair, beige cardigan bluegray apron, wardrobe, proportions, room geometry, sofa, folded blue blanket, window, two chairs, table, mug, tissues, kitchen and lighting. Photoreal frame, exact same camera and framing. No new objects, gestures, text or split screen.",
+    "aspect_ratio": "16:9",
+    "reference_images": [
+      "4cc350b9-38a3-4f66-9055-0190b880dda4"
+    ],
+    "resolution": "2k"
+  },
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_033754_d7ef9f5b-959f-4fb6-9303-f3c5396e544c.png",
+  "reason": "Remove duplicated phone at Ken's left hand; retain tabletop phone. Crop A 5–10s to mother so erroneous hand object stays outside edited frame; use corrected image as B start."
+}

@@ -1,0 +1,26 @@
+{
+  "job_id": "11b2b2d0-a537-4f54-992d-5bed363f38f0",
+  "quoted_credits": 36,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 12,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "ec135c4a-83c4-4e27-a18b-f3fd3f337d4a",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "d7ef9f5b-959f-4fb6-9303-f3c5396e544c"
+      },
+      {
+        "role": "video",
+        "value": "80710d24-435c-4d71-ba27-d0844658562b"
+      }
+    ],
+    "prompt": "SC08D-B LAST FOUR MINUTES Japanese live-action short. 12-second continuous fixed wide shot, start from EXACT corrected reference image. Same Japanese Ken32 blond layered hair in yellow/magenta hoodie and dark jeans, barefoot, standing left beside gray sofa. Same mother50 gray-streaked tied hair, beige cardigan, offwhite shirt, bluegray apron standing behind dining table. She has just said 「座ろう」 in previous clip; NO spoken dialogue in this clip. Both hands of BOTH characters are EMPTY. ONE smartphone lies flat on tabletop left of cream mug, tissue box right; it stays there entire clip. The stove at back is OFF throughout.\nSingle simple action: both move to and SIT SIDE BY SIDE on the existing gray sofa under left window. Keep every wall, sofa, blue folded blanket on near armrest, dining table, both chairs, sink, stove and fridge fixed exactly. No camera cut, pan, zoom, reframing, furniture sliding, teleports or extra people.\n0–5 seconds: Ken turns gently toward sofa and takes two short natural steps along clear floor in front of it, toward the nearer/foreground cushion beside blue blanket armrest. Mother walks from behind table AROUND ITS LEFT END, passing behind the left dining chair without crossing through it, then enters the clear aisle between sofa and table. She moves toward the far sofa cushion nearer the kitchen, so she will sit on Ken's RIGHT side. They are frightened and subdued, walking slowly but not frozen. No touching or carrying props.\n5–9 seconds: Ken turns his back toward sofa and bends both knees, lowers pelvis onto near cushion with feet on floor; cushion depresses naturally. Mother turns toward same sofa and lowers herself onto adjacent far cushion on his right. Show real lowering and seated body weight, not morphing or dissolving into seats. Hands may lightly brace on sofa, anatomically normal.\n9–12 seconds: both remain fully seated close together, about a hand's breadth between shoulders, Ken on screen LEFT/near cushion and mother on screen RIGHT/far cushion. Feet on floor, torsos gently turn toward each other, mother looks at Ken. No smiling, hugging, collapse or death. End with stable seated two-shot ready for conversation. Sofa does NOT move. Tabletop phone stays visible in the background, untouched. No phone in their hands, pockets or sofa.\nConsistent faces, wardrobe and lighting, realistic skin and fabric. Ordinary footsteps, cloth and soft cushion creak, breathing, quiet apartment ambience. No music, alarm, countdown, text, captions, voiceover or extra dialogue. Real continuous physical motion, no still-frame animation."
+  }
+}
