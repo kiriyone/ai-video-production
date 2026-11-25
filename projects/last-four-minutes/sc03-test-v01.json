@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-24",
+  "image": {
+    "index": 0,
+    "job_id": "f70bd05a-87ea-4faf-822a-289188285e14",
+    "status": "completed",
+    "type": "image",
+    "model": "nano_banana_2",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_005621_f70bd05a-87ea-4faf-822a-289188285e14.png"
+  },
+  "image_request": {
+    "prompt": "Targeted expression edit ONLY of this exact live-action film frame. Preserve the same Ken identity, face proportions, layered long blond hairstyle, yellow/magenta/cream/black hoodie pattern, hands and smartphone, seated position, background and lighting and camera framing EXACTLY. Change his expression from the little smile to quiet apprehension: mouth closed in a neutral horizontal line, relaxed cheeks without dimples, no smile, eyes still looking down at his phone, a slight crease between eyebrows. He is about to quietly ask his phone to cancel frightening news. Understated adult emotion, no crying, no exaggerated frown, no broad eyes, no beautification. No other edits. No captions or interface.",
+    "aspect_ratio": "16:9",
+    "reference_images": [
+      "4d32d599-b31f-423a-b4b2-509a4bcb55d9"
+    ],
+    "resolution": "2k"
+  },
+  "video": {
+    "index": 0,
+    "job_id": "22c3f773-5378-4a4c-b927-3fd2e8387d74",
+    "status": "completed",
+    "type": "video",
+    "model": "seedance_2_5",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_010042_22c3f773-5378-4a4c-b927-3fd2e8387d74.mp4"
+  },
+  "video_request": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 10,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "75f37d56-a407-4907-b973-46f04f080b96",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "f70bd05a-87ea-4faf-822a-289188285e14"
+      },
+      {
+        "role": "video",
+        "value": "0f4a6005-d135-4b59-b4e4-80a9c9d0e963"
+      }
+    ],
+    "prompt": "Single continuous ten-second fixed close shot of Ken, exactly the start image composition and lighting. The reference VIDEO is continuity for the SAME Ken male Japanese voice and the SAME calm synthetic phone voice; do NOT copy its wide framing, dialogue or mother's appearance. Use start IMAGE for every visual detail, unchanged blond hair, face, hoodie, apartment and phone in both hands. Only Ken is visible, no mother enters. He tries to cancel the death notice without admitting fear, speaking quietly so mother will not hear. Three spoken lines in Japanese, in order, no additional words, no subtitles. 0.3-2.2s Ken in the same adult male voice as video says softly 「これ、キャンセルして。」 (Kore, kyanseru shite.) looking at phone; small natural lip movement. 2.2-2.7s short expectant pause. 2.7-4.8s ONLY the phone's same neutral synthetic voice as video replies 「通知はオフにできます。」 (Tsuuchi wa ofu ni dekimasu.) Ken's lips closed while he listens. 4.8-5.5s a beat of disbelief, not a comedy pause or smile. 5.5-6.7s ONLY Ken replies 「通知じゃなくて。」 (Tsuuchi janakute.) quietly, restrained frustration, not shouting. 6.7-7.2s stillness. 7.2-7.8s one small right-thumb tap on phone screen to mute it, both hands continue supporting same phone; no visible screen UI, no tap sound needed. 7.8-10s no more voices. Ken stares at phone and realizes muting changes nothing; lips closed, shallow natural breath, no tears, no theatrical gasp. Audio only these lines and very low room tone. No music, beeps, sound effects, laugh track, other voices or repeated lines. Do not turn phone over or stand up. Fixed camera, no cuts or zooms. Keep both hands and phone anatomically continuous. Preserve start-image neutral anxious expression; never smile."
+  },
+  "folder": {
+    "folder_id": "75f37d56-a407-4907-b973-46f04f080b96",
+    "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+    "parent_folder_id": "40f771c7-96d5-49b3-8f57-6a4d250b45f3",
+    "workspace_id": "46e68ea6-0276-4112-bec1-9c7f10d99133",
+    "name": "SC03_CANCEL_TEST"
+  },
+  "cost": {
+    "image": 2,
+    "video": 30,
+    "total": 32,
+    "balance_before": 2915.13,
+    "balance_after": 2883.13,
+    "spent_since_cap": 84
+  },
+  "outputs": {
+    "standalone": "04_FOOTAGE/SC03_CANCEL_TEST/sc03-review-v01.mp4",
+    "combined": "04_FOOTAGE/SC03_CANCEL_TEST/sc02-sc03-review-v01.mp4"
+  },
+  "actual": {
+    "source_seconds": 10.041667,
+    "source_resolution": "854x480",
+    "fps": 24,
+    "standalone_seconds": 10,
+    "combined_seconds": 22.625,
+    "render_resolution": "1280x720",
+    "audio_codec": "AAC",
+    "source_mean_db": -28.1,
+    "source_peak_db": -3.6
+  },
+  "verification": {
+    "sampled_frames": 10,
+    "spoken_content_verified": false,
+    "voice_continuity_verified": false,
+    "lip_sync_verified": false,
+    "phone_screen_at_8_5s_verified": true
+  },
+  "clock": {
+    "combined_notification_time": 0.625,
+    "sc03_start": 12.625,
+    "phone_insert_combined_time": 20.625,
+    "values": [
+      "03:40",
+      "03:39"
+    ],
+    "display_during_dialogue": false
+  },
+  "approval": {
+    "sc02_user_accepted": true,
+    "sc03_status": "awaiting playback review"
+  }
+}
