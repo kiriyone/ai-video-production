@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "job_id": "796a92ba-7890-496b-9737-19d3c4c0757b",
+  "quoted_credits": 42,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 14,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "5c4262c1-b714-48de-8af1-ff9f69d455fc",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "92eccc7a-09ee-4bce-ab8e-66a02a4e6e28"
+      },
+      {
+        "role": "video",
+        "value": "80710d24-435c-4d71-ba27-d0844658562b"
+      },
+      {
+        "role": "image",
+        "value": "f70bd05a-87ea-4faf-822a-289188285e14"
+      }
+    ],
+    "prompt": "SC08C LAST FOUR MINUTES, 14 seconds Japanese naturalistic live-action emotional drama. Continue the exact starting frame after Ken has said his remaining time cannot be changed. Start image fixes mother identity, costume, lighting and location. Video reference fixes BOTH existing actors, Ken's natural Japanese male voice and room. Additional image is Ken's face identity only. Do not copy dialogue from references.\nSame 32-year-old JAPANESE Ken: layered dyed blond hair with dark roots, yellow/magenta/cream patterned hoodie over white T-shirt and chain. Same Japanese mother aged50: tied gray-streaked hair, beige cardigan, offwhite T-shirt, blue-gray apron. Do not replace him with a Western actor or change her age. Natural pores and understated acting. Ken is LEFT; mother is RIGHT. Same modest kitchen, fridge behind mother, soft daylight from left.\n0–2 seconds: mother withdraws her reaching hand from below frame and looks at her son's living face. She has heard the notice cannot be stopped but cannot reconcile that with his warmth. Ken quietly takes half a step closer along the clear aisle at the left side of the table. No walking through furniture.\n2–5 seconds: camera gently reframes slightly wider and left, revealing BOTH faces in profile/three-quarter without crossing the axis. Mother takes one small step to close their distance; her RIGHT elbow bends naturally. She slowly raises her RIGHT hand toward Ken's camera-facing LEFT cheek. Show the approach and first light contact, not a hand appearing on his face. Her palm softly cups his left cheek, fingers together resting naturally along cheekbone, thumb clear of lips and eye. ONE right hand, five anatomically normal fingers, plausible elbow reach. Her left hand remains lowered. The action is checking his warmth, not an affectionate romantic caress. Ken's head remains intact and gently yields to her touch. No stroking or repeated touching.\n5–7 seconds: hold contact. Ken's face softens; he meets her eyes and takes a small unsteady breath. No smile, crying breakdown or kiss.\n7–10 seconds: Ken clearly says exactly 「母さん。ここにいて。」 in the established young adult male Japanese voice. A short vulnerable pause after 母さん. His lips and jaw move naturally, mother's hand does not cover his mouth. Mother listens silently with lips closed.\n10–14 seconds: mother gives one small sober nod, keeping her hand lightly on his cheek and eyes on him. She remains frightened, but chooses to stay close. Ken releases a little breath. Hold both faces, alive and present. End with hand still on cheek; no sudden hand withdrawal, no embrace, no sitting.\nSingle restrained shot, seamless reframe, no rapid cut. Real continuous human motion, actual contact without finger fusion, penetration, extra limbs or face morphing. Smartphone stays on the table out of frame and no one picks it up. Only ONE spoken line by Ken; no mother's spoken reply, narrator, alarm, music, countdown or subtitles. Soft breaths, cloth movement and apartment room tone. Preserve the cooking ambience; stove not switched off yet. Do not show death, collapse or a new flashback."
+  }
+}
