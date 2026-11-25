@@ -4,9 +4,9 @@
   "scope": "Remaining production from user budget instruction; excludes earlier spending",
   "user_cap_credits": 2967,
   "starting_account_balance": 2967.13,
-  "spent_since_cap": 322,
-  "current_account_balance": 2645.13,
-  "remaining_authorized_budget": 2645,
+  "spent_since_cap": 364,
+  "current_account_balance": 2603.13,
+  "remaining_authorized_budget": 2603,
   "additional_purchase_authorized": false,
   "planning_reserve_for_finalization_and_repairs": 1000,
   "reserve_is_estimate_not_price_quote": true,
@@ -185,6 +185,11 @@
       "job_id": "7e22ca90-777a-41e4-8fdb-ebc8f1108b69",
       "purpose": "SC06 motion v02 video 9",
       "quoted_credits": 12
+    },
+    {
+      "job_id": "80710d24-435c-4d71-ba27-d0844658562b",
+      "purpose": "SC07 14-second show-phone dialogue, reusing SC05 final frame",
+      "quoted_credits": 42
     }
   ],
   "rules": [
@@ -195,4 +200,3 @@
     "User cap is 2967.00, not account balance 2967.13."
   ]
 }
-

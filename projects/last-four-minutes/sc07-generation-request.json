@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-24",
+  "job_id": "80710d24-435c-4d71-ba27-d0844658562b",
+  "quoted_credits": 42,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 14,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "da612f80-5187-4035-92b9-0f07938b0eca",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "331eeee0-ebd4-4049-949f-ce61d2772d95"
+      },
+      {
+        "role": "video",
+        "value": "a509238a-4720-4369-940c-983f55ac247b"
+      }
+    ],
+    "prompt": "SC07 of Japanese live-action emotional short LAST FOUR MINUTES. A continuous 14-second naturalistic shot returning to the present after a memory montage. Use the start image as the exact first frame and preserve these two Japanese actors, wardrobe, room geometry, daylight and screen positions. Reference video is only for identity, natural Japanese voices and spatial continuity; DO NOT repeat its previous dialogue. Ken is the same 32-year-old Japanese man with layered dyed blond hair, dark roots, yellow/magenta patterned hoodie, white T shirt, necklace, dark jeans. His 50-year-old Japanese mother has gray-streaked tied hair, beige cardigan and blue-gray apron. Ken stands by the sofa on screen LEFT and holds ONE black smartphone low in his LEFT hand. Mother is behind the dining table screen RIGHT, already turned toward him. Keep left window, sofa, table, chairs and kitchen identical.\n0.0–1.3 seconds: Mother gently calls only 「……ケン？」 in her established voice. Ken hears her, blinks and returns mentally to the present.\n1.3–3.0: Ken takes one restrained breath, glances at the phone in his left hand and then meets his mother's eyes. His playful mask has fallen away, but he is trying not to frighten her. No crying.\n3.0–5.2: Ken softly and clearly says exactly 「母さん。これ、見て。」 in natural Japanese, with a small pause after 母さん, matching visible mouth movement. He is choosing to share what he hid earlier.\n5.2–10.0: He takes a small step along the clear aisle toward the near LEFT corner of the dining table. Avoid walking through the chair. He extends his LEFT hand and carefully sets the SAME phone SCREEN-UP on the open near-left tabletop within his mother's view. The phone stays attached to the left fingers until it touches the tabletop; fingers release naturally. No handing between characters, no extra phones, no disappearing object. Keep the action simple and anatomically plausible.\n10.0–14.0: Mother shifts closer and lowers her gaze toward the phone. Ken watches her face in quiet apprehension. Hold the silence and ordinary room tone. Finish before she reads or reacts to the notice. No other spoken words.\nLocked or extremely subtle camera drift at the existing 45-degree room angle, medium-wide two-shot, normal speed actual body movement. Full natural muted color. No montage, no new flashback, no split-screen, no overlay, no subtitles, no countdown graphics, no readable generated text, no title cards. Phone screen remains too small/oblique to read in this wide shot; a separate precise screen insert will follow later. No dramatic music, no notification voice, no alarm: only Japanese dialogue, a breath, cloth rustle, soft footstep and slight phone contact with wood. Realistic skin texture, understated acting, consistent faces and hands throughout."
+  }
+}
