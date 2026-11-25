@@ -1,0 +1,84 @@
+[
+  {
+    "label": "tension",
+    "params": {
+      "model": "elevenlabs_music_v2_5",
+      "duration": 70,
+      "force_instrumental": true,
+      "batch_size": 1,
+      "use_unlim": false,
+      "prompt": "Original instrumental film underscore for a restrained Japanese domestic short drama about four minutes left to live. Very quiet, intimate psychological tension, 60 BPM implied slow pulse, low soft rounded synthesizer drone, delicate filtered ticking texture with no sharp transients, sparse muted felt-piano single notes in D minor, lots of empty space and air. No imitation of any existing film or TV theme. First 45 seconds: minimal restrained apprehension. Last 20 seconds: subtly increasing pulse density for rapid childhood memories, never louder or epic. Final 5 seconds gently decay to silence. No drums, percussion fills, risers, impacts, brass, strings crescendo, choir, vocals, speech, lyrics, bright melody, pop beat or heroic resolution. Soft warm midrange, low sub bass, unobtrusive underscore beneath dialogue. One continuous 70 second cue."
+    },
+    "quote": {
+      "cost": {
+        "credits": 10.18,
+        "credits_exact": 10.18
+      },
+      "quote_ref": "quote:A4kQypXf2hP8wytoxgYIHw"
+    },
+    "job": {
+      "results": [
+        {
+          "id": "706166ef-1b3b-4030-82ae-6da2dd1c12fd",
+          "type": "audio",
+          "status": "pending",
+          "model": "elevenlabs_music_v2_5",
+          "params": {
+            "prompt": "Original instrumental film underscore for a restrained Japanese domestic short drama about four minutes left to live. Very quiet, intimate psychological tension, 60 BPM implied slow pulse, low soft rounded synthesizer drone, delicate filtered ticking texture with no sharp transients, sparse muted felt-piano single notes in D minor, lots of empty space and air. No imitation of any existing film or TV theme. First 45 seconds: minimal restrained apprehension. Last 20 seconds: subtly increasing pulse density for rapid childhood memories, never louder or epic. Final 5 seconds gently decay to silence. No drums, percussion fills, risers, impacts, brass, strings crescendo, choir, vocals, speech, lyrics, bright melody, pop beat or heroic resolution. Soft warm midrange, low sub bass, unobtrusive underscore beneath dialogue. One continuous 70 second cue.",
+            "duration": 70,
+            "force_instrumental": true,
+            "batch_size": 1
+          }
+        }
+      ],
+      "references_read": [
+        {
+          "ref": "quote:A4kQypXf2hP8wytoxgYIHw",
+          "chars": 983,
+          "sha256": "10423f4df42552dea136808b7ca2add8bb6d7bde924b074cabaa20da0dc375fb"
+        }
+      ]
+    }
+  },
+  {
+    "label": "connection",
+    "params": {
+      "model": "elevenlabs_music_v2_5",
+      "duration": 100,
+      "force_instrumental": true,
+      "batch_size": 1,
+      "use_unlim": false,
+      "prompt": "Original instrumental intimate film underscore for a Japanese mother and adult son sharing their last conversation. Sparse soft felt piano, one simple unresolved two-note motif in D minor with occasional warm suspended major harmony, very quiet airy sustained background tone. 55 BPM spacious free-time impression. Human tenderness, restrained fear, acceptance, no sentimentality. Notes separated by long silences, natural soft decay, very small dynamic range, no dramatic build. First 12 seconds gently fade in. Middle section stays minimal and understated beneath close whispered dialogue. Last 12 seconds just one warm unresolved piano chord dying into silence. No vocals, choir, humming, speech, lyrics, drums, rhythm section, swelling strings, orchestral climax, bright treble or bass drops. Not a song. Original 100 second film cue. Never imitate any named composer or existing soundtrack."
+    },
+    "quote": {
+      "cost": {
+        "credits": 14.54,
+        "credits_exact": 14.54
+      },
+      "quote_ref": "quote:5oMX61WwL1e2eLV5pC6VEg"
+    },
+    "job": {
+      "results": [
+        {
+          "id": "5465efdd-ddba-4b55-87e2-f83581e312b4",
+          "type": "audio",
+          "status": "pending",
+          "model": "elevenlabs_music_v2_5",
+          "params": {
+            "prompt": "Original instrumental intimate film underscore for a Japanese mother and adult son sharing their last conversation. Sparse soft felt piano, one simple unresolved two-note motif in D minor with occasional warm suspended major harmony, very quiet airy sustained background tone. 55 BPM spacious free-time impression. Human tenderness, restrained fear, acceptance, no sentimentality. Notes separated by long silences, natural soft decay, very small dynamic range, no dramatic build. First 12 seconds gently fade in. Middle section stays minimal and understated beneath close whispered dialogue. Last 12 seconds just one warm unresolved piano chord dying into silence. No vocals, choir, humming, speech, lyrics, drums, rhythm section, swelling strings, orchestral climax, bright treble or bass drops. Not a song. Original 100 second film cue. Never imitate any named composer or existing soundtrack.",
+            "duration": 100,
+            "force_instrumental": true,
+            "batch_size": 1
+          }
+        }
+      ],
+      "references_read": [
+        {
+          "ref": "quote:5oMX61WwL1e2eLV5pC6VEg",
+          "chars": 1024,
+          "sha256": "c989b26ff4d457e62f96bbe6bd4c9d48360768f59be0fb709d7ae6708036a6e4"
+        }
+      ]
+    }
+  }
+]

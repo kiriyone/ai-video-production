@@ -1,0 +1,536 @@
+{
+  "duration": 255.625,
+  "original": "../english-subtitles-v01/repaired-audio.wav",
+  "visuals": "Unchanged; original English-subtitled picture stream will be copied",
+  "dialogueOperations": [
+    {
+      "scene": "SC01",
+      "speaker": "mother",
+      "text": "今日、どうだった？",
+      "start": 1.32,
+      "end": 3.05,
+      "sourceBandRms": -17.056138768285905,
+      "gainDb": -3.7772820469569806
+    },
+    {
+      "scene": "SC01",
+      "speaker": "ken",
+      "text": "普通。",
+      "start": 3.88,
+      "end": 5.05,
+      "sourceBandRms": -20.32934087435207,
+      "gainDb": -0.9950602568007404
+    },
+    {
+      "scene": "SC02",
+      "speaker": "notice",
+      "text": "ケンさん、残された時間は4分です。",
+      "start": 7.695,
+      "end": 11.175,
+      "sourceBandRms": -22.342708071638864,
+      "gainDb": -0.5586981391069658
+    },
+    {
+      "scene": "SC02",
+      "speaker": "ken",
+      "text": "何これ？",
+      "start": 11.605,
+      "end": 12.705,
+      "sourceBandRms": -21.270859651365953,
+      "gainDb": -0.19476929633894002
+    },
+    {
+      "scene": "SC02",
+      "speaker": "mother",
+      "text": "4分？",
+      "start": 12.795,
+      "end": 13.754999999999999,
+      "sourceBandRms": -20.45135054878852,
+      "gainDb": -0.8913520335297594
+    },
+    {
+      "scene": "SC02",
+      "speaker": "mother",
+      "text": "ご飯もちょうどそれくらい。",
+      "start": 13.765,
+      "end": 15.855,
+      "sourceBandRms": -18.92264634502874,
+      "gainDb": -2.1907506067255724
+    },
+    {
+      "scene": "SC02",
+      "speaker": "ken",
+      "text": "いや、そっちじゃ……",
+      "start": 16.025,
+      "end": 17.775,
+      "sourceBandRms": -22.012616261380813,
+      "gainDb": 0.4357238221736914
+    },
+    {
+      "scene": "SC03",
+      "speaker": "ken",
+      "text": "これキャンセルして。",
+      "start": 25.805,
+      "end": 27.575,
+      "sourceBandRms": -19.413621594306345,
+      "gainDb": -1.7734216448396063
+    },
+    {
+      "scene": "SC03",
+      "speaker": "notice",
+      "text": "通知はオフにできます。",
+      "start": 27.645,
+      "end": 30.055,
+      "sourceBandRms": -22.31618621706008,
+      "gainDb": -0.5812417154989333
+    },
+    {
+      "scene": "SC03",
+      "speaker": "ken",
+      "text": "通知じゃなくて。",
+      "start": 30.595,
+      "end": 32.055,
+      "sourceBandRms": -16.731800268776595,
+      "gainDb": -4.052969771539893
+    },
+    {
+      "scene": "SC04",
+      "speaker": "ken",
+      "text": "母さん。",
+      "start": 37.365,
+      "end": 38.195,
+      "sourceBandRms": -19.26529882871714,
+      "gainDb": -1.8994959955904318
+    },
+    {
+      "scene": "SC04",
+      "speaker": "mother",
+      "text": "ん？",
+      "start": 38.235,
+      "end": 39.125,
+      "sourceBandRms": -20.34252734392235,
+      "gainDb": -0.9838517576660034
+    },
+    {
+      "scene": "SC04",
+      "speaker": "ken",
+      "text": "俺、あと……",
+      "start": 39.995,
+      "end": 41.575,
+      "sourceBandRms": -20.14489591275928,
+      "gainDb": -1.1518384741546106
+    },
+    {
+      "scene": "SC04",
+      "speaker": "mother",
+      "text": "どうした？",
+      "start": 41.995,
+      "end": 43.525,
+      "sourceBandRms": -19.76803299330524,
+      "gainDb": -1.4721719556905455
+    },
+    {
+      "scene": "SC04",
+      "speaker": "ken",
+      "text": "何でもない。",
+      "start": 46.315,
+      "end": 47.625,
+      "sourceBandRms": -19.766865906831313,
+      "gainDb": -1.4731639791933837
+    },
+    {
+      "scene": "SC05",
+      "speaker": "mother",
+      "text": "そこにいるなら、お皿出して。",
+      "start": 56.658333000000006,
+      "end": 59.258333,
+      "sourceBandRms": -15.933751862608077,
+      "gainDb": -4.731310916783134
+    },
+    {
+      "scene": "SC05",
+      "speaker": "ken",
+      "text": "今、時間ない。",
+      "start": 59.498333,
+      "end": 61.268333000000005,
+      "sourceBandRms": -20.72632670928685,
+      "gainDb": -0.657622297106176
+    },
+    {
+      "scene": "SC05",
+      "speaker": "mother",
+      "text": "いつもそうね.",
+      "start": 61.458333,
+      "end": 63.638333,
+      "sourceBandRms": -20.203834276089395,
+      "gainDb": -1.101740865324014
+    },
+    {
+      "scene": "SC05",
+      "speaker": "mother",
+      "text": "ケン？",
+      "start": 64.20833300000001,
+      "end": 65.378333,
+      "sourceBandRms": -22.894220878263518,
+      "gainDb": 1.18508774652399
+    },
+    {
+      "scene": "SC06_FIRST_STEP",
+      "speaker": "mother-memory",
+      "text": "おいで。",
+      "start": 70.72833299999999,
+      "end": 71.928333,
+      "sourceBandRms": -24.230758443565833,
+      "gainDb": 1.0461446770309577
+    },
+    {
+      "scene": "SC06_REJECTION",
+      "speaker": "ken-memory",
+      "text": "もういいって。",
+      "start": 75.758333,
+      "end": 76.938333,
+      "sourceBandRms": -23.49829375962652,
+      "gainDb": 0.4235496956825422
+    },
+    {
+      "scene": "SC06_TODAY",
+      "speaker": "mother-memory",
+      "text": "今日、どうだった？",
+      "start": 82.77833299999999,
+      "end": 84.438333,
+      "sourceBandRms": -16.99381135897733,
+      "gainDb": -5.10526034486927
+    },
+    {
+      "scene": "SC07",
+      "speaker": "mother",
+      "text": "ケン？",
+      "start": 85.008333,
+      "end": 86.158333,
+      "sourceBandRms": -22.861686283035784,
+      "gainDb": 1.1574333405804162
+    },
+    {
+      "scene": "SC07",
+      "speaker": "ken",
+      "text": "母さん。これ、見て。",
+      "start": 86.768333,
+      "end": 90.458333,
+      "sourceBandRms": -14.880880760875037,
+      "gainDb": -6
+    },
+    {
+      "scene": "SC08",
+      "speaker": "mother",
+      "text": "最終通知……",
+      "start": 102.02166700000001,
+      "end": 104.341667,
+      "sourceBandRms": -16.43202004956627,
+      "gainDb": -4.307782957868671
+    },
+    {
+      "scene": "SC08",
+      "speaker": "mother",
+      "text": "あなたの？",
+      "start": 107.591667,
+      "end": 109.19166700000001,
+      "sourceBandRms": -17.87939798152772,
+      "gainDb": -3.0775117157014376
+    },
+    {
+      "scene": "SC08B",
+      "speaker": "ken",
+      "text": "うん。",
+      "start": 112.145,
+      "end": 113.075,
+      "sourceBandRms": -40.24016872889948,
+      "gainDb": 0
+    },
+    {
+      "scene": "SC08B",
+      "speaker": "mother",
+      "text": "違う。だって、今……",
+      "start": 116.575,
+      "end": 118.775,
+      "sourceBandRms": -16.09011836384979,
+      "gainDb": -4.598399390727678
+    },
+    {
+      "scene": "SC08B",
+      "speaker": "mother",
+      "text": "これ、止められないの？",
+      "start": 120.875,
+      "end": 123.225,
+      "sourceBandRms": -14.631652024963302,
+      "gainDb": -5.838095778781193
+    },
+    {
+      "scene": "SC08B",
+      "speaker": "ken",
+      "text": "変えられないって。",
+      "start": 125.16499999999999,
+      "end": 127.125,
+      "sourceBandRms": -17.389189994812078,
+      "gainDb": -3.4941885044097334
+    },
+    {
+      "scene": "SC08C",
+      "speaker": "ken",
+      "text": "母さん。ここにいて。",
+      "start": 140.875,
+      "end": 143.725,
+      "sourceBandRms": -18.548423670619503,
+      "gainDb": -3.7838398799734225
+    },
+    {
+      "scene": "SC08DA",
+      "speaker": "mother",
+      "text": "うん。",
+      "start": 147.97833300000002,
+      "end": 149.00833300000002,
+      "sourceBandRms": -20.664401999025213,
+      "gainDb": -1.9852583008285694
+    },
+    {
+      "scene": "SC08DA",
+      "speaker": "mother",
+      "text": "……座ろう。",
+      "start": 154.938333,
+      "end": 156.25833300000002,
+      "sourceBandRms": -15.340908991271633,
+      "gainDb": -6.5102273574191125
+    },
+    {
+      "scene": "SC09",
+      "speaker": "mother",
+      "text": "うん。聞いてる。",
+      "start": 170.47833300000002,
+      "end": 173.00833300000002,
+      "sourceBandRms": -17.218670855301674,
+      "gainDb": -4.914129772993577
+    },
+    {
+      "scene": "SC09",
+      "speaker": "ken",
+      "text": "なんか、ちゃんと言わなきゃって。",
+      "start": 175.058333,
+      "end": 179.408333,
+      "sourceBandRms": -15.99482010467086,
+      "gainDb": -5.95440291102977
+    },
+    {
+      "scene": "SC09",
+      "speaker": "ken",
+      "text": "こういう時って、もっと……",
+      "start": 181.658333,
+      "end": 184.75833300000002,
+      "sourceBandRms": -17.410577518260165,
+      "gainDb": -4.75100910947886
+    },
+    {
+      "scene": "SC09B",
+      "speaker": "mother",
+      "text": "うまく言わなくていい。",
+      "start": 189.881667,
+      "end": 192.591667,
+      "sourceBandRms": -17.746602940069998,
+      "gainDb": -4.465387500940501
+    },
+    {
+      "scene": "SC09B",
+      "speaker": "ken",
+      "text": "……怖い。",
+      "start": 196.46166699999998,
+      "end": 197.941667,
+      "sourceBandRms": -15.644610346705258,
+      "gainDb": -6.25208120530053
+    },
+    {
+      "scene": "SC10",
+      "speaker": "mother",
+      "text": "うん。",
+      "start": 200.441667,
+      "end": 201.39166699999998,
+      "sourceBandRms": -18.192363290249528,
+      "gainDb": -4.086491203287901
+    },
+    {
+      "scene": "SC10",
+      "speaker": "mother",
+      "text": "ここにいるよ。",
+      "start": 206.49166699999998,
+      "end": 208.24166699999998,
+      "sourceBandRms": -19.642665886043385,
+      "gainDb": -2.8537339968631223
+    },
+    {
+      "scene": "SC10B",
+      "speaker": "ken",
+      "text": "……ありがとう。",
+      "start": 217.405,
+      "end": 218.795,
+      "sourceBandRms": -18.449263520751096,
+      "gainDb": -3.8681260073615684
+    },
+    {
+      "scene": "SC10B",
+      "speaker": "mother",
+      "text": "うん。",
+      "start": 221.705,
+      "end": 222.745,
+      "sourceBandRms": -16.30420832124653,
+      "gainDb": -5.691422926940449
+    },
+    {
+      "scene": "SC10B",
+      "speaker": "mother",
+      "text": "ちゃんと、聞こえた。",
+      "start": 223.045,
+      "end": 225.175,
+      "sourceBandRms": -17.344456062478823,
+      "gainDb": -4.807212346893
+    },
+    {
+      "scene": "POV",
+      "speaker": "mother",
+      "text": "ケン？",
+      "start": 246.325,
+      "end": 247.255,
+      "sourceBandRms": -18.93683599637936,
+      "gainDb": -3.4536894030775427
+    }
+  ],
+  "adrEq": "-1.5 dB broad cut centered 3.2 kHz, original pitch/time retained",
+  "tensionEnv": [
+    [
+      18.625,
+      0
+    ],
+    [
+      23,
+      0.12589254117941673
+    ],
+    [
+      65,
+      0.12589254117941673
+    ],
+    [
+      69,
+      0.22387211385683395
+    ],
+    [
+      77.5,
+      0.22387211385683395
+    ],
+    [
+      81,
+      0.12589254117941673
+    ],
+    [
+      84.458333,
+      0
+    ]
+  ],
+  "pianoEnv": [
+    [
+      134.125,
+      0
+    ],
+    [
+      140,
+      0.15848931924611134
+    ],
+    [
+      170,
+      0.15848931924611134
+    ],
+    [
+      186,
+      0.12589254117941673
+    ],
+    [
+      194,
+      0
+    ],
+    [
+      199.79,
+      0
+    ],
+    [
+      204,
+      0.08912509381337455
+    ],
+    [
+      210,
+      0.08912509381337455
+    ],
+    [
+      215.5,
+      0
+    ],
+    [
+      225.3,
+      0
+    ],
+    [
+      228,
+      0.15848931924611134
+    ],
+    [
+      233,
+      0.15848931924611134
+    ],
+    [
+      237,
+      0
+    ]
+  ],
+  "codaEnv": [
+    [
+      249.1,
+      0
+    ],
+    [
+      250.4,
+      0.14125375446227545
+    ],
+    [
+      252.5,
+      0.14125375446227545
+    ],
+    [
+      255.1,
+      0
+    ]
+  ],
+  "duckingDb": -6.02,
+  "roomTone": {
+    "type": "original synthesized filtered pink noise",
+    "rmsDbFS": -54,
+    "fadeOut": [
+      239,
+      246.625
+    ]
+  },
+  "musicSilenceWindows": [
+    [
+      84.458333,
+      134.125
+    ],
+    [
+      194,
+      199.79
+    ],
+    [
+      215.5,
+      225.3
+    ],
+    [
+      237,
+      249.1
+    ]
+  ],
+  "premasterPeak": 0.5230382680892944,
+  "musicPeak": 0.07995039969682693,
+  "voiceIdentityReview": "Objective level/continuity audit; perceptual identity is not certified by measurements."
+}

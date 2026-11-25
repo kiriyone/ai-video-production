@@ -4,9 +4,9 @@
   "scope": "Remaining production from user budget instruction; excludes earlier spending",
   "user_cap_credits": 2967,
   "starting_account_balance": 2967.13,
-  "spent_since_cap": 938.75,
-  "current_account_balance": 1851.63,
-  "remaining_authorized_budget": 2028.25,
+  "spent_since_cap": 963.47,
+  "current_account_balance": 1826.91,
+  "remaining_authorized_budget": 2003.53,
   "additional_purchase_authorized": false,
   "planning_reserve_for_finalization_and_repairs": 1000,
   "reserve_is_estimate_not_price_quote": true,
@@ -302,6 +302,18 @@
       "quoted_credits": 42,
       "confirmed_balance_before": 1893.63,
       "confirmed_balance_after": 1851.63
+    },
+    {
+      "job_id": "706166ef-1b3b-4030-82ae-6da2dd1c12fd",
+      "purpose": "Original instrumental BGM: tension",
+      "model": "elevenlabs_music_v2_5",
+      "quoted_credits": 10.18
+    },
+    {
+      "job_id": "5465efdd-ddba-4b55-87e2-f83581e312b4",
+      "purpose": "Original instrumental BGM: connection",
+      "model": "elevenlabs_music_v2_5",
+      "quoted_credits": 14.54
     }
   ],
   "rules": [
@@ -311,11 +323,17 @@
     "Keep 1000 credits as provisional finalization/repair reserve; requote full film after rough cut.",
     "User cap is 2967.00, not account balance 2967.13."
   ],
-  "effective_remaining_credits": 1851.63,
+  "effective_remaining_credits": 1826.91,
   "balance_reconciliation": {
     "previous_recorded_balance": 2070.38,
     "observed_before_this_work": 1893.63,
     "unattributed_difference": 176.75,
     "note": "Difference observed before this task; not charged to this task or assigned to an unknown job. Use actual balance as spending limit."
+  },
+  "latest_balance_check": {
+    "before": 1851.63,
+    "after": 1826.91,
+    "spent": 24.72,
+    "purpose": "Two AI-generated instrumental music cues for sound finish v01"
   }
 }

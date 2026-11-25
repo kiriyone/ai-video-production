@@ -1,0 +1,113 @@
+{
+  "folder": {
+    "folder_id": "8c015f26-cc37-45cc-92fd-88fb8ce06b1d",
+    "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+    "parent_folder_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+    "workspace_id": "46e68ea6-0276-4112-bec1-9c7f10d99133",
+    "name": "05_AUDIO"
+  },
+  "placements": [
+    {
+      "id": "706166ef-1b3b-4030-82ae-6da2dd1c12fd",
+      "result": {
+        "project_root_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+        "all_succeeded": true,
+        "results": [
+          {
+            "index": 0,
+            "status": "ok",
+            "item": {
+              "id": "b4cd85fc-028d-4de8-9774-b150af296ec0",
+              "name": null,
+              "parent_id": null,
+              "root_folder_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+              "folder_id": "8c015f26-cc37-45cc-92fd-88fb8ce06b1d",
+              "type": "job",
+              "item_id": "706166ef-1b3b-4030-82ae-6da2dd1c12fd",
+              "media_type": null,
+              "status": null
+            },
+            "code": null,
+            "message": null,
+            "operation": "attach",
+            "destination": {
+              "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+              "folder_id": "8c015f26-cc37-45cc-92fd-88fb8ce06b1d",
+              "placement_id": "b4cd85fc-028d-4de8-9774-b150af296ec0",
+              "source_type": "job",
+              "item_id": "706166ef-1b3b-4030-82ae-6da2dd1c12fd"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "5465efdd-ddba-4b55-87e2-f83581e312b4",
+      "result": {
+        "project_root_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+        "all_succeeded": true,
+        "results": [
+          {
+            "index": 0,
+            "status": "ok",
+            "item": {
+              "id": "28811de3-23f0-47c9-9eec-c48eea7a2041",
+              "name": null,
+              "parent_id": null,
+              "root_folder_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+              "folder_id": "8c015f26-cc37-45cc-92fd-88fb8ce06b1d",
+              "type": "job",
+              "item_id": "5465efdd-ddba-4b55-87e2-f83581e312b4",
+              "media_type": null,
+              "status": null
+            },
+            "code": null,
+            "message": null,
+            "operation": "attach",
+            "destination": {
+              "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+              "folder_id": "8c015f26-cc37-45cc-92fd-88fb8ce06b1d",
+              "placement_id": "28811de3-23f0-47c9-9eec-c48eea7a2041",
+              "source_type": "job",
+              "item_id": "5465efdd-ddba-4b55-87e2-f83581e312b4"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "0420d3a4-b262-4729-867b-163deb6bbede",
+      "result": {
+        "project_root_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+        "all_succeeded": true,
+        "results": [
+          {
+            "index": 0,
+            "status": "ok",
+            "item": {
+              "id": "68282fc5-605e-43fa-8e4b-5c26263cc3c2",
+              "name": null,
+              "parent_id": null,
+              "root_folder_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+              "folder_id": "8c015f26-cc37-45cc-92fd-88fb8ce06b1d",
+              "type": "job",
+              "item_id": "0420d3a4-b262-4729-867b-163deb6bbede",
+              "media_type": null,
+              "status": null
+            },
+            "code": null,
+            "message": null,
+            "operation": "attach",
+            "destination": {
+              "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+              "folder_id": "8c015f26-cc37-45cc-92fd-88fb8ce06b1d",
+              "placement_id": "68282fc5-605e-43fa-8e4b-5c26263cc3c2",
+              "source_type": "job",
+              "item_id": "0420d3a4-b262-4729-867b-163deb6bbede"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

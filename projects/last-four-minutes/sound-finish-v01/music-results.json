@@ -1,0 +1,25 @@
+{
+  "completed": [
+    {
+      "label": "tension",
+      "job_id": "706166ef-1b3b-4030-82ae-6da2dd1c12fd",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_070213_706166ef-1b3b-4030-82ae-6da2dd1c12fd.mp3",
+      "cost": 10.18
+    },
+    {
+      "label": "connection",
+      "job_id": "5465efdd-ddba-4b55-87e2-f83581e312b4",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_070217_5465efdd-ddba-4b55-87e2-f83581e312b4.mp3",
+      "cost": 14.54
+    }
+  ],
+  "beforeBalance": 1851.63,
+  "afterBalance": 1826.91,
+  "total": 24.72,
+  "asrMusicSpeechCheck": {
+    "model": "faster-whisper small; VAD",
+    "tensionCandidates": [],
+    "connectionCandidates": [],
+    "note": "No speech detected by automated check; not a substitute for perceptual review."
+  }
+}

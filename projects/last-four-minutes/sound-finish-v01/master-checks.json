@@ -1,0 +1,56 @@
+{
+  "videoBitstreamIdentical": true,
+  "videoHash": "SHA256=1bdf7eb249017fe2b2c16c6fe22e3906f9083acc774dea50d54487b864bfd1c1",
+  "totalFrames": 6135,
+  "fps": 24,
+  "duration": 255.625,
+  "resolution": [
+    1280,
+    720
+  ],
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2,
+    "integratedLUFS": -20.03,
+    "truePeakDBTP": -1.57,
+    "loudnessRangeLU": 18.9,
+    "beforeLUFS": -21.37,
+    "beforeTruePeakDBTP": -0.08
+  },
+  "spokenLineBandRmsRange": {
+    "beforeDB": 8.262568853300216,
+    "afterAutomationDB": 2.4316584070013327,
+    "method": "Active 20 ms speech-band RMS; excludes memory fragments and very quiet ambiguous acknowledgement."
+  },
+  "minimumDialogueToMusicRmsMarginDB": 15.999999998766562,
+  "musicSilenceWindows": [
+    {
+      "start": 84.458333,
+      "end": 134.125,
+      "peak": 0
+    },
+    {
+      "start": 194,
+      "end": 199.79,
+      "peak": 0
+    },
+    {
+      "start": 215.5,
+      "end": 225.3,
+      "peak": 0
+    },
+    {
+      "start": 237,
+      "end": 249.1,
+      "peak": 0
+    }
+  ],
+  "countdown": {
+    "firstFrame": 159,
+    "zeroFrame": 5919,
+    "seconds": 240
+  },
+  "reviewScope": "Complete-program technical audio measurements, automated speech checks of generated BGM, subtitle/picture preservation. Perceptual voice identity and musical preference require human playback.",
+  "submissionStatus": "Review master only; not published/submitted; official watermark/packshot not yet added by platform."
+}

@@ -1,0 +1,30 @@
+{
+  "before": {
+    "input_i": "-21.37",
+    "input_tp": "-0.08",
+    "input_lra": "21.00",
+    "input_thresh": "-37.04",
+    "output_i": "-19.75",
+    "output_tp": "-1.60",
+    "output_lra": "20.60",
+    "output_thresh": "-35.21",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.25"
+  },
+  "after": {
+    "input_i": "-20.03",
+    "input_tp": "-1.57",
+    "input_lra": "18.90",
+    "input_thresh": "-33.08",
+    "output_i": "-22.31",
+    "output_tp": "-1.91",
+    "output_lra": "18.60",
+    "output_thresh": "-34.78",
+    "normalization_type": "dynamic",
+    "target_offset": "2.31"
+  },
+  "targetNote": "Creative web review target approximately -20 LUFS; peak ceiling -1.6 dBTP before AAC. Not a contest-mandated loudness.",
+  "constantGainDB": 7.2,
+  "limiter": "4x oversampling, -1.6 dB ceiling, 5 ms lookahead, latency compensated",
+  "duration": 255.625
+}
