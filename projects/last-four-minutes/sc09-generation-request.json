@@ -1,0 +1,26 @@
+{
+  "job_id": "d60101c8-c8a7-4750-9d51-4b6467946806",
+  "quoted_credits": 54,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 18,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "a887e1b7-405b-455b-bb1e-346d0d660232",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "21c72505-3e2d-4d5d-ac94-1cd743ffb5f5"
+      },
+      {
+        "role": "video",
+        "value": "80710d24-435c-4d71-ba27-d0844658562b"
+      }
+    ],
+    "prompt": "SC09-A LAST FOUR MINUTES, Japanese live-action drama. 18 seconds. Use exact starting image seated composition and faces. Same Japanese Ken32 blond yellow/magenta hoodie white T silver chain on LEFT/near cushion, mother50 gray-streaked tied hair beige cardigan bluegray apron on RIGHT/far cushion. Same gray sofa along window wall, overcast afternoon light. Fixed seated-eye-level medium two-shot, no camera cuts or orbit; both faces visible. Preserve reference video voices, especially Ken's Japanese adult male voice and mother's mature Japanese female voice. Natural Japanese dialogue exactly as below, correct speaker lip-sync, no overlap. No narrator, translation, subtitles or added words.\n0–1s mother glances briefly at Ken's empty hands on his lap then his face, steadying her own breathing. 1–3s MOTHER ONLY quietly says 「うん。聞いてる。」 (Un. Kiiteru.) Her voice is held together with effort, not cheerful or serenely resigned. Ken listens silently.\n3–5s Ken takes a small breath and glances down, trying to find something important to say. Hands remain in own lap. 5–10s KEN ONLY says 「なんか、ちゃんと……言わなきゃって。」 (Nanka, chanto... iwanakyatte.) A short natural catch after chanto, searching for words, not theatrical crying. Mother listens with closed mouth, worried patient eyes, no smile and no nodding loop.\n10–12s Ken exhales and looks back toward mother, unable to organize his feelings; tiny movement of fingertips against his own jeans. 12–15.5s KEN ONLY says 「こういう時って、もっと……」 (Kou iu toki tte, motto...) unfinished. Brief embarrassed almost-smile at his inability to speak, vanishes immediately; not comedic.\n15.5–18s Ken falls silent looking at mother, mouth closes, shallow breathing. Mother holds his gaze, waiting to respond in NEXT scene; she does NOT speak again here. End stable seated two-shot. No tears streaming, hugs, handholding, getting up, collapse or death. Ordinary small eye movements and breathing, realistic restrained performance. Both hands empty, no smartphone on sofa or in hands; single phone remains on dining table outside shot. Stove off. No music, notification, ticking, timer, text, captions, extra people or props. Quiet continuous room tone and close natural dialogue."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "selected_job_id": "21c72505-3e2d-4d5d-ac94-1cd743ffb5f5",
+  "source_frame_media": "5d7c4703-7a71-48eb-a65c-32ca64782441",
+  "attempts": [
+    {
+      "job_id": "e5d01310-9de8-4362-afe0-e4640bf43e84",
+      "quoted_credits": 2,
+      "selected": false,
+      "reason": "Sofa rotated relative to preceding shot",
+      "params": {
+        "model": "nano_banana_2",
+        "aspect_ratio": "16:9",
+        "resolution": "2k",
+        "count": 1,
+        "folder_id": "a887e1b7-405b-455b-bb1e-346d0d660232",
+        "medias": [
+          {
+            "role": "image",
+            "value": "5d7c4703-7a71-48eb-a65c-32ca64782441"
+          },
+          {
+            "role": "image",
+            "value": "f70bd05a-87ea-4faf-822a-289188285e14"
+          }
+        ],
+        "prompt": "Create a continuity-matched medium two-shot for this Japanese live-action drama. First reference is exact current scene; second reference preserves Ken's face only. SAME two Japanese actors, same seated positions and wardrobe as first reference: Ken32 blond layered hair yellow/magenta striped hoodie white shirt dark jeans on screen LEFT/near sofa cushion; his mother50 gray-streaked tied-back hair beige cardigan offwhite shirt bluegray apron on screen RIGHT/far cushion. Both remain seated side by side on same gray sofa, shoulders a hand's breadth apart. Move camera physically closer to seated eye level from the same side of axis, framing both from waist up, faces equally important. Natural 50mm two-shot, mother turned toward Ken, Ken head slightly toward mother. Keep left window soft overcast light, gray sofa back and ordinary cream walls spatially consistent. No redesign or glamour lighting. Their hands rest separately in their own laps, EMPTY. Phone stays on distant dining table outside frame, never appears in hands or on sofa. Mother is frightened but trying to listen, lips closed, no comforting smile. Ken anxious, vulnerable, lips closed, no tears yet. Preserve exact facial identity, Japanese appearance, ages, clothing patterns, natural skin, gray strands. No crying performance, embrace, death, texts, timer, captions, extra people or extra limbs. Cinematic photoreal still, quiet ordinary home."
+      }
+    },
+    {
+      "job_id": "21c72505-3e2d-4d5d-ac94-1cd743ffb5f5",
+      "quoted_credits": 2,
+      "selected": true,
+      "params": {
+        "model": "nano_banana_2",
+        "aspect_ratio": "16:9",
+        "resolution": "2k",
+        "count": 1,
+        "folder_id": "a887e1b7-405b-455b-bb1e-346d0d660232",
+        "medias": [
+          {
+            "role": "image",
+            "value": "5d7c4703-7a71-48eb-a65c-32ca64782441"
+          },
+          {
+            "role": "image",
+            "value": "f70bd05a-87ea-4faf-822a-289188285e14"
+          }
+        ],
+        "prompt": "Continuity-critical reframing of FIRST reference only. Second reference is Ken face identity. CAMERA REMAINS ON EXACT SAME SIDE AND LOOKING IN EXACT SAME DIRECTION AS FIRST REFERENCE; only move camera closer toward the two seated people. The sofa is positioned ALONG THE LEFT WINDOW WALL, its BACK against that window wall, its long axis running from foreground-left toward background-right. KEEP THIS ORIENTATION. Never rotate sofa or place kitchen behind sofa. Maintain 3/4 SIDE VIEW of seated pair, NOT symmetrical frontal portrait. Ken is nearer camera on screen LEFT, mother is farther away on screen RIGHT; mother is seen slightly smaller in perspective. Frame both from waist up, including some sofa back beneath window on frame LEFT and cream wall/door behind mother farther RIGHT. Kitchen may be cropped outside right edge. Original blue blanket stays on near armrest. Same physical positions, same left-window soft daylight. Same Japanese Ken32 blond layered hair yellow magenta hoodie white shirt silver chain dark jeans. Same mother50 gray-streaked tied hair beige cardigan offwhite shirt bluegray apron. Both seated, their empty hands in own laps. Mother looks at Ken concerned, lips closed, Ken looks toward mother anxious, lips closed. No smiles, tears, embracing or handholding. Natural Japanese actor skin and same facial identity. No new sofa, no furniture movement, no changes to layout, no text or timer. Photoreal continuity film frame, 50mm equivalent medium two-shot."
+      }
+    }
+  ]
+}

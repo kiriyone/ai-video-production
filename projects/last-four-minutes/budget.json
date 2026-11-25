@@ -4,9 +4,9 @@
   "scope": "Remaining production from user budget instruction; excludes earlier spending",
   "user_cap_credits": 2967,
   "starting_account_balance": 2967.13,
-  "spent_since_cap": 566,
-  "current_account_balance": 2401.13,
-  "remaining_authorized_budget": 2401,
+  "spent_since_cap": 624.0,
+  "current_account_balance": 2343.13,
+  "remaining_authorized_budget": 2343.0,
   "additional_purchase_authorized": false,
   "planning_reserve_for_finalization_and_repairs": 1000,
   "reserve_is_estimate_not_price_quote": true,
@@ -225,6 +225,21 @@
       "job_id": "11b2b2d0-a537-4f54-992d-5bed363f38f0",
       "quoted_credits": 36,
       "purpose": "SC08D-B move to sofa and sit, 12 seconds"
+    },
+    {
+      "quoted_credits": 2,
+      "job_id": "e5d01310-9de8-4362-afe0-e4640bf43e84",
+      "purpose": "SC09 first medium image, rejected sofa orientation"
+    },
+    {
+      "quoted_credits": 2,
+      "job_id": "21c72505-3e2d-4d5d-ac94-1cd743ffb5f5",
+      "purpose": "SC09 corrected seated medium two-shot"
+    },
+    {
+      "quoted_credits": 54,
+      "job_id": "d60101c8-c8a7-4750-9d51-4b6467946806",
+      "purpose": "SC09 18-second listening and searching for words"
     }
   ],
   "rules": [
