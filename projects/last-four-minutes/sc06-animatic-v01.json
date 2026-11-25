@@ -1,0 +1,529 @@
+{
+  "date": "2026-11-24",
+  "scene": "SC06 人生が押し寄せる",
+  "status": "black-and-white still-image animatic, not final footage",
+  "folder": {
+    "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+    "project_id": "8b59bebf-c190-422f-8942-3d990bb6451a",
+    "parent_folder_id": "40f771c7-96d5-49b3-8f57-6a4d250b45f3",
+    "workspace_id": "46e68ea6-0276-4112-bec1-9c7f10d99133",
+    "name": "SC06_MEMORY_ANIMATIC"
+  },
+  "age_references": [
+    {
+      "index": 0,
+      "name": "mother18",
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "98baadfa-f019-48a9-8eff-2b2a1b25aca1"
+          }
+        ],
+        "prompt": "Photorealistic character continuity reference sheet, neutral gray seamless background, soft neutral even light. Exactly THREE separated views of the SAME person: left face close-up, middle full-body front, right full-body back. All views identical clothes and age, realistic unretouched skin. The same Japanese mother in reference, de-aged to exactly18 years old, recognizable eyes, nose and facial proportions, black hair tied low, no gray hair. Fully clothed in plain off-white long-sleeve shirt and modest navy trousers. Young ordinary person, not fashion model. Calm neutral expression. No text, no labels, no extra people, no collage beyond these three views."
+      },
+      "result": {
+        "index": 0,
+        "job_id": "2acce270-9857-4581-a6ad-24afc49780f5",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020155_2acce270-9857-4581-a6ad-24afc49780f5.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 1,
+      "name": "mother26",
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "98baadfa-f019-48a9-8eff-2b2a1b25aca1"
+          }
+        ],
+        "prompt": "Photorealistic character continuity reference sheet, neutral gray seamless background, soft neutral even light. Exactly THREE separated views of the SAME person: left face close-up, middle full-body front, right full-body back. All views identical clothes and age, realistic unretouched skin. The same Japanese mother in reference, de-aged to26 years old, preserve eyes nose facial proportions, black hair tied low, no gray hair. Plain pale cardigan, off-white shirt, modest navy trousers. Caring hardworking mother of eight-year-old boy, not glamorous. Calm neutral expression. No text, no labels, no extra people, no collage beyond these three views."
+      },
+      "result": {
+        "index": 1,
+        "job_id": "cf0d5e60-4910-4f8e-92f1-7ffbe6617b70",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020155_cf0d5e60-4910-4f8e-92f1-7ffbe6617b70.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 2,
+      "name": "ken08",
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "af410df2-5120-426b-845c-5c291702c85f"
+          }
+        ],
+        "prompt": "Photorealistic character continuity reference sheet, neutral gray seamless background, soft neutral even light. Exactly THREE separated views of the SAME person: left face close-up, middle full-body front, right full-body back. All views identical clothes and age, realistic unretouched skin. A fictional Japanese boy Ken aged8, younger version of adult reference, retain recognizable eye shape and nose family resemblance with age-appropriate child proportions. Short natural black hair, plain light T-shirt, knee-length navy shorts, simple sneakers. No jewelry or adult styling. Calm neutral expression. No text, no labels, no extra people, no collage beyond these three views."
+      },
+      "result": {
+        "index": 2,
+        "job_id": "8864373f-d08d-4310-9ca9-3d5cbc702a5d",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020155_8864373f-d08d-4310-9ca9-3d5cbc702a5d.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 3,
+      "name": "ken16",
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "af410df2-5120-426b-845c-5c291702c85f"
+          }
+        ],
+        "prompt": "Photorealistic character continuity reference sheet, neutral gray seamless background, soft neutral even light. Exactly THREE separated views of the SAME person: left face close-up, middle full-body front, right full-body back. All views identical clothes and age, realistic unretouched skin. A fictional Japanese boy Ken aged16, teenage version of adult reference, retain eye shape and nose, age-appropriate proportions. Slightly shaggy natural black hair, plain charcoal zip hoodie, white T-shirt, dark jeans, sneakers. No jewelry, no dyed blond hair yet. Reserved expression. Calm neutral expression. No text, no labels, no extra people, no collage beyond these three views."
+      },
+      "result": {
+        "index": 3,
+        "job_id": "538eda6b-dd69-4486-bd0f-f858be1ec1e4",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020155_538eda6b-dd69-4486-bd0f-f858be1ec1e4.png"
+      },
+      "quoted_credits": 2
+    }
+  ],
+  "shots": [
+    {
+      "index": 4,
+      "name": "01_birth",
+      "duration": 2,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "2acce270-9857-4581-a6ad-24afc49780f5"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. Intimate close shot of newborn Japanese baby Ken safely swaddled in white cotton against fully clothed eighteen-year-old mother's chest in modest maternity room. Mother's face partly in upper right, same face as reference1, visibly young18. Baby face center-left, tiny hand emerging from blanket, mouth open in first cry. No childbirth, blood, medical distress, tubes or nudity. Soft window morning light. One unmistakable moment of being born and held."
+      },
+      "result": {
+        "index": 4,
+        "job_id": "8cc979f5-7333-47a9-a51a-0c70b6496647",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020552_8cc979f5-7333-47a9-a51a-0c70b6496647.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 5,
+      "name": "02_first_step",
+      "duration": 1.5,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "2acce270-9857-4581-a6ad-24afc49780f5"
+          },
+          {
+            "role": "image",
+            "value": "8864373f-d08d-4310-9ca9-3d5cbc702a5d"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. Low toddler eye-level view in modest Japanese home, mother aged20 (reference1 aged two years) crouches screen right, arms open toward two-year-old Ken at screen left taking first step toward her. Reference2 is Ken age8: toddler is younger age2 version, round cheeks, short black hair, fully clothed plain cotton top and trousers. Mother warm ordinary smile. Wide enough to read open arms and small feet, no distorted hands."
+      },
+      "result": {
+        "index": 5,
+        "job_id": "deaa4f3c-ce56-4cd3-98de-b39a45d905fe",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020552_deaa4f3c-ce56-4cd3-98de-b39a45d905fe.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 6,
+      "name": "03_water",
+      "duration": 1,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "8864373f-d08d-4310-9ca9-3d5cbc702a5d"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. Japanese boy Ken8 same as reference1 in plain T-shirt and shorts laughing with two same-age fully clothed friends at a Japanese public park splash fountain in summer. Single readable splash arcing across foreground, Ken face near center laughing, friends partially out of frame, childhood joy. No swimming pool, no swimsuits. Sunlit trees out of focus."
+      },
+      "result": {
+        "index": 6,
+        "job_id": "5d75a20c-1c47-435e-8b88-e9c1e6c5b201",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020551_5d75a20c-1c47-435e-8b88-e9c1e6c5b201.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 7,
+      "name": "04_bandage",
+      "duration": 1.5,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "8864373f-d08d-4310-9ca9-3d5cbc702a5d"
+          },
+          {
+            "role": "image",
+            "value": "cf0d5e60-4910-4f8e-92f1-7ffbe6617b70"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. Tender medium close shot: mother26 reference2 kneels beside Ken8 reference1 on simple home step. She gently presses small adhesive bandage onto his lightly scraped knee; only small non-graphic scrape. Ken tearful face eases looking at her. Include both faces and bandaging hands clearly, one readable gesture. Plain shirts and shorts, natural afternoon light."
+      },
+      "result": {
+        "index": 7,
+        "job_id": "550bdde8-42bc-40e4-8556-f27a89940776",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020551_550bdde8-42bc-40e4-8556-f27a89940776.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 8,
+      "name": "05_birthday",
+      "duration": 1,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "8864373f-d08d-4310-9ca9-3d5cbc702a5d"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. Ken age10, slightly older version of boy reference1, black hair and simple checked shirt, leaning toward small home-made birthday cake at modest wooden table just before blowing candles, unable to hide huge joyful smile. Two friends cropped at edges. Ten small candles, no numbers or writing. Candle light and ordinary Japanese home, face and cake dominate."
+      },
+      "result": {
+        "index": 8,
+        "job_id": "659b5311-898b-48d3-a6f4-db72d8220b12",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020551_659b5311-898b-48d3-a6f4-db72d8220b12.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 9,
+      "name": "06_rejection",
+      "duration": 1.5,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "538eda6b-dd69-4486-bd0f-f858be1ec1e4"
+          },
+          {
+            "role": "image",
+            "value": "cf0d5e60-4910-4f8e-92f1-7ffbe6617b70"
+          },
+          {
+            "role": "image",
+            "value": "fc70684d-4e29-41eb-a3bc-553bdb3560a3"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. Teen Ken16 reference1, charcoal hoodie whiteT darkjeans, seen three-quarter back leaving dining table toward doorway screen left, chin turned away. Mother34, reference2 aged8 years with same face and black tied hair, remains at table background screen right looking toward him, no tears or angry gesture. Earlier version of reference3 same apartment kitchen/table/window spatial relationship, simpler unbranded belongings, no smartphone. A single tense memory of refusing to turn around, ordinary evening light."
+      },
+      "result": {
+        "index": 9,
+        "job_id": "c713b755-cd5b-40b8-8fae-7bf29e57a641",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020552_c713b755-cd5b-40b8-8fae-7bf29e57a641.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 10,
+      "name": "07_friends",
+      "duration": 1,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "af410df2-5120-426b-845c-5c291702c85f"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. Ken age20, recognizable younger version of reference1, medium brown dyed layered hair (not current yellow hoodie), plain denim jacket overwhiteT. Three Japanese young adult friends crowd beside him for a casual group photograph outdoors at night; Ken breaks into spontaneous laughter near center. Point of view from friend's camera, no phones covering faces, no camera UI, warm street lights. Fully clothed ordinary people, no text."
+      },
+      "result": {
+        "index": 10,
+        "job_id": "c7ba6622-48a1-4009-82dc-adf6d655d10a",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020602_c7ba6622-48a1-4009-82dc-adf6d655d10a.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 11,
+      "name": "08_station",
+      "duration": 1.5,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "af410df2-5120-426b-845c-5c291702c85f"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. Ken age25, younger same face as reference1, short dark brown hair, simple white office shirt sleeves rolled with charcoal trousers. Alone on railway platform bench at night, work bag hugged to chest, wipes one tear with sleeve. Three-quarter medium shot face clearly readable, train passing blurred far behind safely separated from bench. Quiet exhausted vulnerability, not melodramatic crying, no injury, no text or advertising readable."
+      },
+      "result": {
+        "index": 11,
+        "job_id": "1e32b7e0-c114-4ddf-b20d-875d0c17abc7",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020602_1e32b7e0-c114-4ddf-b20d-875d0c17abc7.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 12,
+      "name": "09_blanket",
+      "duration": 2,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "af410df2-5120-426b-845c-5c291702c85f"
+          },
+          {
+            "role": "image",
+            "value": "98baadfa-f019-48a9-8eff-2b2a1b25aca1"
+          },
+          {
+            "role": "image",
+            "value": "fc70684d-4e29-41eb-a3bc-553bdb3560a3"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. A few weeks before present, exactly same home layout as reference3 at night. Ken32 same blond layered hair and face asreference1 asleep or pretending to sleep on sofa screenleft, plain white T-shirt, dark trousers; mother50 same asreference2 graystreaked lowtiedhair beige cardigan bends to cover him with existing simple blue blanket. Mother's hands pulling blanket over his shoulder, Ken one eye barely open in profile. Gentle practical care, no smiling at camera. Soft tablelamp light, medium view, no new furniture."
+      },
+      "result": {
+        "index": 12,
+        "job_id": "c912c6e4-f195-4de3-ad35-a6c57f3c7ce1",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020602_c912c6e4-f195-4de3-ad35-a6c57f3c7ce1.png"
+      },
+      "quoted_credits": 2
+    },
+    {
+      "index": 13,
+      "name": "10_today",
+      "duration": 3,
+      "params": {
+        "model": "nano_banana_pro",
+        "resolution": "2k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "folder_id": "3deca422-b38f-4718-80ab-4b156a6f0015",
+        "medias": [
+          {
+            "role": "image",
+            "value": "98baadfa-f019-48a9-8eff-2b2a1b25aca1"
+          },
+          {
+            "role": "image",
+            "value": "fc70684d-4e29-41eb-a3bc-553bdb3560a3"
+          }
+        ],
+        "prompt": "ONE full-frame black-and-white photographic storyboard still for realistic short film, 16:9. Monochrome grayscale previsualization ONLY; no sepia, no color. Use references solely for character identity and specified room; NEVER reproduce character-sheet layouts or labels. Exactly one cinematic scene, no panels, collage, borders, caption, text, age labels, watermarks or interface. Natural human proportions, textured ordinary skin, restrained cinematic composition. Today's memory re-seen: mother50 exactly reference1, graystreaked hair tied low, beige cardigan offwhite shirt bluegray apron. Medium close frontal/three-quarter portrait at kitchen stove in SAME apartment asreference2, from Ken's eye level near sofa. She has turned toward him, genuinely attentive ordinary expression, lips slightly parted as if asking how his day was, not smiling for camera or crying. Natural soft light from room-left window. Matching kitchen cabinets and cookware blurred behind. We finally look directly at her face. No Ken visible."
+      },
+      "result": {
+        "index": 13,
+        "job_id": "fef1153d-4672-4670-8a05-dafe43325afc",
+        "status": "completed",
+        "type": "image",
+        "model": "nano_banana_2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_020602_fef1153d-4672-4670-8a05-dafe43325afc.png"
+      },
+      "quoted_credits": 2
+    }
+  ],
+  "sound_sources": [
+    {
+      "name": "baby",
+      "provider": "epidemic_sound via Higgsfield",
+      "id": "epidemic_sound:a25ecdcf-5bc8-4107-8b7d-02703b2524a3",
+      "title": "Voices, Baby, Newborn, Maternity Ward, Baby Crying",
+      "source_seconds": [
+        0,
+        1.9
+      ],
+      "timeline_start": 0
+    },
+    {
+      "name": "water",
+      "provider": "epidemic_sound via Higgsfield",
+      "id": "epidemic_sound:cf72ef76-a0b7-453d-b7a2-e0ea4548ea60",
+      "title": "Ambience, Public Place, Swimming Pool, Kids Splashing Around",
+      "source_seconds": [
+        2,
+        3.7
+      ],
+      "timeline_start": 3.4,
+      "note": "Temporary swimming-pool ambience used for park play; replace if indoor reverberation is noticeable."
+    },
+    {
+      "name": "train",
+      "provider": "epidemic_sound via Higgsfield",
+      "id": "epidemic_sound:c8855959-5b59-4dc9-a903-c470195d772d",
+      "title": "Ambience, Transportation, Railway Yard, Night, Distant Train Passing 02",
+      "source_seconds": [
+        5,
+        7
+      ],
+      "timeline_start": 9.4
+    },
+    {
+      "name": "mother_today",
+      "source_job_id": "841e038b-0f1f-4eab-8e90-39c074af470c",
+      "source_seconds": [
+        0,
+        2.65
+      ],
+      "timeline_start": 13.2,
+      "note": "Existing opening dialogue intended to contain 今日、どうだった？. Exact words and trim not independently heard/verified."
+    }
+  ],
+  "cost": {
+    "image_credits": 28,
+    "balance_before": 2797.13,
+    "balance_after": 2769.13,
+    "cumulative_since_cap": 198,
+    "authorized_remaining": 2769,
+    "paid_video_jobs": 0,
+    "sound_download_allowance_used": 3,
+    "sound_credit_charge_observed": 0
+  },
+  "verification": {
+    "images_viewed": 14,
+    "spoken_content_verified": false,
+    "audio_listening_verified": false,
+    "visual_issues": [
+      "Age sheets include extra face views/text despite three-view/no-text request; reference candidates only.",
+      "Mother18 versus mother26 age distinction subtle; age reads need final review.",
+      "Teen rejection room window orientation differs from present master; correct final location image.",
+      "Station Ken25 face identity not yet locked to current Ken.",
+      "Blanket scene clothing/blanket shade differ from prompt; final color and prop continuity pending.",
+      "Still animatic does not validate acting, lip sync or camera movement."
+    ],
+    "audio_incomplete": [
+      "Young mother おいで not yet recorded.",
+      "Teen もう、いいって not yet recorded.",
+      "Bandage, candle cheers, shutter and fabric cues not fully built.",
+      "Sound-library clips are temporary; final publication suitability/licensing not independently audited."
+    ]
+  },
+  "outputs": {
+    "standalone": "04_FOOTAGE/SC06_MEMORY_ANIMATIC/sc06-animatic-v01.mp4",
+    "combined": "04_FOOTAGE/SC06_MEMORY_ANIMATIC/sc02-sc06-review-v01.mp4"
+  },
+  "timing": {
+    "montage_seconds": 16,
+    "combined_expected_seconds": 66.625,
+    "current_time_continues_in_story": true,
+    "final_clock_reconciliation_pending": true,
+    "monochrome_is_previsualization_only": true
+  },
+  "actual": {
+    "standalone_seconds": 16,
+    "combined_seconds": 66.625,
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "mean_db": -32.2,
+    "peak_db": -4.4,
+    "decode_check": "passed"
+  }
+}
+

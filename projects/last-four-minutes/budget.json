@@ -4,9 +4,9 @@
   "scope": "Remaining production from user budget instruction; excludes earlier spending",
   "user_cap_credits": 2967,
   "starting_account_balance": 2967.13,
-  "spent_since_cap": 170,
-  "current_account_balance": 2797.13,
-  "remaining_authorized_budget": 2797,
+  "spent_since_cap": 198,
+  "current_account_balance": 2769.13,
+  "remaining_authorized_budget": 2769,
   "additional_purchase_authorized": false,
   "planning_reserve_for_finalization_and_repairs": 1000,
   "reserve_is_estimate_not_price_quote": true,
@@ -55,6 +55,76 @@
       "job_id": "a509238a-4720-4369-940c-983f55ac247b",
       "purpose": "SC05 12-second dishes dialogue, reusing SC04 final frame",
       "quoted_credits": 36
+    },
+    {
+      "job_id": "2acce270-9857-4581-a6ad-24afc49780f5",
+      "purpose": "SC06 age reference 0",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "cf0d5e60-4910-4f8e-92f1-7ffbe6617b70",
+      "purpose": "SC06 age reference 1",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "8864373f-d08d-4310-9ca9-3d5cbc702a5d",
+      "purpose": "SC06 age reference 2",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "538eda6b-dd69-4486-bd0f-f858be1ec1e4",
+      "purpose": "SC06 age reference 3",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "8cc979f5-7333-47a9-a51a-0c70b6496647",
+      "purpose": "SC06 memory still 4",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "deaa4f3c-ce56-4cd3-98de-b39a45d905fe",
+      "purpose": "SC06 memory still 5",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "5d75a20c-1c47-435e-8b88-e9c1e6c5b201",
+      "purpose": "SC06 memory still 6",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "550bdde8-42bc-40e4-8556-f27a89940776",
+      "purpose": "SC06 memory still 7",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "659b5311-898b-48d3-a6f4-db72d8220b12",
+      "purpose": "SC06 memory still 8",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "c713b755-cd5b-40b8-8fae-7bf29e57a641",
+      "purpose": "SC06 memory still 9",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "c7ba6622-48a1-4009-82dc-adf6d655d10a",
+      "purpose": "SC06 memory still 10",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "1e32b7e0-c114-4ddf-b20d-875d0c17abc7",
+      "purpose": "SC06 memory still 11",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "c912c6e4-f195-4de3-ad35-a6c57f3c7ce1",
+      "purpose": "SC06 memory still 12",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "fef1153d-4672-4670-8a05-dafe43325afc",
+      "purpose": "SC06 memory still 13",
+      "quoted_credits": 2
     }
   ],
   "rules": [
