@@ -4,9 +4,9 @@
   "scope": "Remaining production from user budget instruction; excludes earlier spending",
   "user_cap_credits": 2967,
   "starting_account_balance": 2967.13,
-  "spent_since_cap": 408,
-  "current_account_balance": 2559.13,
-  "remaining_authorized_budget": 2559,
+  "spent_since_cap": 456,
+  "current_account_balance": 2511.13,
+  "remaining_authorized_budget": 2511,
   "additional_purchase_authorized": false,
   "planning_reserve_for_finalization_and_repairs": 1000,
   "reserve_is_estimate_not_price_quote": true,
@@ -200,6 +200,11 @@
       "quoted_credits": 2,
       "job_id": "48ef8b49-6a52-4815-8160-50278dffb504",
       "purpose": "SC08 phone on table blank insert"
+    },
+    {
+      "job_id": "82abe0bd-7cd5-4163-9bcf-23ff9069b772",
+      "purpose": "SC08B 16-second Ken reply and mother denial",
+      "quoted_credits": 48
     }
   ],
   "rules": [

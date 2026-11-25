@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-24",
+  "job_id": "82abe0bd-7cd5-4163-9bcf-23ff9069b772",
+  "quoted_credits": 48,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 16,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "e7a4a6fa-57e3-4261-9c1f-61f67bf504db",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "641b8b6e-63fb-44b2-91d9-db3a4ccdb47a"
+      },
+      {
+        "role": "video",
+        "value": "80710d24-435c-4d71-ba27-d0844658562b"
+      }
+    ],
+    "prompt": "SC08B LAST FOUR MINUTES, Japanese live-action emotional short, 16-second CONTINUOUS medium close-up on the mother exactly continuing the starting image. The preceding line was mother asking 「あなたの？」 about her son's death notice. Do NOT repeat that line. The reference video supplies the same two actors' Japanese voices and identities, NOT its dialogue. Start image fixes composition: SAME 50-year-old Japanese mother, gray-streaked tied hair, beige cardigan over off-white shirt, blue-gray apron; Ken's yellow/magenta hoodie shoulder and jaw blurred in left foreground, mother in focus on right with kitchen and fridge behind. Warm soft window daylight from screen left. Keep spatial geometry, skin, natural age, costume exactly. Ken is the same Japanese man aged32 with blond layered hair. Mother is trying to reconcile the notice with her living son standing in front of her. Quiet denial, not horror acting.\n0.0–1.6 sec: Ken answers softly exactly 「……うん。」 in his established young adult male Japanese voice, from the left foreground. A small nod, minimal motion. Mother's lips stay closed while Ken speaks; her eyes stay on him.\n1.6–3.0: hold on mother's face as she processes his confirmation. One small head shake, not accepting it.\n3.0–5.7: Mother says exactly 「違う。だって、今……」. Quiet automatic disbelief. She looks at his living face on the word 今 and cannot finish. Not accusatory, no shouting.\n5.7–7.7: she stops, swallows, looks down toward the phone on the table below frame. One hand begins to reach only as far as the lower edge of frame, then hesitates; do not show a phone in her hand. No prop contact or pickup.\n7.7–10.3: Mother asks exactly 「これ、止められないの？」 still looking down, then searching Ken's face on the last syllables. Her voice becomes a little less steady but she is not yet crying.\n10.3–11.4: silence, Ken takes a short quiet breath.\n11.4–13.5: Ken answers exactly 「……変えられないって。」 in the SAME male voice, offscreen/blurred left foreground. Mother listens with mouth closed. Do not give this line to her.\n13.5–16: mother freezes her reaching hand, raises her eyes toward Ken again, tries to breathe normally. A fragile silence, no acceptance yet. Hold the living son's shoulder in foreground, no new action. End before touching his cheek or moving to sofa.\nNatural conversational pacing and Japanese lip sync. Exactly four utterances above in speaker order Ken/Mother/Mother/Ken, no extra dialogue. Keep camera on mother's reaction throughout; no cuts, reverse angles or zoom. Real subtle continuous motion, no still slide. Ordinary apartment room tone, soft clothing and breaths only. No music, notification voice, alarms, subtitles, countdown or overlay. The one smartphone remains screen-up on the tabletop out of this framing, untouched. No additional phones. No tears streaming, theatrical gasp, smile, embrace, medical flashback, death or collapse."
+  }
+}
