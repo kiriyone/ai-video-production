@@ -4,15 +4,17 @@
 
 - 制作者：Velichan
 - 更新：2026-11-25 / America/Chicago
-- 工程：冒頭から閉眼・メッセージまでの全編ラフを制作済み。現在は画角・切り替わり修正版 v04。
+- 工程：冒頭から閉眼・メッセージまでの全編ラフを制作済み。現在は冒頭の残り2か所を補正した v05。
 - 結末：母に感謝が届き、ケンの主観で母を見つめながら視界が閉じる。
 - 現在の全編尺：4分15.625秒。最初の04:00から閉眼・00:00まで実時間4分。
-- 前版v03：通知から閉眼まで実時間4分に調整。ユーザーから急な拡大縮小の指摘を受け、v04で画角の統一と切り替えの修正を実施。v04は試写待ち。
-- 次工程：v04の画角とつなぎの試写、音響・声の統一、英語字幕、高画質化、応募用マスター。
+- 前版v04：ユーザーは修正後を評価。全編19〜20秒、51〜52秒の2か所に残る跳びを指摘し、ほかの箇所は問題ないと確認。v05でその2本の画角だけを補正した。
+- 次工程：v05の2か所の試写、音響・声の統一、英語字幕、高画質化、応募用マスター。
 - 予算：累計896.75クレジット、実残高2,070.38。ユーザー上限内の残り2,070.25。追加購入なし。
 
 ## 最新の確認版・制作記録
 
+- [v05：全編19〜20秒・51〜52秒の修正](full-review-v05/review-v05.md)
+- [v05：変更範囲外の映像・音声の一致検査](full-review-v05/checks.json)
 - [v04：急な拡大縮小・二重に見える切り替わりの修正](full-review-v04/review-v04.md)
 - [v04：画角とフレーム単位の編集記録](full-review-v04/edit-audit.json)
 - [v04：音声一致とフレーム時刻の検査](full-review-v04/checks.json)
@@ -24,7 +26,7 @@
 - [v01：冒頭を含む最初の通し版](full-review-v01/full-review-v01.md)
 - [予算台帳](budget.md)
 
-動画本体はローカル制作フォルダー `video-projects/last-four-minutes/06_EDIT_DELIVERY/full-review-v04/` に保存。全編は `last-four-minutes-full-review-v04.mp4`、左v03・右v04の55秒比較は `continuity-before-after-v04.mp4`。GitHubには大容量動画を入れず、生成ID・指示・編集手順・検査結果を記録する。Higgsfieldの追加素材は既存プロジェクトの `04_FOOTAGE / TIMING_PICKUPS_V03` に保存済み。v04は追加生成なし。
+最新動画はローカル制作フォルダー `video-projects/last-four-minutes/06_EDIT_DELIVERY/full-review-v05/` に保存。全編は `last-four-minutes-full-review-v05.mp4`、修正した2か所の19秒抜粋は `two-fixes-review-v05.mp4`。v04以前も保存している。GitHubには大容量動画を入れず、生成ID・指示・編集手順・検査結果を記録する。Higgsfieldの追加素材は既存プロジェクトの `04_FOOTAGE / TIMING_PICKUPS_V03` に保存済み。v04・v05は追加生成なし。
 
 ## 企画・脚本資料
 

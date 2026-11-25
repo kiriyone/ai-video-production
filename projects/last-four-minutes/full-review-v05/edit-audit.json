@@ -1,0 +1,30 @@
+{
+  "base": "full-review-v04",
+  "modifiedParts": [
+    "R02",
+    "R04"
+  ],
+  "registration": "scale=1296:744:flags=lanczos,pad=1300:744:4:0,fillborders=left=4:mode=smear,crop=1280:720:0:0,setsar=1",
+  "intervals": [
+    {
+      "id": "R02",
+      "startFrame": 447,
+      "endFrame": 591,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 144
+    },
+    {
+      "id": "R04",
+      "startFrame": 1215,
+      "endFrame": 1357,
+      "sourceStartFrame": 0,
+      "sourceEndFrame": 142
+    }
+  ],
+  "audio": "v04 stream copied unchanged",
+  "allOtherParts": "original v04 encoded video packets reused",
+  "creditsSpent": 0,
+  "clockStartFrame": 159,
+  "zeroFrame": 5919,
+  "totalFrames": 6135
+}
