@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-24",
+  "timezone": "America/Chicago",
+  "folder_id": "80106f12-034c-43fa-a763-ba55b0785d20",
+  "starting_balance": 2603.13,
+  "quoted_credits": 44,
+  "video": {
+    "job_id": "414fa066-b540-4344-aab2-d0eee626d1cb",
+    "quoted_credits": 42,
+    "params": {
+      "model": "seedance_2_5",
+      "mode": "omni_reference",
+      "duration": 14,
+      "resolution": "480p",
+      "draft": true,
+      "generate_audio": true,
+      "aspect_ratio": "16:9",
+      "count": 1,
+      "folder_id": "80106f12-034c-43fa-a763-ba55b0785d20",
+      "medias": [
+        {
+          "role": "start_image",
+          "value": "16a9fa71-8e3f-441e-861f-11c070c25ae9"
+        },
+        {
+          "role": "video",
+          "value": "80710d24-435c-4d71-ba27-d0844658562b"
+        }
+      ],
+      "prompt": "SC08 LAST FOUR MINUTES. 14-second Japanese realistic dramatic film scene, continuing exactly the start frame, same two actors and modest apartment, same daylight and clothes, physical continuity. Reference video for the established mother's Japanese voice and both identities, do NOT repeat its dialogue. Ken blond Japanese 32-year-old yellow/magenta hoodie stands screen left. His 50-year-old Japanese mother in beige cardigan, blue-gray apron, gray-streaked tied hair stands behind table right. The single black smartphone now lies SCREEN UP on near-left tabletop, left of the cream mug; no one holds it. Keep this position. Tissue box on right. \n0–3 seconds: wide continuous shot, mother leans forward slightly and looks down toward phone on tabletop; Ken stays quiet. She is curious, not frightened yet. Only room tone. Hands at apron/waist, do not touch phone or conjure props.\nAt 3 seconds cut to a medium close-up of the SAME mother from the SAME side of the action line, slightly oblique, with existing kitchen behind and soft window daylight from screen left. No mirrored room. She looks down-left toward the phone below frame.\n3–5.5 seconds: she reads slowly and quietly, exactly 「最終通知……」. Japanese clear natural voice, restrained, initially just reading unfamiliar words.\n5.5–7.5: silent two-second realization. Brows draw together slightly, breath stops briefly. She notices her son's name on the unseen screen. Raise eyes gradually from phone to Ken offscreen LEFT.\n7.5–9.5: looking at Ken, she asks very softly exactly 「あなたの？」. Not angry, no melodramatic gasp, no tears yet. A mother asking if this really refers to her own son.\n9.5–14: hold on her worried searching face; glance down briefly then back toward Ken. No extra dialogue, no answer from Ken, no smile, no sobbing. Let her uncertainty linger. \nThe two spoken phrases form 「最終通知……あなたの？」 with a real silence of understanding between them. Natural synchronized lip movement. No narrator, notification voice, background music or alarms. Only her voice, breath, soft clothing and apartment room tone. Actual live motion, natural skin and hair; no still-image slideshow, freeze, age change or new person. No generated readable phone text, no subtitles, countdown overlay or split screen. A readable phone insert will be composited separately in editing. Preserve one phone on table. Do not show screen toward camera or pick it up."
+    }
+  },
+  "image": {
+    "job_id": "48ef8b49-6a52-4815-8160-50278dffb504",
+    "quoted_credits": 2,
+    "params": {
+      "prompt": "Film insert of the same single black smartphone lying SCREEN UP on the same warm worn brown wooden dining table from reference. Camera directly overhead looking straight down at the phone from mother's side of the table; portrait phone perfectly vertical in landscape 16:9 frame, top of phone toward top of image. Large phone occupying central 45 percent width and 88 percent image height. Plain matte dark charcoal screen, absolutely blank unlit, no text icons numbers wallpaper or reflection. Thin black bezel gently rounded corners, screen rectangle fully visible unobstructed. Soft natural daylight from left. Cream mug only partly visible at far right edge as context, no other items in main area. No hands fingers people sleeves or floating object. Real photographic insert, consistent wood grain and lighting with apartment reference. Precise screen lettering will be added later.",
+      "aspect_ratio": "16:9",
+      "reference_images": [
+        "16a9fa71-8e3f-441e-861f-11c070c25ae9"
+      ],
+      "resolution": "2k"
+    }
+  }
+}
