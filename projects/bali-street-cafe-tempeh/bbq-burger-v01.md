@@ -1,0 +1,5 @@
+# BBQ Tempeh Burger v01
+
+2026-11-25。今回のCMはフルサイズのBBQテンペバーガーに特化。参考写真2枚目の重ねたテンペと1枚目の暗い背景を文章で指定。実物190g袋は別途合成。Higgsfield 02_FOOD / 9:16 / GPT Image 2.6 / job 45006979-e9fe-49dd-bf5f-e1d2ceb224e7 / 生成完了・採用確認前。
+
+Vertical 9:16 editorial food photography for a Dallas tempeh commercial. One full-size American BBQ TEMPEH BURGER in three-quarter side view, lens at filling height. Two wide overlapping slabs cut from an intact soybean tempeh block span a toasted golden regular-size sesame bun. Stagger the slabs slightly; a narrow front cut edge shows a natural pale mosaic of soybean halves, broad top surfaces dark amber with a thin glossy mahogany barbecue glaze and crisp caramelized corners. Thin avocado on bottom, a little curly green lettuce and two thin red onion arcs above the tempeh. Filling dominates. Burger set slightly right on a matte charcoal counter, empty left foreground for a later real product-pack composite. Deep muted green background, directional warm window light, realistic generous burger proportions, tantalizing sharp focus. No dinner rolls or sliders, no ground patties, cheese, meat, signage, text, package or collage.
