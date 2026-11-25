@@ -1,0 +1,177 @@
+{
+  "duration": 230.45833333333334,
+  "overlap": 0.16666666666666666,
+  "scenes": [
+    {
+      "id": "SC01",
+      "source": "SC01_OPENING_TEST/sc01-take01-480p.mp4",
+      "start": 0,
+      "end": 6,
+      "duration": 6,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC02",
+      "source": "SC02_NOTIFICATION_TEST/sc02-dialogue-review-v01.mp4",
+      "start": 6,
+      "end": 18.625,
+      "duration": 12.625,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC03",
+      "source": "SC03_CANCEL_TEST/sc03-review-v01.mp4",
+      "start": 18.625,
+      "end": 28.625,
+      "duration": 10,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC04",
+      "source": "SC04_UNSPOKEN_TEST/sc04-review-v01.mp4",
+      "start": 28.625,
+      "end": 44.625,
+      "duration": 16,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC05",
+      "source": "SC05_DISHES_TEST/sc05-review-v01.mp4",
+      "start": 44.458333333333336,
+      "end": 56.458333333333336,
+      "duration": 12,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC06",
+      "source": "SC06_MEMORY_MOTION/sc06-motion-v02.mp4",
+      "start": 56.458333333333336,
+      "end": 72.45833333333334,
+      "duration": 16,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC07",
+      "source": "SC07_SHOW_PHONE_TEST/sc07-review-v01.mp4",
+      "start": 72.45833333333334,
+      "end": 86.45833333333334,
+      "duration": 14,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC08",
+      "source": "SC08_MOTHER_UNDERSTANDS_TEST/sc08-review-v01.mp4",
+      "start": 86.29166666666667,
+      "end": 100.29166666666667,
+      "duration": 14,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC08B",
+      "source": "SC08B_MOTHER_DENIAL_TEST/sc08b-review-v01.mp4",
+      "start": 100.125,
+      "end": 116.125,
+      "duration": 16,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC08C",
+      "source": "SC08C_STAY_WITH_ME_TEST/sc08c-review-v01.mp4",
+      "start": 115.95833333333333,
+      "end": 129.95833333333331,
+      "duration": 14,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC08DA",
+      "source": "SC08D_STOVE_TO_SOFA_TEST/part-A.mp4",
+      "start": 129.79166666666666,
+      "end": 139.79166666666666,
+      "duration": 10,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC08DB",
+      "source": "SC08D_STOVE_TO_SOFA_TEST/part-B.mp4",
+      "start": 139.79166666666666,
+      "end": 151.79166666666666,
+      "duration": 12,
+      "transition": "cut",
+      "audio": "original removed; quiet synthetic room-tone placeholder"
+    },
+    {
+      "id": "SC09",
+      "source": "SC09_FINDING_WORDS_TEST/sc09-review-v01.mp4",
+      "start": 151.79166666666666,
+      "end": 169.79166666666666,
+      "duration": 18,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC09B",
+      "source": "SC09B_IM_SCARED_TEST/sc09b-review-v01.mp4",
+      "start": 169.625,
+      "end": 181.625,
+      "duration": 12,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC10",
+      "source": "SC10_HOLDING_HANDS_TEST/sc10-review-v01.mp4",
+      "start": 181.625,
+      "end": 195.625,
+      "duration": 14,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "SC10B",
+      "source": "SC10B_WORDS_REACH_HER_TEST/sc10b-review-v01.mp4",
+      "start": 195.45833333333334,
+      "end": 209.45833333333334,
+      "duration": 14,
+      "transition": "4-frame dissolve",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "PHONE",
+      "source": "SC11_TIME_RUNS_OUT_TEST/phone-zero-v01.mp4",
+      "start": 209.45833333333334,
+      "end": 213.45833333333334,
+      "duration": 4,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "POV",
+      "source": "SC11_KEN_POV_ENDING/ken-pov-ending-v02.mp4",
+      "start": 213.45833333333334,
+      "end": 223.45833333333334,
+      "duration": 10,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    },
+    {
+      "id": "MESSAGE",
+      "source": "SC12_VIEWER_MESSAGE/message-card-v01.mp4",
+      "start": 223.45833333333334,
+      "end": 230.45833333333334,
+      "duration": 7,
+      "transition": "cut",
+      "audio": "original reviewed clip"
+    }
+  ]
+}

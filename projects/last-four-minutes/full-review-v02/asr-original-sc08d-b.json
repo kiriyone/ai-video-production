@@ -1,0 +1,11 @@
+{
+  "source_job_id": "11b2b2d0-a537-4f54-992d-5bed363f38f0",
+  "method": "faster-whisper small CPU int8, language ja, vad_filter true",
+  "note": "Machine transcription; final short fragment is uncertain. Not a human listening review.",
+  "segments": [
+    {"start": 0.21, "end": 3.21, "text": "そこにいるならお皿出して"},
+    {"start": 3.21, "end": 5.21, "text": "今時間ない"},
+    {"start": 5.21, "end": 8.21, "text": "いつもそうね"},
+    {"start": 8.21, "end": 10.21, "text": "け?"}
+  ]
+}
