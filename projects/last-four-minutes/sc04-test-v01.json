@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-24",
+  "image": {
+    "job_id": "5a55679c-78c3-461a-8b83-86818287155e",
+    "status": "completed",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_010935_5a55679c-78c3-461a-8b83-86818287155e.png"
+  },
+  "image_request": {
+    "model": "nano_banana_pro",
+    "resolution": "2k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "0b226405-aeae-4c64-9627-7d426e6f0edd",
+    "medias": [
+      {
+        "role": "image",
+        "value": "fc70684d-4e29-41eb-a3bc-553bdb3560a3"
+      },
+      {
+        "role": "image",
+        "value": "f70bd05a-87ea-4faf-822a-289188285e14"
+      }
+    ],
+    "prompt": "Continuity edit of reference1, keeping its exact fixed WIDE camera, apartment layout, sofa, single dining table with mug and tissue box, two chairs, kitchen, lighting, mother and Ken's exact clothes and positions. Reference2 only supplies Ken's current serious face expression and identity. Ken32 still seated screen left on sofa, crossed legs, both hands holding dark smartphone. Remove any smile; he is quietly anxious and about to gather courage to stand up. Mother50 in the kitchen screen right, gray-streaked hair tied back, same beige cardigan and blue-gray apron, has returned her attention to the saucepan at stove; her body and gaze are turned toward the stove, not looking at Ken, mouth closed. Preserve her same face, age and clothes. She does NOT know about the death notice. No tears, dramatic expressions, physical illness, new people or changed objects. Preserve unblocked walkway between sofa and kitchen: no new furniture. Exact same window daylight. No text, no subtitles, no phone UI, no collage. Photorealistic natural film frame."
+  },
+  "video": {
+    "job_id": "1559ebc1-7681-4c58-9fdb-f60f8c6e1a92",
+    "status": "completed",
+    "model": "seedance_2_5",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_011332_1559ebc1-7681-4c58-9fdb-f60f8c6e1a92.mp4"
+  },
+  "video_request": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 16,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "6a2e32c0-db4f-4ab1-b19a-bc6436551bb4",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "5a55679c-78c3-461a-8b83-86818287155e"
+      },
+      {
+        "role": "video",
+        "value": "0f4a6005-d135-4b59-b4e4-80a9c9d0e963"
+      }
+    ],
+    "prompt": "Single continuous 16-second locked wide shot, natural Japanese live-action domestic drama. START IMAGE determines exact room, furniture, wardrobe, lighting and framing throughout. Reference VIDEO supplies ONLY the SAME adult male Japanese Ken voice and SAME mother voice and identities; do not replay its dialogue or actions. Ken32 blond layered hair yellow/magenta hoodie sits screen left; mother50 gray-streaked tied hair beige cardigan blue-gray apron cooks screen right. Preserve clear aisle LEFT of dining table and chair. 0-3.2s Ken quietly uncrosses legs, transfers same dark smartphone to LEFT hand, stands and takes two SMALL steps through clear aisle toward kitchen, stopping LEFT of dining table, never passing through furniture, never reaching mother physically. Mother continues cooking until he addresses her. 3.2-3.9s Ken softly says ONLY 「母さん。」 (Kaasan). 4.2-4.6s mother stops her hands and turns face toward him, replies gently ONLY 「うん？」 (Un?). 5.0-6.2s Ken says ONLY 「俺、あと……」 (Ore, ato...) then his sentence dies unfinished. He cannot say that he is dying. 6.2-7.7s silence; mother remains attentive, giving him space. 7.7-8.5s mother asks softly ONLY 「どうした？」 (Doushita?). 8.5-10.3s meaningful silence, Ken tries to hold her gaze, cannot, then looks away, lowers phone beside LEFT thigh. 10.3-11.6s Ken quietly says ONLY 「……何でもない。」 (Nandemo nai). 11.6-13.4s mother studies his face with mild concern, NO speaking, no dismissive gesture; she is willing to listen. 13.4-16s she slowly turns attention back toward saucepan, Ken stays standing at same spot and takes a small breath. Restrained fear and shame, not sadness performed for camera. No crying, smiling, gasping, collapse, touching chest, hugging, shouting or additional words. One speaker at a time, accurate natural Japanese lip movement; listening person's mouth closed. Only five short spoken lines, faint kitchen room tone and clothing/footsteps. No phone voice, ringtone, ticking, music, narration, subtitles, readable screen or countdown overlay. Camera completely fixed, no cuts, reframing or zoom. Stable hands, phone, faces, clothing, chair/table geometry. Mother does NOT yet know the death notice."
+  },
+  "cost": {
+    "image": 2,
+    "video": 48,
+    "total": 50,
+    "balance_before": 2883.13,
+    "balance_after": 2833.13,
+    "spent_since_cap": 134
+  },
+  "verification": {
+    "spoken_content_verified": false,
+    "voice_continuity_verified": false,
+    "lip_sync_verified": false,
+    "sampled_frames": 16,
+    "visual_findings": [
+      "Ken uncrosses legs and stands; remains close to sofa. Requested two-step approach not clearly achieved.",
+      "Mother turns toward Ken and remains attentive in sampled frames through end; requested return to pot not achieved.",
+      "No conspicuous furniture crossing seen in 1-second sampled frames; not exhaustive frame-by-frame inspection.",
+      "Phone lowered toward side near end.",
+      "Dialogue, exact timing, voice continuity and lip sync require playback review; silence measurements do not verify spoken words."
+    ]
+  },
+  "approval": {
+    "sc03_user_accepted": true,
+    "sc04_status": "draft delivered, awaiting user playback review"
+  },
+  "actual": {
+    "source_seconds": 16.041667,
+    "source_resolution": "854x480",
+    "fps": 24,
+    "standalone_seconds": 16,
+    "combined_seconds": 38.625,
+    "render_resolution": "1280x720 (upscaled draft)",
+    "source_mean_db": -30.7,
+    "source_peak_db": -4.5
+  },
+  "outputs": {
+    "standalone": "04_FOOTAGE/SC04_UNSPOKEN_TEST/sc04-review-v01.mp4",
+    "combined": "04_FOOTAGE/SC04_UNSPOKEN_TEST/sc02-sc04-review-v01.mp4"
+  }
+}
+

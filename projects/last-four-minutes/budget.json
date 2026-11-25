@@ -4,9 +4,9 @@
   "scope": "Remaining production from user budget instruction; excludes earlier spending",
   "user_cap_credits": 2967,
   "starting_account_balance": 2967.13,
-  "spent_since_cap": 84,
-  "current_account_balance": 2883.13,
-  "remaining_authorized_budget": 2883,
+  "spent_since_cap": 134,
+  "current_account_balance": 2833.13,
+  "remaining_authorized_budget": 2833,
   "additional_purchase_authorized": false,
   "planning_reserve_for_finalization_and_repairs": 1000,
   "reserve_is_estimate_not_price_quote": true,
@@ -40,6 +40,16 @@
       "job_id": "22c3f773-5378-4a4c-b927-3fd2e8387d74",
       "purpose": "SC03 10-second cancellation dialogue",
       "quoted_credits": 30
+    },
+    {
+      "job_id": "5a55679c-78c3-461a-8b83-86818287155e",
+      "purpose": "SC04 wide starting image, mother cooking",
+      "quoted_credits": 2
+    },
+    {
+      "job_id": "1559ebc1-7681-4c58-9fdb-f60f8c6e1a92",
+      "purpose": "SC04 16-second unfinished confession dialogue",
+      "quoted_credits": 48
     }
   ],
   "rules": [
@@ -50,3 +60,4 @@
     "User cap is 2967.00, not account balance 2967.13."
   ]
 }
+
