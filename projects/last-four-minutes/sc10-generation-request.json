@@ -1,0 +1,26 @@
+{
+  "job_id": "26e11d38-2899-48f9-b84c-01e90df4401e",
+  "quoted_credits": 42,
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "duration": 14,
+    "resolution": "480p",
+    "draft": true,
+    "generate_audio": true,
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "4c48ffa4-e92a-4332-a8df-b2c0c4c1c05f",
+    "medias": [
+      {
+        "role": "start_image",
+        "value": "3186ef80-b652-47e3-a577-4a54c6f42203"
+      },
+      {
+        "role": "audio",
+        "value": "c611e794-24b1-4475-aa3a-a48130e00fc1"
+      }
+    ],
+    "prompt": "SC10-A LAST FOUR MINUTES Japanese live-action film, 14 seconds. Continue exact starting frame. Same Japanese Ken32 blond yellow/magenta hoodie white T silver chain and jeans LEFT, mother50 gray-streaked tied hair beige cardigan bluegray apron RIGHT. Same gray sofa against left window wall, daylight, faces and wardrobe. FIXED medium two-shot includes BOTH FACES and adjacent hands on their laps, keep visible throughout; no cuts, pans or zooms. Mother is responding to Ken's previous admission of fear. Ken speaks NO WORDS in this clip. Audio reference for mature female mother's voice and room tone ONLY; do not repeat reference dialogue.\n0–1s mother looks at Ken, scared herself but present. 1–2s MOTHER ONLY says softly 「うん。」 (Un.) Small once-only nod, no confident smile.\n2–3s she looks down briefly at his hand. Two adjacent hands are separate at beginning: Ken's LEFT hand in yellow sleeve palm-down on his left thigh near her; mother's RIGHT hand in beige sleeve on her own right thigh near him. Other hands remain on their own outer thighs.\n3–6s ONE slow simple continuous gesture: mother lifts only her RIGHT hand, reaches across the small gap toward Ken's LEFT hand on his thigh, gently lays her palm over the back of his hand and lightly curls fingers around its outer edge. Show the actual approach and contact; no instant appearance of joined hands. Ken's hand stays palm-down supported on his thigh, no wrist twisting, interlacing fingers or handshake. Mother's left hand stays in her own lap. Exactly TWO hands involved in contact, each attached to correct sleeve, normal anatomy, no added fingers, extra limbs, merged wrists, jitter or disappearances. Mother does not drag Ken's arm or lift his hand.\n6–7s once contact settled, she returns eyes to Ken. 7–9.5s MOTHER ONLY quietly says 「ここにいるよ。」 (Koko ni iru yo.) Everyday intimate Japanese, low steady voice but not a whisper or dramatic proclamation. She is assuring her presence, not promising survival. Correct lip sync, no other dialogue.\n9.5–14s keep her hand resting around his hand without further gesture. Ken looks from their joined hands back toward mother, his shallow breath eases a little; fear is still there. Mouth closed, no thanks yet, no smile of relief, no collapse or death. Mother holds gaze, worried, no tears streaming, no nodding loop. End with the SAME joined hands clearly visible, mother right covering Ken left on his thigh, and both faces visible for next scene. No hug, stroking, second hand added, hand release or standing. No smartphone or props on sofa or laps, phone remains on dining table offscreen. No text, timer, subtitles, music, beeps or voiceover. Natural cloth contact, breath, quiet apartment room tone, realistic continuous body motion."
+  }
+}

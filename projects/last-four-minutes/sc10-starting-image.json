@@ -1,0 +1,19 @@
+{
+  "job_id": "3186ef80-b652-47e3-a577-4a54c6f42203",
+  "quoted_credits": 2,
+  "params": {
+    "model": "nano_banana_2",
+    "resolution": "2k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "folder_id": "4c48ffa4-e92a-4332-a8df-b2c0c4c1c05f",
+    "medias": [
+      {
+        "role": "image",
+        "value": "1e7ac6aa-b3c0-4d26-a01d-9ea31e6c5179"
+      }
+    ],
+    "prompt": "Continuity film frame. Use exact reference actors, facial expressions, clothes, room and camera direction. Reframe slightly wider and lower to show their heads AND hands resting on their own thighs, as a medium seated two-shot. Keep sofa BACK against LEFT WINDOW WALL, same 3/4 side angle, never rotate sofa into frontal portrait. Ken32 Japanese blond man in yellow magenta hoodie white shirt chain dark jeans on screen LEFT/near cushion. Mother50 Japanese gray-streaked tied hair, beige cardigan offwhite shirt bluegray apron on screen RIGHT/far cushion. Faces remain recognizable and equally readable. Mother looking at Ken concerned, Ken vulnerable, both mouths closed. They have NOT touched yet. Ken's LEFT hand lies relaxed palm DOWN on his left thigh, nearest mother; mother's RIGHT hand rests separately on her own right thigh nearest Ken, about 20cm away. Show these TWO adjacent hands clearly with normal five-finger anatomy, empty, no overlap. Ken's other right hand rests on his other thigh, mother's other left hand on her own other thigh. No extra hands. Both wrists connected naturally to appropriate sleeves. Preserve original shirt, apron, blond hair, gray hair, window-light, cream wall and door. No phone, rectangular object, mug or other prop on sofa, laps or hands. The phone is elsewhere offscreen on dining table. No smiles, touching, handholding yet, crying, subtitles or timer. Realistic natural skin, modest everyday Japanese home, exact film continuity."
+  },
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3MWSCps0p62bmHjscdjaGWcafIT/hf_20261125_042124_3186ef80-b652-47e3-a577-4a54c6f42203.png"
+}
